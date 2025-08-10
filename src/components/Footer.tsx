@@ -9,7 +9,7 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           {/* Company Info */}
           <div className="space-y-4">
-            <h3 className="font-medium">ShopCompare</h3>
+            <h3 className="font-medium">ShopBest</h3>
             <p className="text-sm text-muted-foreground">
               Find the best deals across multiple platforms. Compare prices and make smarter shopping decisions.
             </p>
@@ -54,7 +54,7 @@ export function Footer() {
             <div className="space-y-2 text-sm">
               <div className="flex items-center gap-2">
                 <Mail className="h-4 w-4 text-muted-foreground" />
-                <span className="text-muted-foreground">support@shopcompare.com</span>
+                <span className="text-muted-foreground">support@shopbest.com</span>
               </div>
               <div className="flex items-center gap-2">
                 <Phone className="h-4 w-4 text-muted-foreground" />
@@ -67,7 +67,7 @@ export function Footer() {
         <Separator className="my-6" />
         
         <div className="flex flex-col sm:flex-row justify-between items-center gap-4 text-sm text-muted-foreground">
-          <p>&copy; 2025 ShopCompare. All rights reserved.</p>
+          <p>&copy; 2025 ShopBest. All rights reserved.</p>
           <p>Made with ❤️ for smart shoppers</p>
         </div>
       </div>

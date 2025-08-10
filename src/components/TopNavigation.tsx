@@ -5,15 +5,15 @@ import { Input } from "./ui/input";
 export function TopNavigation() {
   return (
     <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
-      <div className="container flex h-16 items-center justify-between px-5">
+      <div className="flex h-16 items-center px-5 w-full">
         {/* Logo and Brand */}
-        <div className="flex items-center gap-2">
+        <div className="gap-2 flex flex-row">
           <ShoppingBag className="h-8 w-8 text-primary" />
-          <span className="text-xl font-medium">ShopCompare</span>
+          <span className="text-xl font-medium">ShopBest</span>
         </div>
 
         {/* Search Bar */}
-        <div className="flex-1 max-w-md mx-8">
+        <div className="ml-24 max-w-md">
           <div className="relative">
             <Search className="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" />
             <Input
@@ -24,7 +24,7 @@ export function TopNavigation() {
         </div>
 
         {/* Sign In Button */}
-        <Button variant="outline" className="flex items-center gap-2">
+        <Button variant="outline" className="ml-auto gap-2">
           <User className="h-4 w-4" />
           Sign In
         </Button>
