@@ -2,9 +2,10 @@
 A platform which enables you to search and compare goods from different platform
 
 ## Installation  
-```bash
+```
 npm install
 npm start
+```
 
 ## Update
 2025-8-9: craete the whole layout UI/UX and react component using
