@@ -1,0 +1,78 @@
+[
+  {
+    "id": "1",
+    "name": "Apple iPhone 15 Pro - 128GB Natural Titanium",
+    "price": "$999.00",
+    "originalPrice": "$1,199.00",
+    "brand": "Apple",
+    "rating": 4.8,
+    "reviewCount": 2847,
+    "platform": "Amazon",
+    "platformLogo": "https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?w=32&h=32&fit=crop&crop=center",
+    "image": "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?w=400&h=300&fit=crop&crop=center",
+    "discount": 17
+  },
+  {
+    "id": "2",
+    "name": "Sony WH-1000XM5 Wireless Noise Canceling Headphones",
+    "price": "$349.99",
+    "originalPrice": "$399.99",
+    "brand": "Sony",
+    "rating": 4.7,
+    "reviewCount": 1253,
+    "platform": "Best Buy",
+    "platformLogo": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=32&h=32&fit=crop&crop=center",
+    "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=400&h=300&fit=crop&crop=center",
+    "discount": 13
+  },
+  {
+    "id": "3",
+    "name": "Nike Air Max 270 Men's Running Shoes",
+    "price": "$150.00",
+    "brand": "Nike",
+    "rating": 4.5,
+    "reviewCount": 892,
+    "platform": "Nike",
+    "platformLogo": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=32&h=32&fit=crop&crop=center",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400&h=300&fit=crop&crop=center"
+  },
+  {
+    "id": "4",
+    "name": "Samsung 65\" QLED 4K Smart TV",
+    "price": "$1,299.99",
+    "originalPrice": "$1,499.99",
+    "brand": "Samsung",
+    "rating": 4.6,
+    "reviewCount": 567,
+    "platform": "Walmart",
+    "platformLogo": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=32&h=32&fit=crop&crop=center",
+    "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=400&h=300&fit=crop&crop=center",
+    "discount": 13
+  },
+  {
+    "id": "5",
+    "name": "MacBook Air M2 - 13.6\" - 256GB",
+    "price": "$1,099.00",
+    "originalPrice": "$1,199.00",
+    "brand": "Apple",
+    "rating": 4.9,
+    "reviewCount": 1654,
+    "platform": "Apple",
+    "platformLogo": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=32&h=32&fit=crop&crop=center",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400&h=300&fit=crop&crop=center",
+    "discount": 8
+  },
+  {
+    "id": "6",
+    "name": "Instant Pot Duo 7-in-1 Electric Pressure Cooker",
+    "price": "$79.95",
+    "originalPrice": "$99.95",
+    "brand": "Instant Pot",
+    "rating": 4.4,
+    "reviewCount": 3421,
+    "platform": "Target",
+    "platformLogo": "https://images.unsplash.com/photo-1596464716127-f2a82984de30?w=32&h=32&fit=crop&crop=center",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop&crop=center",
+    "discount": 20
+  }
+]
