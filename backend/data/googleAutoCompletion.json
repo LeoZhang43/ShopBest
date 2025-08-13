@@ -1,0 +1,113 @@
+{
+  "search_metadata": {
+    "id": "689c0378d10c6a51d83b39a7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/b31b8a5267ed85c6/689c0378d10c6a51d83b39a7.json",
+    "created_at": "2025-08-13 03:16:08 UTC",
+    "processed_at": "2025-08-13 03:16:08 UTC",
+    "google_autocomplete_url": "https://www.google.com/complete/search?q=coffee&client=chrome&dpr=1",
+    "raw_html_file": "https://serpapi.com/searches/b31b8a5267ed85c6/689c0378d10c6a51d83b39a7.html",
+    "prettify_html_file": "https://serpapi.com/searches/b31b8a5267ed85c6/689c0378d10c6a51d83b39a7.prettify",
+    "total_time_taken": 0.17
+  },
+  "search_parameters": {
+    "engine": "google_autocomplete",
+    "q": "coffee"
+  },
+  "search_information": {
+    "autocomplete_results_state": "Showing completion results."
+  },
+  "suggestions": [
+    {
+      "value": "coffee near me",
+      "relevance": 1250,
+      "type": "QUERY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&q=coffee+near+me"
+    },
+    {
+      "value": "coffee shops near me",
+      "relevance": 800,
+      "type": "QUERY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&q=coffee+shops+near+me"
+    },
+    {
+      "value": "coffee shop",
+      "relevance": 601,
+      "type": "QUERY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&q=coffee+shop"
+    },
+    {
+      "value": "coffee table",
+      "relevance": 600,
+      "type": "QUERY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&q=coffee+table"
+    },
+    {
+      "value": "coffee bean",
+      "relevance": 560,
+      "type": "QUERY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&q=coffee+bean"
+    },
+    {
+      "value": "coffee maker",
+      "relevance": 559,
+      "type": "QUERY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&q=coffee+maker"
+    },
+    {
+      "value": "coffee places near me",
+      "relevance": 558,
+      "type": "QUERY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&q=coffee+places+near+me"
+    },
+    {
+      "value": "coffee grinder",
+      "relevance": 557,
+      "type": "QUERY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&q=coffee+grinder"
+    },
+    {
+      "value": "coffee machine",
+      "relevance": 556,
+      "type": "QUERY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&q=coffee+machine"
+    },
+    {
+      "value": "coffee cake recipe",
+      "relevance": 555,
+      "type": "QUERY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&q=coffee+cake+recipe"
+    },
+    {
+      "value": "coffee creamer",
+      "relevance": 554,
+      "type": "QUERY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&q=coffee+creamer"
+    },
+    {
+      "value": "coffee cake",
+      "relevance": 553,
+      "type": "QUERY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&q=coffee+cake"
+    },
+    {
+      "value": "coffee meets bagel",
+      "relevance": 552,
+      "type": "QUERY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&q=coffee+meets+bagel"
+    },
+    {
+      "value": "coffee bar",
+      "relevance": 551,
+      "type": "QUERY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&q=coffee+bar"
+    },
+    {
+      "value": "coffee bean and tea leaf",
+      "relevance": 550,
+      "type": "QUERY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&q=coffee+bean+and+tea+leaf"
+    }
+  ],
+  "verbatim_relevance": 1300
+}

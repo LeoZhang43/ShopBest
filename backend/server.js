@@ -13,9 +13,8 @@ app.get("/", (req, res) => {
   res.send("API is running...");
 });
 
-// New route for Amazon search
 app.get("/api/amazon", async (req, res) => {
-  const query = req.query.q; // from frontend ?q=keyword
+  const query = req.query.q;
   console.log(query);
   if (!query) {
     return res.status(400).json({ error: "Query parameter 'q' is required" });

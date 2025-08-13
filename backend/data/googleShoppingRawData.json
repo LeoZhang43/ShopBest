@@ -1,0 +1,1296 @@
+{
+  "search_metadata": {
+    "id": "689bcf4d7af899daec5a2943",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/6e6c1be91d205aa8/689bcf4d7af899daec5a2943.json",
+    "created_at": "2025-08-12 23:33:33 UTC",
+    "processed_at": "2025-08-12 23:33:33 UTC",
+    "google_shopping_url": "https://www.google.com/search?udm=28&q=Coffee&hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/6e6c1be91d205aa8/689bcf4d7af899daec5a2943.html",
+    "total_time_taken": 1.28
+  },
+  "search_parameters": {
+    "engine": "google_shopping",
+    "q": "Coffee",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "shopping_results_state": "Results for exact spelling",
+    "query_displayed": "Coffee"
+  },
+  "filters": [
+    {
+      "input_type": "link_with_icon",
+      "options": [
+        {
+          "text": "Nearby",
+          "shoprs": "CAEYAyoGY29mZmVlMgwIAxIGTmVhcmJ5GAJYt8sfYAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=Coffee+nearby&shoprs=CAEYAyoGY29mZmVlMgwIAxIGTmVhcmJ5GAJYt8sfYAI"
+        },
+        {
+          "text": "Get it fast",
+          "shoprs": "CAESDZoBCgoIEAM4AUAFSAEYFCoGY29mZmVlMiQIFBILR2V0IGl0IGZhc3QiDZoBCgoIEAM4AUAFSAEqBBABGAFgAg",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=coffee&shoprs=CAESDZoBCgoIEAM4AUAFSAEYFCoGY29mZmVlMiQIFBILR2V0IGl0IGZhc3QiDZoBCgoIEAM4AUAFSAEqBBABGAFgAg"
+        },
+        {
+          "text": "On sale",
+          "shoprs": "CAESBEoCGAEYBioGY29mZmVlMhMIBhIHT24gc2FsZRgCIgRKAhgBWLfLH2AC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=Coffee+sale&shoprs=CAESBEoCGAEYBioGY29mZmVlMhMIBhIHT24gc2FsZRgCIgRKAhgBWLfLH2AC"
+        },
+        {
+          "text": "Small business",
+          "shoprs": "CAESAmoAGBYqBmNvZmZlZTIcCBYSDlNtYWxsIGJ1c2luZXNzIgJqACoEEAEYAWAC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=coffee&shoprs=CAESAmoAGBYqBmNvZmZlZTIcCBYSDlNtYWxsIGJ1c2luZXNzIgJqACoEEAEYAWAC"
+        }
+      ]
+    },
+    {
+      "type": "Type",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Whole Bean",
+          "shoprs": "CAEYASoGY29mZmVlMhoIARIKV2hvbGUgQmVhbjoKCO7-OBDx_jgwAli3yx9gAg",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=whole+bean+coffee&shoprs=CAEYASoGY29mZmVlMhoIARIKV2hvbGUgQmVhbjoKCO7-OBDx_jgwAli3yx9gAg"
+        },
+        {
+          "text": "Ground",
+          "shoprs": "CAEYASoGY29mZmVlMhYIARIGR3JvdW5kOgoI7v44EO_-ODACWLfLH2AC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=ground+coffee&shoprs=CAEYASoGY29mZmVlMhYIARIGR3JvdW5kOgoI7v44EO_-ODACWLfLH2AC"
+        },
+        {
+          "text": "Instant",
+          "shoprs": "CAEYASoGY29mZmVlMhcIARIHSW5zdGFudDoKCO7-OBDw_jgwAli3yx9gAg",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=instant+coffee&shoprs=CAEYASoGY29mZmVlMhcIARIHSW5zdGFudDoKCO7-OBDw_jgwAli3yx9gAg"
+        },
+        {
+          "text": "Ready-to-Drink",
+          "shoprs": "CAEYASoGY29mZmVlMh4IARIOUmVhZHktdG8tRHJpbms6Cgju_jgQ8_44MAJYt8sfYAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=ready-to-drink+coffee&shoprs=CAEYASoGY29mZmVlMh4IARIOUmVhZHktdG8tRHJpbms6Cgju_jgQ8_44MAJYt8sfYAI"
+        }
+      ]
+    },
+    {
+      "type": "Product Rating",
+      "input_type": "link",
+      "options": [
+        {
+          "text": "4 and up",
+          "shoprs": "CAESBWIDCJADGB4qBmNvZmZlZTIVCB4SCDQgYW5kIHVwIgViAwiQA0AEYAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=Coffee&shoprs=CAESBWIDCJADGB4qBmNvZmZlZTIVCB4SCDQgYW5kIHVwIgViAwiQA0AEYAI"
+        }
+      ]
+    },
+    {
+      "type": "Features",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Pod",
+          "shoprs": "CAEYASoGY29mZmVlMhMIARIDUG9kOgoI-5xlEPycZTADWLfLH2AC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=pod+coffee&shoprs=CAEYASoGY29mZmVlMhMIARIDUG9kOgoI-5xlEPycZTADWLfLH2AC"
+        },
+        {
+          "text": "Caffeine-free",
+          "shoprs": "CAEYASoGY29mZmVlMh8IARINQ2FmZmVpbmUtZnJlZToMCKDxigEQofGKATADWLfLH2AC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=caffeine-free+coffee&shoprs=CAEYASoGY29mZmVlMh8IARINQ2FmZmVpbmUtZnJlZToMCKDxigEQofGKATADWLfLH2AC"
+        },
+        {
+          "text": "Kosher",
+          "shoprs": "CAEYASoGY29mZmVlMhgIARIGS29zaGVyOgwI8d-HARDy34cBMANYt8sfYAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=kosher+coffee&shoprs=CAEYASoGY29mZmVlMhgIARIGS29zaGVyOgwI8d-HARDy34cBMANYt8sfYAI"
+        },
+        {
+          "text": "Vegan",
+          "shoprs": "CAEYASoGY29mZmVlMhcIARIFVmVnYW46DAjCvYcBEMO9hwEwA1i3yx9gAg",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=vegan+coffee&shoprs=CAEYASoGY29mZmVlMhcIARIFVmVnYW46DAjCvYcBEMO9hwEwA1i3yx9gAg"
+        }
+      ]
+    },
+    {
+      "type": "Size",
+      "input_type": "link",
+      "options": [
+        {
+          "text": "Under 12 oz",
+          "shoprs": "CAESESoPCP6cZRIJEQAAAGC-xdU_GAEqBmNvZmZlZTIwCAESC1VuZGVyIDEyIG96IhEqDwj-nGUSCREAAABgvsXVPyoCGAE6CAj-nGUQADAGWLfLH2AC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=under+12+oz+coffee&shoprs=CAESESoPCP6cZRIJEQAAAGC-xdU_GAEqBmNvZmZlZTIwCAESC1VuZGVyIDEyIG96IhEqDwj-nGUSCREAAABgvsXVPyoCGAE6CAj-nGUQADAGWLfLH2AC"
+        },
+        {
+          "text": "12 oz – 2 lb",
+          "shoprs": "CAESGioYCP6cZRISCQAAAGC-xdU_EQAAAECoB-0_GAEqBmNvZmZlZTJLCAESDjEyIG96IOKAkyAyIGxiIhoqGAj-nGUSEgkAAABgvsXVPxEAAABAqAftPyoRCg0xMiBveiB0byAyIGxiGAE6CAj-nGUQADAGWLfLH2AC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=12+oz+to+2+lb+coffee&shoprs=CAESGioYCP6cZRISCQAAAGC-xdU_EQAAAECoB-0_GAEqBmNvZmZlZTJLCAESDjEyIG96IOKAkyAyIGxiIhoqGAj-nGUSEgkAAABgvsXVPxEAAABAqAftPyoRCg0xMiBveiB0byAyIGxiGAE6CAj-nGUQADAGWLfLH2AC"
+        },
+        {
+          "text": "2 – 5 lb",
+          "shoprs": "CAESGioYCP6cZRISCQAAAECoB-0_EQAAAEDJJAJAGAEqBmNvZmZlZTJGCAESCjIg4oCTIDUgbGIiGioYCP6cZRISCQAAAECoB-0_EQAAAEDJJAJAKhAKDDIgbGIgdG8gNSBsYhgBOggI_pxlEAAwBli3yx9gAg",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=2+lb+to+5+lb+coffee&shoprs=CAESGioYCP6cZRISCQAAAECoB-0_EQAAAEDJJAJAGAEqBmNvZmZlZTJGCAESCjIg4oCTIDUgbGIiGioYCP6cZRISCQAAAECoB-0_EQAAAEDJJAJAKhAKDDIgbGIgdG8gNSBsYhgBOggI_pxlEAAwBli3yx9gAg"
+        },
+        {
+          "text": "Over 5 lb",
+          "shoprs": "CAESESoPCP6cZRIJCQAAAEDJJAJAGAEqBmNvZmZlZTIuCAESCU92ZXIgNSBsYiIRKg8I_pxlEgkJAAAAQMkkAkAqAhgBOggI_pxlEAAwBli3yx9gAg",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=over+5+lb+coffee&shoprs=CAESESoPCP6cZRIJCQAAAEDJJAJAGAEqBmNvZmZlZTIuCAESCU92ZXIgNSBsYiIRKg8I_pxlEgkJAAAAQMkkAkAqAhgBOggI_pxlEAAwBli3yx9gAg"
+        }
+      ]
+    },
+    {
+      "type": "Container Type",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Bag",
+          "shoprs": "CAEYASoGY29mZmVlMhMIARIDQmFnOgoIgZ1lEISdZTAAWLfLH2AC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=bag+coffee&shoprs=CAEYASoGY29mZmVlMhMIARIDQmFnOgoIgZ1lEISdZTAAWLfLH2AC"
+        },
+        {
+          "text": "Can",
+          "shoprs": "CAEYASoGY29mZmVlMhMIARIDQ2FuOgoIgZ1lEIadZTAAWLfLH2AC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=can+coffee&shoprs=CAEYASoGY29mZmVlMhMIARIDQ2FuOgoIgZ1lEIadZTAAWLfLH2AC"
+        },
+        {
+          "text": "Canister",
+          "shoprs": "CAEYASoGY29mZmVlMhgIARIIQ2FuaXN0ZXI6CgiBnWUQgp1lMABYt8sfYAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=canister+coffee&shoprs=CAEYASoGY29mZmVlMhgIARIIQ2FuaXN0ZXI6CgiBnWUQgp1lMABYt8sfYAI"
+        }
+      ]
+    },
+    {
+      "type": "Price",
+      "input_type": "price_range",
+      "options": [
+        {
+          "text": "Under $15",
+          "shoprs": "CAESDRILEQAAAAA4nGxBGAEYBSoGY29mZmVlMiIIBRIJVW5kZXIgJDE1GAIiDRILEQAAAAA4nGxBGAEqAhgBWLfLH2AC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=Coffee+under+%2415&shoprs=CAESDRILEQAAAAA4nGxBGAEYBSoGY29mZmVlMiIIBRIJVW5kZXIgJDE1GAIiDRILEQAAAAA4nGxBGAEqAhgBWLfLH2AC"
+        },
+        {
+          "text": "$15 - $25",
+          "shoprs": "CAESFhIUCQAAAAA4nGxBEQAAAACE13dBGAEYBSoGY29mZmVlMisIBRIJJDE1IC0gJDI1GAIiFhIUCQAAAAA4nGxBEQAAAACE13dBGAEqAhgBWLfLH2AC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=Coffee+between+%2415+and+%2425&shoprs=CAESFhIUCQAAAAA4nGxBEQAAAACE13dBGAEYBSoGY29mZmVlMisIBRIJJDE1IC0gJDI1GAIiFhIUCQAAAAA4nGxBEQAAAACE13dBGAEqAhgBWLfLH2AC"
+        },
+        {
+          "text": "$25 - $50",
+          "shoprs": "CAESFhIUCQAAAACE13dBEQAAAACE14dBGAEYBSoGY29mZmVlMisIBRIJJDI1IC0gJDUwGAIiFhIUCQAAAACE13dBEQAAAACE14dBGAEqAhgBWLfLH2AC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=Coffee+between+%2425+and+%2450&shoprs=CAESFhIUCQAAAACE13dBEQAAAACE14dBGAEYBSoGY29mZmVlMisIBRIJJDI1IC0gJDUwGAIiFhIUCQAAAACE13dBEQAAAACE14dBGAEqAhgBWLfLH2AC"
+        },
+        {
+          "text": "Over $50",
+          "shoprs": "CAESDRILCQAAAACE14dBGAEYBSoGY29mZmVlMiEIBRIIT3ZlciAkNTAYAiINEgsJAAAAAITXh0EYASoCGAFYt8sfYAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=Coffee+over+%2450&shoprs=CAESDRILCQAAAACE14dBGAEYBSoGY29mZmVlMiEIBRIIT3ZlciAkNTAYAiINEgsJAAAAAITXh0EYASoCGAFYt8sfYAI"
+        }
+      ]
+    },
+    {
+      "type": "Stores",
+      "input_type": "link",
+      "options": [
+        {
+          "text": "Target",
+          "shoprs": "CAEYAioGY29mZmVlMgoIAhIGVGFyZ2V0WLfLH2AC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=target+coffee&shoprs=CAEYAioGY29mZmVlMgoIAhIGVGFyZ2V0WLfLH2AC"
+        },
+        {
+          "text": "Walmart",
+          "shoprs": "CAEYAioGY29mZmVlMgsIAhIHV2FsbWFydFi3yx9gAg",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=walmart+coffee&shoprs=CAEYAioGY29mZmVlMgsIAhIHV2FsbWFydFi3yx9gAg"
+        },
+        {
+          "text": "Bass Pro Shops",
+          "shoprs": "CAEYAioGY29mZmVlMhIIAhIOQmFzcyBQcm8gU2hvcHNYt8sfYAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=bass+pro+shops+coffee&shoprs=CAEYAioGY29mZmVlMhIIAhIOQmFzcyBQcm8gU2hvcHNYt8sfYAI"
+        },
+        {
+          "text": "Cabela's",
+          "shoprs": "CAEYAioGY29mZmVlMgwIAhIIQ2FiZWxhJ3NYt8sfYAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=cabela%27s+coffee&shoprs=CAEYAioGY29mZmVlMgwIAhIIQ2FiZWxhJ3NYt8sfYAI"
+        }
+      ]
+    },
+    {
+      "type": "Count",
+      "input_type": "link",
+      "options": [
+        {
+          "text": "Under 12 count",
+          "shoprs": "CAESESoPCICdZRIJEQAAAAAAAChAGAEqBmNvZmZlZTIzCAESDlVuZGVyIDEyIGNvdW50IhEqDwiAnWUSCREAAAAAAAAoQCoCGAE6CAiAnWUQADAGWLfLH2AC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=under+12+count+coffee&shoprs=CAESESoPCICdZRIJEQAAAAAAAChAGAEqBmNvZmZlZTIzCAESDlVuZGVyIDEyIGNvdW50IhEqDwiAnWUSCREAAAAAAAAoQCoCGAE6CAiAnWUQADAGWLfLH2AC"
+        },
+        {
+          "text": "12 – 24 count",
+          "shoprs": "CAESGioYCICdZRISCQAAAAAAAChAEQAAAAAAADhAGAEqBmNvZmZlZTJTCAESDzEyIOKAkyAyNCBjb3VudCIaKhgIgJ1lEhIJAAAAAAAAKEARAAAAAAAAOEAqGAoUMTIgY291bnQgdG8gMjQgY291bnQYAToICICdZRAAMAZYt8sfYAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=12+count+to+24+count+coffee&shoprs=CAESGioYCICdZRISCQAAAAAAAChAEQAAAAAAADhAGAEqBmNvZmZlZTJTCAESDzEyIOKAkyAyNCBjb3VudCIaKhgIgJ1lEhIJAAAAAAAAKEARAAAAAAAAOEAqGAoUMTIgY291bnQgdG8gMjQgY291bnQYAToICICdZRAAMAZYt8sfYAI"
+        },
+        {
+          "text": "24 – 42 count",
+          "shoprs": "CAESGioYCICdZRISCQAAAAAAADhAEQAAAAAAAEVAGAEqBmNvZmZlZTJTCAESDzI0IOKAkyA0MiBjb3VudCIaKhgIgJ1lEhIJAAAAAAAAOEARAAAAAAAARUAqGAoUMjQgY291bnQgdG8gNDIgY291bnQYAToICICdZRAAMAZYt8sfYAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=24+count+to+42+count+coffee&shoprs=CAESGioYCICdZRISCQAAAAAAADhAEQAAAAAAAEVAGAEqBmNvZmZlZTJTCAESDzI0IOKAkyA0MiBjb3VudCIaKhgIgJ1lEhIJAAAAAAAAOEARAAAAAAAARUAqGAoUMjQgY291bnQgdG8gNDIgY291bnQYAToICICdZRAAMAZYt8sfYAI"
+        },
+        {
+          "text": "42 – 96 count",
+          "shoprs": "CAESGioYCICdZRISCQAAAAAAAEVAEQAAAAAAAFhAGAEqBmNvZmZlZTJTCAESDzQyIOKAkyA5NiBjb3VudCIaKhgIgJ1lEhIJAAAAAAAARUARAAAAAAAAWEAqGAoUNDIgY291bnQgdG8gOTYgY291bnQYAToICICdZRAAMAZYt8sfYAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=42+count+to+96+count+coffee&shoprs=CAESGioYCICdZRISCQAAAAAAAEVAEQAAAAAAAFhAGAEqBmNvZmZlZTJTCAESDzQyIOKAkyA5NiBjb3VudCIaKhgIgJ1lEhIJAAAAAAAARUARAAAAAAAAWEAqGAoUNDIgY291bnQgdG8gOTYgY291bnQYAToICICdZRAAMAZYt8sfYAI"
+        },
+        {
+          "text": "Over 96 count",
+          "shoprs": "CAESESoPCICdZRIJCQAAAAAAAFhAGAEqBmNvZmZlZTIyCAESDU92ZXIgOTYgY291bnQiESoPCICdZRIJCQAAAAAAAFhAKgIYAToICICdZRAAMAZYt8sfYAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=over+96+count+coffee&shoprs=CAESESoPCICdZRIJCQAAAAAAAFhAGAEqBmNvZmZlZTIyCAESDU92ZXIgOTYgY291bnQiESoPCICdZRIJCQAAAAAAAFhAKgIYAToICICdZRAAMAZYt8sfYAI"
+        }
+      ]
+    },
+    {
+      "type": "Free shipping",
+      "input_type": "link",
+      "options": [
+        {
+          "text": "Free shipping",
+          "shoprs": "CAESBFICEAEYGSoGY29mZmVlMhcIGRINRnJlZSBzaGlwcGluZyIEUgIQAWAC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=Coffee+free+shipping&shoprs=CAESBFICEAEYGSoGY29mZmVlMhcIGRINRnJlZSBzaGlwcGluZyIEUgIQAWAC"
+        }
+      ]
+    },
+    {
+      "type": "Brand",
+      "input_type": "checkbox",
+      "options": [
+        {
+          "text": "Starbucks",
+          "shoprs": "CAEYASoGY29mZmVlMhkIARIJU3RhcmJ1Y2tzOgoIg_M8EJ2ZQDABWLfLH2AC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=starbucks+coffee&shoprs=CAEYASoGY29mZmVlMhkIARIJU3RhcmJ1Y2tzOgoIg_M8EJ2ZQDABWLfLH2AC"
+        },
+        {
+          "text": "Folgers",
+          "shoprs": "CAEYASoGY29mZmVlMhcIARIHRm9sZ2VyczoKCIPzPBDkiUAwAVi3yx9gAg",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=folgers+coffee&shoprs=CAEYASoGY29mZmVlMhcIARIHRm9sZ2VyczoKCIPzPBDkiUAwAVi3yx9gAg"
+        },
+        {
+          "text": "Keurig",
+          "shoprs": "CAEYASoGY29mZmVlMhYIARIGS2V1cmlnOgoIg_M8EJGuQDABWLfLH2AC",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=keurig+coffee&shoprs=CAEYASoGY29mZmVlMhYIARIGS2V1cmlnOgoIg_M8EJGuQDABWLfLH2AC"
+        },
+        {
+          "text": "Death Wish Coffee",
+          "shoprs": "CAEYASoGY29mZmVlMiEIARIRRGVhdGggV2lzaCBDb2ZmZWU6CgiD8zwQtNNTMAFYt8sfYAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=death+wish+coffee+&shoprs=CAEYASoGY29mZmVlMiEIARIRRGVhdGggV2lzaCBDb2ZmZWU6CgiD8zwQtNNTMAFYt8sfYAI"
+        }
+      ]
+    }
+  ],
+  "shopping_results": [
+    {
+      "position": 1,
+      "title": "Folgers Classic Roast Ground Coffee",
+      "product_link": "https://www.google.com/shopping/product/14870010698400265781?gl=us",
+      "product_id": "14870010698400265781",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=14870010698400265781",
+      "immersive_product_page_token": "eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQ4NzAwMTA2OTg0MDAyNjU3ODEiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNjgwODcwNDQxMDM1Njc1ODY4MyIsImltYWdlRG9jaWQiOiIxMjQ3MjUxNzk4NDY5MTUxNzAyOCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjMyNDU0NzY0MDA4MzM1NTE5NDgiLCJtaWQiOiI1NzY0NjI2MTIyODAxMzA0ODEiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwiZW5naW5lIjoiZ29vZ2xlX3Nob3BwaW5nIn0=",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQ4NzAwMTA2OTg0MDAyNjU3ODEiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNjgwODcwNDQxMDM1Njc1ODY4MyIsImltYWdlRG9jaWQiOiIxMjQ3MjUxNzk4NDY5MTUxNzAyOCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjMyNDU0NzY0MDA4MzM1NTE5NDgiLCJtaWQiOiI1NzY0NjI2MTIyODAxMzA0ODEiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwiZW5naW5lIjoiZ29vZ2xlX3Nob3BwaW5nIn0%3D",
+      "source": "Walmart",
+      "source_icon": "https://serpapi.com/searches/689bcf4d7af899daec5a2943/images/054b7d44157c5827959831f67b483b79656ceef24da631182d27e8ffa468ac0c.png",
+      "multiple_sources": true,
+      "price": "$13.96",
+      "extracted_price": 13.96,
+      "rating": 4.6,
+      "reviews": 13000,
+      "snippet": "Tastes good (1,839 user reviews)",
+      "thumbnail": "https://serpapi.com/searches/689bcf4d7af899daec5a2943/images/054b7d44157c5827959831f67b483b7901793e902b83fcc2cd9cd5928d3b484d.webp",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRWmYBhQckSIl885TjI9ybXUvVVFe6xLkDJXgRPuK-dQAT7zLOpvuI1cqIUqNTiMJ_Je7P6ux41gbJgQ1XFT_ic7g_th35sRkOzFMlMILI"
+      ],
+      "serpapi_thumbnails": [
+        "https://serpapi.com/images/url/BacnjXicDclJDoIwAADAFwESZU2MwRhMkV1EPBEpTYtsxRYC_MZn-Rud63w_hHPKTElCHXwvlKNS4EW3ETHjT15BEfatxEhPadXhw7D_n2n5pXGG8b19HEkE6ytodF1JXsBYiuw2pamN1NmtT06G43C8CGVkJdrqBnQagQwHcBv8pPKc3EFaqI7zTsaFgyM5s5O8ghrOOdkqLK6D1fYaD7jgBw3uOVw"
+      ]
+    },
+    {
+      "position": 2,
+      "title": "Bustelo Espresso Ground Coffee",
+      "product_link": "https://www.google.com/shopping/product/1780156926901513261?gl=us",
+      "product_id": "1780156926901513261",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1780156926901513261",
+      "immersive_product_page_token": "eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTc4MDE1NjkyNjkwMTUxMzI2MSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjI5MTg1Nzk1OTI5MzkzMTQ1NSIsImltYWdlRG9jaWQiOiIxODIxOTc1MDQ1NzA0ODkyMTg2MyIsInJkcyI6IlBDXzM4NzQxMjAxOTQzNjI0NTQ5NXxQUk9EX1BDXzM4NzQxMjAxOTQzNjI0NTQ5NSIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIzODc0MTIwMTk0MzYyNDU0OTUiLCJtaWQiOiI1NzY0NjI3NjQyNDk0NzU4MDAiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwiZW5naW5lIjoiZ29vZ2xlX3Nob3BwaW5nIn0=",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTc4MDE1NjkyNjkwMTUxMzI2MSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjI5MTg1Nzk1OTI5MzkzMTQ1NSIsImltYWdlRG9jaWQiOiIxODIxOTc1MDQ1NzA0ODkyMTg2MyIsInJkcyI6IlBDXzM4NzQxMjAxOTQzNjI0NTQ5NXxQUk9EX1BDXzM4NzQxMjAxOTQzNjI0NTQ5NSIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIzODc0MTIwMTk0MzYyNDU0OTUiLCJtaWQiOiI1NzY0NjI3NjQyNDk0NzU4MDAiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwiZW5naW5lIjoiZ29vZ2xlX3Nob3BwaW5nIn0%3D",
+      "source": "Walgreens.com",
+      "source_icon": "https://serpapi.com/searches/689bcf4d7af899daec5a2943/images/054b7d44157c5827959831f67b483b792549eff0661599a91599aa43b847d0a5.png",
+      "multiple_sources": true,
+      "price": "$4.99",
+      "extracted_price": 4.99,
+      "old_price": "$7.99",
+      "extracted_old_price": 7.99,
+      "rating": 4.7,
+      "reviews": 6400,
+      "snippet": "Tastes good (1,181 user reviews)",
+      "thumbnail": "https://serpapi.com/searches/689bcf4d7af899daec5a2943/images/054b7d44157c5827959831f67b483b79bcadb690ec241592f28e101ca11d958a.webp",
+      "thumbnails": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTquuuY_zGNA7GRwIQNC_8wYMLD5Xd7idw8kQ3gEP3VhEOBpofeoko3TqBoDRMGgRIGMhbusJ_42G0EEZ_TgmzNLbZyfyG3"
+      ],
+      "serpapi_thumbnails": [
+        "https://serpapi.com/images/url/4QBuR3icDclRCoIwAADQE6XRCk2I0BzD0JUikf6MdLqJ6GbbED1Id-s29X7f98O1lsqz7Was34vUDd3oagQWU_qlu9qqxWArLqTsRnaeTv_zfEyPqM4nY0xBVoR9B2VzlOILceciicPDkzodnd0-BQzewYPDWyBF24hegHwKRJgliGURSnhl1JXsd2gLYUlyNqw4rsqlXRD4AbDLNeg"
+      ],
+      "tag": "37% OFF",
+      "extensions": [
+        "37% OFF"
+      ]
+    },
+    {
+      "position": 3,
+      "title": "Maxwell House Original Roast Ground Coffee",
+      "product_link": "https://www.google.com/shopping/product/13722422005171491253?gl=us",
+      "product_id": "13722422005171491253",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13722422005171491253",
+      "immersive_product_page_token": "eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTM3MjI0MjIwMDUxNzE0OTEyNTMiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxODEzMjM3OTczOTIyMDYyOTQ1NyIsImltYWdlRG9jaWQiOiIxNzQ4MzAwNzM5MDc3NDUxMjM3NCIsInJkcyI6IlBDXzUxOTQyNzI0NDU5NDk4MzUyODV8UFJPRF9QQ181MTk0MjcyNDQ1OTQ5ODM1Mjg1IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjEyNDgzNjg0NzkxMTUyMjUyMTIiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwiZW5naW5lIjoiZ29vZ2xlX3Nob3BwaW5nIn0=",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTM3MjI0MjIwMDUxNzE0OTEyNTMiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxODEzMjM3OTczOTIyMDYyOTQ1NyIsImltYWdlRG9jaWQiOiIxNzQ4MzAwNzM5MDc3NDUxMjM3NCIsInJkcyI6IlBDXzUxOTQyNzI0NDU5NDk4MzUyODV8UFJPRF9QQ181MTk0MjcyNDQ1OTQ5ODM1Mjg1IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjEyNDgzNjg0NzkxMTUyMjUyMTIiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwiZW5naW5lIjoiZ29vZ2xlX3Nob3BwaW5nIn0%3D",
+      "source": "Sam's Club",
+      "source_icon": "https://serpapi.com/searches/689bcf4d7af899daec5a2943/images/054b7d44157c5827959831f67b483b797aa28a7e8c3d738d0f65abc449c24a7d.png",
+      "multiple_sources": true,
+      "price": "$17.03",
+      "extracted_price": 17.03,
+      "rating": 4.5,
+      "reviews": 6200,
+      "snippet": "Tastes good (902 user reviews)",
+      "thumbnail": "https://serpapi.com/searches/689bcf4d7af899daec5a2943/images/054b7d44157c5827959831f67b483b7920fb672d900ea591edfacbf0917e0a21.webp",
+      "thumbnails": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSwYNbSKs3V6-OrAUBmQkHR4QrH6bNr4gwBxm7-l2B26UvRSSHXup5KprY9QV-547nubxoIWvaTw4azqOMXcZirSn8c-ve72Pq4gsi9_Q_LpG85XiW62imbFw"
+      ],
+      "serpapi_thumbnails": [
+        "https://serpapi.com/images/url/iC-UXXicDcldDoIgAADgE5EboaZba_qQtkoz8q-XJuSMlYiAWp2q63Sb-l6_7-emtVCuYdScypfQ9RVowuGsUbrSjM5o1xrq1gnBeLPql_9zvejqBBRPZUTwVs0zC8TSS_02uYdHlMjQIpFEzeQ_Wxs8oA-tdDxiHBaDMLdClk6SARPZfCDPbpOP1WlC1buP9wU9M4n5goKxtuGhR41iziW57ESwMAuWW5C1ZD39AG8dPiw"
+      ]
+    },
+    {
+      "position": 4,
+      "title": "Death Wish Coffee Dark Roast Ground Coffee",
+      "product_link": "https://www.google.com/shopping/product/4513377598390994170?gl=us",
+      "product_id": "4513377598390994170",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4513377598390994170",
+      "immersive_product_page_token": "eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDUxMzM3NzU5ODM5MDk5NDE3MCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjIwNTEwOTI4MzY5OTgxMDk1MDYiLCJpbWFnZURvY2lkIjoiMTAwNjMwMTEzMTQyODUwNzk3MDMiLCJyZHMiOiJQQ18xNjEwMTU1MDI1MTkxNDk2NTE5M3xQUk9EX1BDXzE2MTAxNTUwMjUxOTE0OTY1MTkzIiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjE2MTAxNTUwMjUxOTE0OTY1MTkzIiwibWlkIjoiNTc2NDYyNDkxNzYxOTYyMDUyIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiIsImVuZ2luZSI6Imdvb2dsZV9zaG9wcGluZyJ9",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDUxMzM3NzU5ODM5MDk5NDE3MCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjIwNTEwOTI4MzY5OTgxMDk1MDYiLCJpbWFnZURvY2lkIjoiMTAwNjMwMTEzMTQyODUwNzk3MDMiLCJyZHMiOiJQQ18xNjEwMTU1MDI1MTkxNDk2NTE5M3xQUk9EX1BDXzE2MTAxNTUwMjUxOTE0OTY1MTkzIiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjE2MTAxNTUwMjUxOTE0OTY1MTkzIiwibWlkIjoiNTc2NDYyNDkxNzYxOTYyMDUyIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiIsImVuZ2luZSI6Imdvb2dsZV9zaG9wcGluZyJ9",
+      "source": "Death Wish Coffee Company",
+      "source_icon": "https://serpapi.com/searches/689bcf4d7af899daec5a2943/images/054b7d44157c5827959831f67b483b79d1ceae60504e5f1369a788574ad618bf.png",
+      "multiple_sources": true,
+      "price": "$19.99",
+      "extracted_price": 19.99,
+      "rating": 4.8,
+      "reviews": 5900,
+      "snippet": "Tastes good (660 user reviews)",
+      "thumbnail": "https://serpapi.com/searches/689bcf4d7af899daec5a2943/images/054b7d44157c5827959831f67b483b790b9b653e19aae089426690569db50614.webp",
+      "thumbnails": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSkUYyLIvO7ZWCfie5_Xr1N1WIwe-11JD3nmS772dhqXEqZDBw-7wFBBxNBUSndFDTZdC3Kk3RkhsjQhdBpakEmkMZdxq11GTPVlYyEYqSeuguYDKcDqnePEw"
+      ],
+      "serpapi_thumbnails": [
+        "https://serpapi.com/images/url/KEkgr3icDcltDoIgAADQE6kj11xtrYWosw-zzEr_NAMSIxGSUm_VdbpNvb_v-2Fay3ZqWVTg5yA1JYa-CtssW13oCpu4qa2WNVJWopyr2f-mi4hMApzwNBvW4Xvr5Cf3VtHx5fwEETiFHTUAWCJb1InjjAhTZ0_lCHaG0_kQ9hFME0F8dMiJa6-4veesve8YgbLgXs03OekVAMEhPj6ywctUQl_lK0MrjJSgsdf9AGucPrk"
+      ]
+    },
+    {
+      "position": 5,
+      "title": "Dunkin Donuts Ground Coffee Original Blend",
+      "product_link": "https://www.google.com/shopping/product/13144439343082777610?gl=us",
+      "product_id": "13144439343082777610",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13144439343082777610",
+      "immersive_product_page_token": "eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTMxNDQ0MzkzNDMwODI3Nzc2MTAiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMzA3NDk2OTA1MTI3ODQxNjY1MCIsImltYWdlRG9jaWQiOiI0NjYwNzUxMjk1ODgwMDI4ODA0IiwicmRzIjoiUENfODQ4MTUyNzUwNTE0NDE5NDQwOHxQUk9EX1BDXzg0ODE1Mjc1MDUxNDQxOTQ0MDgiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiODQ4MTUyNzUwNTE0NDE5NDQwOCIsIm1pZCI6IjU3NjQ2MjQyMjk2ODQ0NTEyOCIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJlbmdpbmUiOiJnb29nbGVfc2hvcHBpbmcifQ==",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTMxNDQ0MzkzNDMwODI3Nzc2MTAiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMzA3NDk2OTA1MTI3ODQxNjY1MCIsImltYWdlRG9jaWQiOiI0NjYwNzUxMjk1ODgwMDI4ODA0IiwicmRzIjoiUENfODQ4MTUyNzUwNTE0NDE5NDQwOHxQUk9EX1BDXzg0ODE1Mjc1MDUxNDQxOTQ0MDgiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiODQ4MTUyNzUwNTE0NDE5NDQwOCIsIm1pZCI6IjU3NjQ2MjQyMjk2ODQ0NTEyOCIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJlbmdpbmUiOiJnb29nbGVfc2hvcHBpbmcifQ%3D%3D",
+      "source": "The J.M. Smucker Co. Shop",
+      "source_icon": "https://serpapi.com/searches/689bcf4d7af899daec5a2943/images/054b7d44157c5827959831f67b483b79f0333954b4d13f93e69d1ac70f24f572.png",
+      "multiple_sources": true,
+      "price": "$9.99",
+      "extracted_price": 9.99,
+      "rating": 4.7,
+      "reviews": 7800,
+      "snippet": "Tastes good (1,603 user reviews)",
+      "thumbnail": "https://serpapi.com/searches/689bcf4d7af899daec5a2943/images/054b7d44157c5827959831f67b483b795ee00edcafc1e77a27dd54a15339e6fa.webp",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQEKPtsVT6u8CKVfYjBn_FpJgqn9aVtGUb72oWGZMNyC14CjdsdrOZETrcdko-YfJGDl2P00Ko-HrMg6gKrQcqaIjIiVIjyAkvemSmQg-tu"
+      ],
+      "serpapi_thumbnails": [
+        "https://serpapi.com/images/url/q3vQFXicDcndCoIwGADQJ_KnCEshoqxMRz9SLewmdNPpzG1uX4Gv01v1NnVuz_dTAygTOE4piB4UlNSCQrg2M5BDQ2wiO8fUUqlGsEU__1-wPFA_IukGncDgi_eahQhXGV-Jx1YlrBd-jiG6FtOxvEX3_WEIR5OQU0P18b65aEJbaWVVEq2f45PrImnt9J55DOmU9HnM4wbHfFi277I7dymz4PUDTuM6aQ"
+      ],
+      "delivery": "Free delivery on $59+"
+    },
+    {
+      "position": 6,
+      "title": "Stone Street Coffee Brooklyn Roast Coffee Beans",
+      "immersive_product_page_token": "eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiNjE2NDYyMTg0MzE4NjE3Mjc4NSIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjYxNjQ2MjE4NDMxODYxNzI3ODUiLCJpbWFnZURvY2lkIjoiMTU3NzQ1Nzk5NzYwNjMwNDczNzciLCJyZHMiOiJMT182MTY0NjIxODQzMTg2MTcyNzg1fFBST0RfTE9fNjE2NDYyMTg0MzE4NjE3Mjc4NSIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwiZW5naW5lIjoiZ29vZ2xlX3Nob3BwaW5nIn0=",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiNjE2NDYyMTg0MzE4NjE3Mjc4NSIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjYxNjQ2MjE4NDMxODYxNzI3ODUiLCJpbWFnZURvY2lkIjoiMTU3NzQ1Nzk5NzYwNjMwNDczNzciLCJyZHMiOiJMT182MTY0NjIxODQzMTg2MTcyNzg1fFBST0RfTE9fNjE2NDYyMTg0MzE4NjE3Mjc4NSIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwiZW5naW5lIjoiZ29vZ2xlX3Nob3BwaW5nIn0%3D",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:6164621843186172785",
+      "product_id": "6164621843186172785",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6164621843186172785",
+      "source": "Stone Street Coffee",
+      "source_icon": "https://serpapi.com/searches/689bcf4d7af899daec5a2943/images/054b7d44157c5827959831f67b483b79be226b9eee67aadfcd2853b6df2b33f1.png",
+      "price": "$20.00",
+      "extracted_price": 20.0,
+      "rating": 4.9,
+      "reviews": 135,
+      "snippet": "Whole Bean",
+      "badge": "Small business",
+      "thumbnail": "https://serpapi.com/searches/689bcf4d7af899daec5a2943/images/054b7d44157c5827959831f67b483b79c52766ff1c620e7a47734158a9b6b31d.webp",
+      "thumbnails": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRSqoVxawf3Ei6r-hC5jLqn3Hv6ie4dMj0u42U4GYJxsmz4jtK7DBovfCBjM9LgXSh1eTxjZCPMOgglEoqK0WQi-VykL7NU"
+      ],
+      "serpapi_thumbnails": [
+        "https://serpapi.com/images/url/DTGD0nicDclXDoIwAADQE7G0QiAxRpBgZDgQHH_IKK1CW1oRPIh38zb6ft_3UwtBuaUoZZt3IxVlIYlbq8mQi0ygXM5Jo_CaUIpauGDz_1nLqDC9_BAzkg7Zq5q6SO-k2pnhgLXTda-jEhQhVp9gkgDvshl48wZY-MbKJn3l2Dg0A3iOa608Dvjq7MIthA-XMF897ZGUjvfAiJIfroA1yg"
+      ],
+      "delivery": "Free delivery on $35+"
+    },
+    {
+      "position": 7,
+      "title": "DeVoe Blend Coffee 5lb",
+      "product_link": "https://www.google.com/shopping/product/296578218770317624?gl=us",
+      "product_id": "296578218770317624",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=296578218770317624",
+      "immersive_product_page_token": "eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjk2NTc4MjE4NzcwMzE3NjI0IiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTgwMzY5ODQ5NDk3NzQ1MDY5MTYiLCJpbWFnZURvY2lkIjoiMTM5MTMzMzU2MDM2OTgyMjc4MjgiLCJyZHMiOiIiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiMjc3NDYxNzcwNzgxMjk4NDQ0NCIsIm1pZCI6IjU3NjQ2MjgyMzE3NTc3NDkzNiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJlbmdpbmUiOiJnb29nbGVfc2hvcHBpbmcifQ==",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjk2NTc4MjE4NzcwMzE3NjI0IiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTgwMzY5ODQ5NDk3NzQ1MDY5MTYiLCJpbWFnZURvY2lkIjoiMTM5MTMzMzU2MDM2OTgyMjc4MjgiLCJyZHMiOiIiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiMjc3NDYxNzcwNzgxMjk4NDQ0NCIsIm1pZCI6IjU3NjQ2MjgyMzE3NTc3NDkzNiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJlbmdpbmUiOiJnb29nbGVfc2hvcHBpbmcifQ%3D%3D",
+      "source": "Think Coffee",
+      "source_icon": "https://serpapi.com/searches/689bcf4d7af899daec5a2943/images/054b7d44157c5827959831f67b483b79942037f47619f712d2e062614668e613.png",
+      "price": "$85.00",
+      "extracted_price": 85.0,
+      "snippet": "Medium Roast · 10.5 oz–5 lb",
+      "thumbnail": "https://serpapi.com/searches/689bcf4d7af899daec5a2943/images/054b7d44157c5827959831f67b483b79be58da09d7058923991d5064ea328344.webp",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRaYiizJjGPASRNUyBTJv1wlIRmMRSy54-_eIn1lhdQ7XE1Q1ptDu0ydTFlFAI6wSZ07oURg2D4ZOlfD-MQanmVLIDZ5g2bPxkkyPRJ8KZETAgTwzGJCC5s"
+      ],
+      "serpapi_thumbnails": [
+        "https://serpapi.com/images/url/TypeVXicDcnbEkJAAADQL3IdUmaaRm5DEYumvDRuLWFt2dL6qP6nv6nzer6fmhA8qhxXoeJBMalKhuSIZ-FIMtIUbDH03FgPGDcIbu7r_6maX67sAmTnppndmx1oEfATuo3dlzB1Dug9EFFZYi6Vg4SuLkPlZAqhgInx5GkZW52lOYspSnllSAAUDSk9dFeD8cIM9ce9Y6QyFPPg3bY0AO5yl5qxBuNptl1dl8cfAKk9BA"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 8,
+      "title": "Great Value Classic Medium Roast Ground Coffee",
+      "product_link": "https://www.google.com/shopping/product/5981621846826690625?gl=us",
+      "product_id": "5981621846826690625",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=5981621846826690625",
+      "immersive_product_page_token": "eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTk4MTYyMTg0NjgyNjY5MDYyNSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjY2MTE3ODkyMzQ0OTI0ODU5NDEiLCJpbWFnZURvY2lkIjoiMzUwODc4MjAyMzEwMzY0NTcyMiIsInJkcyI6IlBDXzc2MjY5MTU3NzI3NDI1MzM4MDB8UFJPRF9QQ183NjI2OTE1NzcyNzQyNTMzODAwIiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6Ijc2MjY5MTU3NzI3NDI1MzM4MDAiLCJtaWQiOiI1NzY0NjI0Mzk1Njg0MzA3MzAiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwiZW5naW5lIjoiZ29vZ2xlX3Nob3BwaW5nIn0=",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTk4MTYyMTg0NjgyNjY5MDYyNSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjY2MTE3ODkyMzQ0OTI0ODU5NDEiLCJpbWFnZURvY2lkIjoiMzUwODc4MjAyMzEwMzY0NTcyMiIsInJkcyI6IlBDXzc2MjY5MTU3NzI3NDI1MzM4MDB8UFJPRF9QQ183NjI2OTE1NzcyNzQyNTMzODAwIiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6Ijc2MjY5MTU3NzI3NDI1MzM4MDAiLCJtaWQiOiI1NzY0NjI0Mzk1Njg0MzA3MzAiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwiZW5naW5lIjoiZ29vZ2xlX3Nob3BwaW5nIn0%3D",
+      "source": "Walmart",
+      "source_icon": "https://serpapi.com/searches/689bcf4d7af899daec5a2943/images/054b7d44157c5827959831f67b483b796b3f2412f214207a63a9d3a49006aea4.png",
+      "multiple_sources": true,
+      "price": "$5.44",
+      "extracted_price": 5.44,
+      "rating": 3.9,
+      "reviews": 887,
+      "snippet": "Tastes good (371 user reviews)",
+      "thumbnail": "https://serpapi.com/searches/689bcf4d7af899daec5a2943/images/054b7d44157c5827959831f67b483b79dcd5695dd4c898389606cb3ff842dc5d.webp",
+      "thumbnails": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSjxW_jR7hhdR6yYelmrdfLrhiUlTzxiIYMcuqwP_OpVGPSabxS4LP8tD8k6gxLSSGFGJB59tsFT3a8x3qjyGLUEwMEKwB2eQ"
+      ],
+      "serpapi_thumbnails": [
+        "https://serpapi.com/images/url/RTIHPnicDcltCoIwAADQE6WgZSpEJOmoZpnTwl-i09zMj-kWzk7S1bpNvb_v-yFCMG6ratnhcWaiLBYi7zSl4iITFCu4b1VOesZoV22Hzf_s3bmwAEa1vKd1uCakCI05KZt2LB5wJDRuorekh8THr2EK0gu7gQBluURLGJhibz6NSkKEgAeOzsoS3Iv0zJT6UM8Axu7ku6fJ0crrD4TaN4Y"
+      ]
+    },
+    {
+      "position": 9,
+      "title": "Counter Culture Coffee Even Keel Half-Caff Year Round Blend",
+      "product_link": "https://www.google.com/shopping/product/10697160116798327681?gl=us",
+      "product_id": "10697160116798327681",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10697160116798327681",
+      "immersive_product_page_token": "eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTA2OTcxNjAxMTY3OTgzMjc2ODEiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI3MDg0OTQ0NjE2MjQ4NjkxNjAzIiwiaW1hZ2VEb2NpZCI6IjM2NjE3MTAzNzIxMzI1NDc2MTkiLCJyZHMiOiIiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiNjQ4OTE5NDY0MTI2MDQ5MDA2MiIsIm1pZCI6IjU3NjQ2Mjg2MTM3OTMyNDE2NiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJlbmdpbmUiOiJnb29nbGVfc2hvcHBpbmcifQ==",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTA2OTcxNjAxMTY3OTgzMjc2ODEiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI3MDg0OTQ0NjE2MjQ4NjkxNjAzIiwiaW1hZ2VEb2NpZCI6IjM2NjE3MTAzNzIxMzI1NDc2MTkiLCJyZHMiOiIiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiNjQ4OTE5NDY0MTI2MDQ5MDA2MiIsIm1pZCI6IjU3NjQ2Mjg2MTM3OTMyNDE2NiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJlbmdpbmUiOiJnb29nbGVfc2hvcHBpbmcifQ%3D%3D",
+      "source": "Counter Culture Coffee",
+      "source_icon": "https://serpapi.com/searches/689bcf4d7af899daec5a2943/images/054b7d44157c5827959831f67b483b790cf07f798369cabd1ebc6bf069e909db.png",
+      "price": "$103.00",
+      "extracted_price": 103.0,
+      "snippet": "12 oz–5 lb",
+      "thumbnail": "https://serpapi.com/searches/689bcf4d7af899daec5a2943/images/054b7d44157c5827959831f67b483b793f568d6d260b6bb5a839839704755587.webp",
+      "thumbnails": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSFLXIZoj9JyukOLQu4tGqSfJNWI8-_dbvKI0tjhaR69iSGJOhdPWIVdO6g75S_VdJtUWerwpOU4Gn7JSElqtcxXaPC61LUO3e3G-4LrnGI_Hc44xHnq5lFEw"
+      ],
+      "serpapi_thumbnails": [
+        "https://serpapi.com/images/url/Di6wxHicDclJDoIwFADQEwEaKoqJMcZIbSVWbRjihkCLDGop8HG4ldfxNvq27_spAXQ_t6xcie6tIZcGZMo2ix5SqIQpmrvVl43WlSqW7eJ_89Veulhwz4_Juald-h6uzD8OCHDLL3QfkZmRyOyxIyOoy_TkuBXHlJXyEJFQMqeYTngSSgpBlHdPzQKE1ZTyza0F8YrTw9oZ-wGzcxsbyO8UJslWIPTaqnZy8zbPH5RMPfI"
+      ],
+      "delivery": "Get it by Aug 22 (Free)"
+    },
+    {
+      "position": 10,
+      "title": "Maxwell House 100% Colombian Ground Coffee",
+      "product_link": "https://www.google.com/shopping/product/8067346641462616653?gl=us",
+      "product_id": "8067346641462616653",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=8067346641462616653",
+      "immersive_product_page_token": "eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODA2NzM0NjY0MTQ2MjYxNjY1MyIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE3MTU1NDY0MDEyMTg4NTgyMzY0IiwiaW1hZ2VEb2NpZCI6IjkwOTc1NTM3MjcwNzcyMDk3NjgiLCJyZHMiOiJQQ18zNTY4MjUzMTc4MTYxMTUwNDMyfFBST0RfUENfMzU2ODI1MzE3ODE2MTE1MDQzMiIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIzNTY4MjUzMTc4MTYxMTUwNDMyIiwibWlkIjoiNTc2NDYyNzc1NzA4NzkwNDkxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiIsImVuZ2luZSI6Imdvb2dsZV9zaG9wcGluZyJ9",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODA2NzM0NjY0MTQ2MjYxNjY1MyIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE3MTU1NDY0MDEyMTg4NTgyMzY0IiwiaW1hZ2VEb2NpZCI6IjkwOTc1NTM3MjcwNzcyMDk3NjgiLCJyZHMiOiJQQ18zNTY4MjUzMTc4MTYxMTUwNDMyfFBST0RfUENfMzU2ODI1MzE3ODE2MTE1MDQzMiIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIzNTY4MjUzMTc4MTYxMTUwNDMyIiwibWlkIjoiNTc2NDYyNzc1NzA4NzkwNDkxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiIsImVuZ2luZSI6Imdvb2dsZV9zaG9wcGluZyJ9",
+      "source": "CVS Pharmacy",
+      "source_icon": "https://serpapi.com/searches/689bcf4d7af899daec5a2943/images/054b7d44157c5827959831f67b483b79e1f1521dc7e47b6dab35f360dc0168ae.png",
+      "multiple_sources": true,
+      "price": "$19.99",
+      "extracted_price": 19.99,
+      "rating": 4.4,
+      "reviews": 946,
+      "snippet": "Tastes good (150 user reviews)",
+      "thumbnail": "https://serpapi.com/searches/689bcf4d7af899daec5a2943/images/054b7d44157c5827959831f67b483b79476b7af33168bd999443696a0872ac1b.webp",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQC6NQLHaTIX09zhDsWUxlgZOHO7ZYpifyToVoZgE68pS9pmphDlfekpt3WTiOx9YytXkoYpnAuwG7DnvvSF_B1jdHaYN3rzVs-7f7fGE-IupX9d9UXHPRtaA"
+      ],
+      "serpapi_thumbnails": [
+        "https://serpapi.com/images/url/iEmNk3icDclbCoJAFADQFZlFoI0QYVkqhGZpPn7CxmfpzM25lbqqttNu6vye76dCBKHJcs5oNwDmmYRXNp2UAlOs6YTyVhYVB6hZuXos_6fpTkZM6m0Ux9tbqW9HUzJWhgiDvikT13LVJIa6GHx-5km5VRZwItBCZTRFfgech37t9iQeMLrzGJj-fJuqwV6v0-6ynt0yK42deTeehaQWamFuJfsJEclIEFmHI6b6D-ssP6Q"
+      ],
+      "delivery": "Free delivery on $35+"
+    },
+    {
+      "position": 11,
+      "title": "Folgers Ground Coffee 100% Colombian",
+      "product_link": "https://www.google.com/shopping/product/12332921258300782101?gl=us",
+      "product_id": "12332921258300782101",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=12332921258300782101",
+      "immersive_product_page_token": "eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIzMzI5MjEyNTgzMDA3ODIxMDEiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMjUzMzg0MzM2NTEwMDE1MzM5MCIsImltYWdlRG9jaWQiOiIxNTc5MzQyODE0ODI2MzUwMTU4MCIsInJkcyI6IlBDXzEwNTg1NTY2NjM5MjUzMDA3MjI0fFBST0RfUENfMTA1ODU1NjY2MzkyNTMwMDcyMjQiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiMTA1ODU1NjY2MzkyNTMwMDcyMjQiLCJtaWQiOiI1NzY0NjI4NjA4NzM2ODMxNTciLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwiZW5naW5lIjoiZ29vZ2xlX3Nob3BwaW5nIn0=",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIzMzI5MjEyNTgzMDA3ODIxMDEiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMjUzMzg0MzM2NTEwMDE1MzM5MCIsImltYWdlRG9jaWQiOiIxNTc5MzQyODE0ODI2MzUwMTU4MCIsInJkcyI6IlBDXzEwNTg1NTY2NjM5MjUzMDA3MjI0fFBST0RfUENfMTA1ODU1NjY2MzkyNTMwMDcyMjQiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiMTA1ODU1NjY2MzkyNTMwMDcyMjQiLCJtaWQiOiI1NzY0NjI4NjA4NzM2ODMxNTciLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwiZW5naW5lIjoiZ29vZ2xlX3Nob3BwaW5nIn0%3D",
+      "source": "Walgreens.com",
+      "source_icon": "https://serpapi.com/searches/689bcf4d7af899daec5a2943/images/054b7d44157c5827959831f67b483b791414bfe3f15b992db269095a8b670430.png",
+      "multiple_sources": true,
+      "price": "$12.99",
+      "extracted_price": 12.99,
+      "old_price": "$20",
+      "extracted_old_price": 20,
+      "rating": 4.2,
+      "reviews": 1600,
+      "snippet": "Tastes good (231 user reviews)",
+      "thumbnail": "https://serpapi.com/searches/689bcf4d7af899daec5a2943/images/054b7d44157c5827959831f67b483b79392d3d04c157c81300dee0d641d478d8.webp",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQtHmzsE4LK7p_CSt0HwEzF91Fpo9ILQT1AH4Xrmmc7T56u8fQdLQifLeQu-MR-mFaGMOMwAT6SXr4ojREEimFFLIgnMwR8"
+      ],
+      "serpapi_thumbnails": [
+        "https://serpapi.com/images/url/WXcII3icDclZCoJAGADgE7mBuUGExIxKM8WoD76FjdsEs6S_SB6ku3Wb-l6_72cCMEviOL3i89tA31nwUK49LtCC4DbX0lkmbYxQ4-l1_F-SXrs44wxyuS_IJ5fQ3M8VuPmGdhx72Oi4IKz20txvZil5WB-CNRpYR5gYSM9Wi5aWxG1Gb3RL66BqZl8_S4SExJgUo6JbGf0Ac4M0vg"
+      ],
+      "tag": "35% OFF",
+      "extensions": [
+        "35% OFF"
+      ]
+    },
+    {
+      "position": 12,
+      "title": "Coffee Bean Direct French Roast Colombian Supremo",
+      "product_link": "https://www.google.com/shopping/product/13177336967811386666?gl=us",
+      "product_id": "13177336967811386666",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13177336967811386666",
+      "immersive_product_page_token": "eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTMxNzczMzY5Njc4MTEzODY2NjYiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNjQ1NjE1MDEzNjE3OTgzMzEyMSIsImltYWdlRG9jaWQiOiIxNTIzNzE0NTIzMDkxNDY0NTY1OCIsInJkcyI6IlBDXzE0Njk2NTM5NzQxNDA0NTg5Mjk1fFBST0RfUENfMTQ2OTY1Mzk3NDE0MDQ1ODkyOTUiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiMTQ2OTY1Mzk3NDE0MDQ1ODkyOTUiLCJtaWQiOiI1NzY0NjI4MzM1NDA3MTM4MjEiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwiZW5naW5lIjoiZ29vZ2xlX3Nob3BwaW5nIn0=",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTMxNzczMzY5Njc4MTEzODY2NjYiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNjQ1NjE1MDEzNjE3OTgzMzEyMSIsImltYWdlRG9jaWQiOiIxNTIzNzE0NTIzMDkxNDY0NTY1OCIsInJkcyI6IlBDXzE0Njk2NTM5NzQxNDA0NTg5Mjk1fFBST0RfUENfMTQ2OTY1Mzk3NDE0MDQ1ODkyOTUiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiMTQ2OTY1Mzk3NDE0MDQ1ODkyOTUiLCJtaWQiOiI1NzY0NjI4MzM1NDA3MTM4MjEiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwiZW5naW5lIjoiZ29vZ2xlX3Nob3BwaW5nIn0%3D",
+      "source": "Coffee Bean Direct",
+      "source_icon": "https://serpapi.com/searches/689bcf4d7af899daec5a2943/images/054b7d44157c5827959831f67b483b79740b20fcb44f83fb5e8b5e863e8fe96b.png",
+      "multiple_sources": true,
+      "price": "$63.95",
+      "extracted_price": 63.95,
+      "rating": 4.9,
+      "reviews": 80,
+      "snippet": "Light Roast · South America · 1–5 lb",
+      "thumbnail": "https://serpapi.com/searches/689bcf4d7af899daec5a2943/images/054b7d44157c5827959831f67b483b796d8c1e33313df820a7f7036829e691e2.webp",
+      "thumbnails": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQvZdjEzO0tMSt0F8Wq4JcjzUWCyyXzGwPJMx_glFKTAFEP0s-rXZGaOJaZrpZ3qxyLupeoiBZ_7Yy7B82oP3EYs3UES5o2mT8nd9CahXQ5fgSnh-Jyz8VSXA"
+      ],
+      "serpapi_thumbnails": [
+        "https://serpapi.com/images/url/9jicdXicDcltD0JAAADgX-RlZGhrDcOmhFG4L6YjL6u7465yflV_p39Tz9fn--kZI3QrSS2CMyesbQR2RYrYUVazAYoQPyTaY0IG1O2n3f-21qkxfZi8QDO6aySzMGWyZ-TTJoDjes4dzovVf8dBuFTd3TtklufGMhXmAvh1FNRgJkCdFn58khYPNqj0kuu2oeBYdUuqnt1Uw8ojM1BjOnVfJNqtS1EvBHw1Lmlh_QDa4z7y"
+      ],
+      "delivery": "Get it by Aug 21 (Free)"
+    },
+    {
+      "position": 13,
+      "title": "Stone Street Cold Brew Whole Bean",
+      "product_link": "https://www.google.com/shopping/product/4828209672832202963?gl=us",
+      "product_id": "4828209672832202963",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4828209672832202963",
+      "immersive_product_page_token": "eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDgyODIwOTY3MjgzMjIwMjk2MyIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE1NDgyODQxNzc1NDQ1MDM4OTY4IiwiaW1hZ2VEb2NpZCI6IjE2OTc4MDMxODI5Nzg4MTEwODg2IiwicmRzIjoiUENfMTI3MjMyOTgzNTI0NzMxNDg0MDN8UFJPRF9QQ18xMjcyMzI5ODM1MjQ3MzE0ODQwMyIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIxMjcyMzI5ODM1MjQ3MzE0ODQwMyIsIm1pZCI6IjU3NjQ2MjgyOTUwNTkxMTAyNiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJlbmdpbmUiOiJnb29nbGVfc2hvcHBpbmcifQ==",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDgyODIwOTY3MjgzMjIwMjk2MyIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE1NDgyODQxNzc1NDQ1MDM4OTY4IiwiaW1hZ2VEb2NpZCI6IjE2OTc4MDMxODI5Nzg4MTEwODg2IiwicmRzIjoiUENfMTI3MjMyOTgzNTI0NzMxNDg0MDN8UFJPRF9QQ18xMjcyMzI5ODM1MjQ3MzE0ODQwMyIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIxMjcyMzI5ODM1MjQ3MzE0ODQwMyIsIm1pZCI6IjU3NjQ2MjgyOTUwNTkxMTAyNiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJlbmdpbmUiOiJnb29nbGVfc2hvcHBpbmcifQ%3D%3D",
+      "source": "Stone Street Coffee",
+      "source_icon": "https://serpapi.com/searches/689bcf4d7af899daec5a2943/images/054b7d44157c5827959831f67b483b79d8d79a8e50681be4075d7f045db3af0e.png",
+      "multiple_sources": true,
+      "price": "$36.00",
+      "extracted_price": 36.0,
+      "rating": 4.9,
+      "reviews": 190,
+      "snippet": "Tastes good (26 user reviews)",
+      "badge": "Small business",
+      "thumbnail": "https://serpapi.com/searches/689bcf4d7af899daec5a2943/images/054b7d44157c5827959831f67b483b79cb1c34e3499af704637a4b5018b5aff0.webp",
+      "thumbnails": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQW0imCubHzPDV5sVGLqah8XF7VrCuDNLOyUwz71nPZcyCPhEefGNWIHzlUdzgmKHJJGN9pSY9IBaSuoQaCCWvC_2-BiOT6ZiQTP1tilu39oXaVgn2UxV9CRw"
+      ],
+      "serpapi_thumbnails": [
+        "https://serpapi.com/images/url/p-8ffXicDclJDoIwAADAFyGKcSmJMVKVRQNFoaAXUwtCEygVigiv8jv-Ruc6308upWh0VU05rXsh00SRd66NskYSyeiIVqXa5JUQjGfr5-p_-sZNgEn9aMxK2N6tAW3xrMHm8UnyZbxf4Bq2W_fo9WE3LCYcXWkPUb5LH6Yb2dZQhMmQlQfLcUwXiPMF2AY5t5VPIIxe8KYpBvOC-ZX5AZpIVrRTUMUEZ1wL3xjAU_cDrrY-qA"
+      ],
+      "delivery": "Get it by Aug 20 (Free)"
+    },
+    {
+      "position": 14,
+      "title": "The Original Donut Shop Regular Blend Coffee K-Cup Pods",
+      "product_link": "https://www.google.com/shopping/product/4107725959040936746?gl=us",
+      "product_id": "4107725959040936746",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4107725959040936746",
+      "immersive_product_page_token": "eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDEwNzcyNTk1OTA0MDkzNjc0NiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE4MjEwNjgzODI2NzQ4NDMyMTc4IiwiaW1hZ2VEb2NpZCI6Ijk3ODA1MDE4NjIzODg0NDAyNzgiLCJyZHMiOiJQQ18xNTczNTg1Njc3NDUzNjQ2MDIwNnxQUk9EX1BDXzE1NzM1ODU2Nzc0NTM2NDYwMjA2IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjE1NzM1ODU2Nzc0NTM2NDYwMjA2IiwibWlkIjoiNTc2NDYyODI5MjY4MTIyNzA5IiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiIsImVuZ2luZSI6Imdvb2dsZV9zaG9wcGluZyJ9",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDEwNzcyNTk1OTA0MDkzNjc0NiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE4MjEwNjgzODI2NzQ4NDMyMTc4IiwiaW1hZ2VEb2NpZCI6Ijk3ODA1MDE4NjIzODg0NDAyNzgiLCJyZHMiOiJQQ18xNTczNTg1Njc3NDUzNjQ2MDIwNnxQUk9EX1BDXzE1NzM1ODU2Nzc0NTM2NDYwMjA2IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjE1NzM1ODU2Nzc0NTM2NDYwMjA2IiwibWlkIjoiNTc2NDYyODI5MjY4MTIyNzA5IiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiIsImVuZ2luZSI6Imdvb2dsZV9zaG9wcGluZyJ9",
+      "source": "Keurig.com",
+      "source_icon": "https://serpapi.com/searches/689bcf4d7af899daec5a2943/images/054b7d44157c5827959831f67b483b79a839e2b1e6b2005833b559ab19383d9a.jpeg",
+      "multiple_sources": true,
+      "price": "$56.97",
+      "extracted_price": 56.97,
+      "rating": 4.4,
+      "reviews": 3700,
+      "snippet": "Tastes good (644 user reviews)",
+      "thumbnail": "https://serpapi.com/searches/689bcf4d7af899daec5a2943/images/054b7d44157c5827959831f67b483b79ad6208412f4216530481ca7e1e6f1ad7.webp",
+      "thumbnails": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR4b_udBw2cGZzv8xS7ADz0WYo85eT9rs6GvtVr20OTCU-WSaJN54JrwXNWxj9tcgyWH4kmgv_AtnYlLxfx2l6u4qIaRXzwzq_XWRqaFEeG"
+      ],
+      "serpapi_thumbnails": [
+        "https://serpapi.com/images/url/Er1gyHicDclZCoJAGADgE7kgaipE2DYlYaDWaC-io42W2-jvepxu1W3qe_2-nwyg6QxBSCvSzg2kCQdxJfG0gwhywpO6FLqsbpq8ohu2_p9h2omOiCPHYZ9sR4mgxzJok7sy94uIg1pTUk9vOxUNcG8l8ertbhx2I8tWZKsdfRtPLx0InfFJfpd0CE2oguIyPSepUHuZnSPHX8aFhT52WHQ8pOgHWDk65A"
+      ],
+      "delivery": "Get it by Fri (Free)"
+    },
+    {
+      "position": 15,
+      "title": "Black Rifle Coffee Company Tactisquatch Dark Roast Ground Coffee",
+      "product_link": "https://www.google.com/shopping/product/4888494480084918098?gl=us",
+      "product_id": "4888494480084918098",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4888494480084918098",
+      "immersive_product_page_token": "eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDg4ODQ5NDQ4MDA4NDkxODA5OCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE4MDIwNDI5NTgwNjg5OTUzNTIyIiwiaW1hZ2VEb2NpZCI6IjM4MjAzODU3NzM3OTk3MTQwOTkiLCJyZHMiOiJQQ18xNTg2NTU5MTIzMTM3MzI1MTQ3OHxQUk9EX1BDXzE1ODY1NTkxMjMxMzczMjUxNDc4IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjE1ODY1NTkxMjMxMzczMjUxNDc4IiwibWlkIjoiNTc2NDYyODIwOTU3MzMzOTEzIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiIsImVuZ2luZSI6Imdvb2dsZV9zaG9wcGluZyJ9",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDg4ODQ5NDQ4MDA4NDkxODA5OCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE4MDIwNDI5NTgwNjg5OTUzNTIyIiwiaW1hZ2VEb2NpZCI6IjM4MjAzODU3NzM3OTk3MTQwOTkiLCJyZHMiOiJQQ18xNTg2NTU5MTIzMTM3MzI1MTQ3OHxQUk9EX1BDXzE1ODY1NTkxMjMxMzczMjUxNDc4IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjE1ODY1NTkxMjMxMzczMjUxNDc4IiwibWlkIjoiNTc2NDYyODIwOTU3MzMzOTEzIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiIsImVuZ2luZSI6Imdvb2dsZV9zaG9wcGluZyJ9",
+      "source": "Black Rifle Coffee Company",
+      "source_icon": "https://serpapi.com/searches/689bcf4d7af899daec5a2943/images/054b7d44157c5827959831f67b483b793a09656d3583dce55402ef35c06998ea.png",
+      "multiple_sources": true,
+      "price": "$15.99",
+      "extracted_price": 15.99,
+      "rating": 4.6,
+      "reviews": 461,
+      "snippet": "Tastes good (84 user reviews)",
+      "thumbnail": "https://serpapi.com/searches/689bcf4d7af899daec5a2943/images/054b7d44157c5827959831f67b483b79be5b5c173533ffb7a50b808ad43d39e1.webp",
+      "thumbnails": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRyleoFxQq_UnrLkPqqNe7sB--1BM3ZQ5f408ZUlJZ8hSnDXqW9wGyp7w1ND3es40dSKMXNpSZmLv6dKmMf2h4eA7I12WEjw7Cq2FMkCP_HSkQCzgAu6YeE"
+      ],
+      "serpapi_thumbnails": [
+        "https://serpapi.com/images/url/c_zAYXicDclJDoIwAADAFyGrVkmMYXG3jdgQkAtRqKBIaWkV8VH-x9_oXOf7KaVkwlZVQrO2Z5LkijxTc1AIeZLXbJA1tSrKhrErLWZ8-j_bQflkmR36O2kWr4CnIW131Z5zRIBwFUV3oZkEw4uljZPwvknGJaZ-zKNJt-wZ6HTkm0RYWo63MEYMJ_XuOcq3NbwYpUUcsNaNaH7rgMeNBay8fbrCVeC9C-cxOpL5DwZFPNI"
+      ],
+      "delivery": "Free delivery on $75+"
+    },
+    {
+      "position": 16,
+      "title": "Maxwell House Coffee Ground Original Roast",
+      "product_link": "https://www.google.com/shopping/product/8486058591694260795?gl=us",
+      "product_id": "8486058591694260795",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=8486058591694260795",
+      "immersive_product_page_token": "eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODQ4NjA1ODU5MTY5NDI2MDc5NSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjIyMTUwMTg1ODU0NDkxOTAzNSIsImltYWdlRG9jaWQiOiIyMjg2ODcxMjUwMDkyMDEyMDY1IiwicmRzIjoiUENfNTE5NDI3MjQ0NTk0OTgzNTI4NXxQUk9EX1BDXzUxOTQyNzI0NDU5NDk4MzUyODUiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiNTE5NDI3MjQ0NTk0OTgzNTI4NSIsIm1pZCI6IjU3NjQ2Mjc1Njk0MjIxNzE4OSIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJlbmdpbmUiOiJnb29nbGVfc2hvcHBpbmcifQ==",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODQ4NjA1ODU5MTY5NDI2MDc5NSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjIyMTUwMTg1ODU0NDkxOTAzNSIsImltYWdlRG9jaWQiOiIyMjg2ODcxMjUwMDkyMDEyMDY1IiwicmRzIjoiUENfNTE5NDI3MjQ0NTk0OTgzNTI4NXxQUk9EX1BDXzUxOTQyNzI0NDU5NDk4MzUyODUiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiNTE5NDI3MjQ0NTk0OTgzNTI4NSIsIm1pZCI6IjU3NjQ2Mjc1Njk0MjIxNzE4OSIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJlbmdpbmUiOiJnb29nbGVfc2hvcHBpbmcifQ%3D%3D",
+      "source": "Walmart",
+      "source_icon": "https://serpapi.com/searches/689bcf4d7af899daec5a2943/images/054b7d44157c5827959831f67b483b795cae5cfec71642a649064bcc13703fe6.png",
+      "multiple_sources": true,
+      "price": "$17.16",
+      "extracted_price": 17.16,
+      "rating": 4.5,
+      "reviews": 6200,
+      "snippet": "Tastes good (902 user reviews)",
+      "thumbnail": "https://serpapi.com/searches/689bcf4d7af899daec5a2943/images/054b7d44157c5827959831f67b483b79e92f4b2256ea786d182d39df6f7c204e.webp",
+      "thumbnails": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS56W0Mz6kfKKfktfU34GE5crLwW74F2Fp-PQ2NHPYVQwfcIg7C9qx3Kswgta0X2EXicngrLqWtGIFK3WCqF4BfrJse1FtokeZiTZ2tRAAtQ9Y8XkQUWsfE"
+      ],
+      "serpapi_thumbnails": [
+        "https://serpapi.com/images/url/FBzRQXicDclLDoIwFADAE8n_IyTGIKGoKBEVC-yw0EKIUOhLUA_lfbyNzna-nwaAC1eW655MLw51tYB7r0pMQAktkcjwkEUzcN72bD2u_ud6ceWE5GJaWDm-rY5GEe2AproRBiaZDjO2DaQhvjglWrw95bdkpmTHbN8Zn3okZgalkmlB1pKeTYcRQ7hDkY79ERkbOu1FrSIYurpor4UGZ8-DxMmXWZekWNDgB8dLPR0"
+      ]
+    },
+    {
+      "position": 17,
+      "title": "Starbucks Coffee Pike Place Roast",
+      "product_link": "https://www.google.com/shopping/product/14936611116674145917?gl=us",
+      "product_id": "14936611116674145917",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=14936611116674145917",
+      "immersive_product_page_token": "eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQ5MzY2MTExMTY2NzQxNDU5MTciLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI5NjAyNTYzMDY1NTc1MDU0NDUiLCJpbWFnZURvY2lkIjoiMTE3ODQ5NTU1NTkyODI3ODE0NDEiLCJyZHMiOiJQQ182NzMyMzc1ODIyMTY5NDY5NzEzfFBST0RfUENfNjczMjM3NTgyMjE2OTQ2OTcxMyIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiI2NzMyMzc1ODIyMTY5NDY5NzEzIiwibWlkIjoiNTc2NDYyODE1MTc1ODc3OTM4IiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiIsImVuZ2luZSI6Imdvb2dsZV9zaG9wcGluZyJ9",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTQ5MzY2MTExMTY2NzQxNDU5MTciLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI5NjAyNTYzMDY1NTc1MDU0NDUiLCJpbWFnZURvY2lkIjoiMTE3ODQ5NTU1NTkyODI3ODE0NDEiLCJyZHMiOiJQQ182NzMyMzc1ODIyMTY5NDY5NzEzfFBST0RfUENfNjczMjM3NTgyMjE2OTQ2OTcxMyIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiI2NzMyMzc1ODIyMTY5NDY5NzEzIiwibWlkIjoiNTc2NDYyODE1MTc1ODc3OTM4IiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiIsImVuZ2luZSI6Imdvb2dsZV9zaG9wcGluZyJ9",
+      "source": "eBay - diggsodom1",
+      "source_icon": "https://serpapi.com/searches/689bcf4d7af899daec5a2943/images/054b7d44157c5827959831f67b483b79d981193991517eabf0c1752258bc182d.png",
+      "multiple_sources": true,
+      "price": "$10.79",
+      "extracted_price": 10.79,
+      "rating": 4.5,
+      "reviews": 5200,
+      "snippet": "Tastes good (817 user reviews)",
+      "thumbnail": "https://serpapi.com/searches/689bcf4d7af899daec5a2943/images/054b7d44157c5827959831f67b483b79fa5adeb56d0cf56a2a42e4e61f70ea6c.webp",
+      "thumbnails": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTk_zauuKJx89Xt06U-CwpZ9WgNjU-EPDPZbOM3rXNtd-uA3D4OHahSYLG5uR6dOvOxc-VZA_rHlX5H6pbqcDtnxWlsX0zO0sHIYc0ylB4wQwbhcY5lcS3gwA"
+      ],
+      "serpapi_thumbnails": [
+        "https://serpapi.com/images/url/HG2kUnicDcnrEoFAFADgJ9rKpEZmjIlMubUIXf40dWoqktWeVTyV1_E2fH-_76dEZHwsy3kD7YthnhFMm4FUcEywAgnuN5mXd8aqppg-Jv8bm25m2HC8xu9EiPWqHxkBKvqJzDsWGX7hXk5ksbN2UUq3ahu4mBFhqtaQOknphRtbEwc9o0_aAzlHZtw6daA5OksfYGHT-zUPlDdVuLMMQXnVs2G379ISQq0GTy068weLRT6p"
+      ],
+      "delivery": "Get it by Aug 22 (Free)"
+    },
+    {
+      "position": 18,
+      "title": "White Coffee 2lb",
+      "product_link": "https://www.google.com/shopping/product/10458694283401398129?gl=us",
+      "product_id": "10458694283401398129",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10458694283401398129",
+      "immersive_product_page_token": "eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTA0NTg2OTQyODM0MDEzOTgxMjkiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjk5MTg5NzMwMzQwMTIyMDYzIiwiaW1hZ2VEb2NpZCI6Ijc4MzcxMjg5ODgyMDk3NjA5OTMiLCJyZHMiOiIiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiMTk0MDc2NjA4MTcwNTMyNTUxNiIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJlbmdpbmUiOiJnb29nbGVfc2hvcHBpbmcifQ==",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTA0NTg2OTQyODM0MDEzOTgxMjkiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjk5MTg5NzMwMzQwMTIyMDYzIiwiaW1hZ2VEb2NpZCI6Ijc4MzcxMjg5ODgyMDk3NjA5OTMiLCJyZHMiOiIiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiMTk0MDc2NjA4MTcwNTMyNTUxNiIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJlbmdpbmUiOiJnb29nbGVfc2hvcHBpbmcifQ%3D%3D",
+      "source": "Dutch Bros Shop",
+      "source_icon": "https://serpapi.com/searches/689bcf4d7af899daec5a2943/images/054b7d44157c5827959831f67b483b79f9f3ce3ca3fb01620ae6b6f3a7623231.png",
+      "price": "$34.95",
+      "extracted_price": 34.95,
+      "snippet": "Ground",
+      "thumbnail": "https://serpapi.com/searches/689bcf4d7af899daec5a2943/images/054b7d44157c5827959831f67b483b793a289c35dae54d68093d4632184e4bb8.webp",
+      "thumbnails": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSBVgBiLRyW78RdO9--cUqm6sRIaUtpIa59hkd87H12zAKfCuE8wD6eidiqpk5M7WiK9IygiOXYXV_URaile9nvnSqfK0c0HFRyNDu8jOk-SlmbzwFK_TtIM88"
+      ],
+      "serpapi_thumbnails": [
+        "https://serpapi.com/images/url/_ZHjO3icDcltCoIwAADQE_lRYG5ChGalWAkztX6JbqbLnDNnMm_VcbpNvb_v-6mF4IOlaSXDL8lFSRRRsIVaDSIXFKu4a7Wh7jinrNr06_9Z9pnAA46cpHLoEcnUBIiEUFFw3LerAfl5LLifG7BuCDC9xXK2g_t23IHJXZWU0J43xslMaQB9WdHwersmWYxy-iwhe7Oovwc61r09kmd3BI-wUaJnW8zTPsguwj8B8AOxbz63"
+      ]
+    },
+    {
+      "position": 19,
+      "title": "Gevalia House Blend Medium Roast Ground Coffee",
+      "product_link": "https://www.google.com/shopping/product/11649801770281042811?gl=us",
+      "product_id": "11649801770281042811",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11649801770281042811",
+      "immersive_product_page_token": "eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE2NDk4MDE3NzAyODEwNDI4MTEiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMjQzNzE0MTI4MDEzNTA0Mjc2OSIsImltYWdlRG9jaWQiOiIxNDc3MzQ5MjA1Njk2NjIzNTA5NCIsInJkcyI6IlBDXzEyMTgyNDkwMjUyMTM2NTkzNDEyfFBST0RfUENfMTIxODI0OTAyNTIxMzY1OTM0MTIiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiMTIxODI0OTAyNTIxMzY1OTM0MTIiLCJtaWQiOiI1NzY0NjI4NjQ4MTAzMzk1NDYiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwiZW5naW5lIjoiZ29vZ2xlX3Nob3BwaW5nIn0=",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE2NDk4MDE3NzAyODEwNDI4MTEiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMjQzNzE0MTI4MDEzNTA0Mjc2OSIsImltYWdlRG9jaWQiOiIxNDc3MzQ5MjA1Njk2NjIzNTA5NCIsInJkcyI6IlBDXzEyMTgyNDkwMjUyMTM2NTkzNDEyfFBST0RfUENfMTIxODI0OTAyNTIxMzY1OTM0MTIiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiMTIxODI0OTAyNTIxMzY1OTM0MTIiLCJtaWQiOiI1NzY0NjI4NjQ4MTAzMzk1NDYiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwiZW5naW5lIjoiZ29vZ2xlX3Nob3BwaW5nIn0%3D",
+      "source": "CVS Pharmacy",
+      "source_icon": "https://serpapi.com/searches/689bcf4d7af899daec5a2943/images/054b7d44157c5827959831f67b483b797eda08f9c6cc915bd3255bc607a072fe.png",
+      "multiple_sources": true,
+      "price": "$7.99",
+      "extracted_price": 7.99,
+      "old_price": "$14",
+      "extracted_old_price": 14,
+      "rating": 4.5,
+      "reviews": 534,
+      "snippet": "Tastes good (92 user reviews)",
+      "thumbnail": "https://serpapi.com/searches/689bcf4d7af899daec5a2943/images/054b7d44157c5827959831f67b483b790f521575bd949c9f9469c023cfc07bd3.webp",
+      "thumbnails": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSjTBlGztMF1ncLKG2jK4POnp_ra9_Qx8XNpP58f-NA0Le58WGTNqlDjz6lK3jGtYP8xy3Z5TilkRqkafzWowdr0XkF1GI-2agCrvASJlg"
+      ],
+      "serpapi_thumbnails": [
+        "https://serpapi.com/images/url/qhGlUXicDcnbCoIwAADQL_KeoUKEFY7SlpWg9SJr3l1zzlHq3_RZ_U2d1_P9VEKwwVGUnGI-MZFnknhQXS4HgUSNZdw9laHqGKtpue5X_3NcmNkAX5toQ8Asjp5GceADvfEX4YmylCM7PY9WAlloWoUEXTXITSsGEezJrpmXxDcaIG6hNU7G3Yxq0l76FhVz3L0zriatp4G9pKNyy1_u9UDKH_UPOVc"
+      ],
+      "tag": "42% OFF",
+      "extensions": [
+        "42% OFF"
+      ],
+      "delivery": "Free delivery on $35+"
+    },
+    {
+      "position": 20,
+      "title": "Coffee Bros. Espresso Roast Coffee",
+      "product_link": "https://www.google.com/shopping/product/15525813527403989684?gl=us",
+      "product_id": "15525813527403989684",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=15525813527403989684",
+      "immersive_product_page_token": "eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU1MjU4MTM1Mjc0MDM5ODk2ODQiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNjMzMTM2NzEyNDEwMzQ1MTkwNyIsImltYWdlRG9jaWQiOiIxMjQ5MDkzMjQyMjMxMDY0Mjc0NyIsInJkcyI6IlBDXzQwMTk0NzQ5MTY1NTI4MjMyNzF8UFJPRF9QQ180MDE5NDc0OTE2NTUyODIzMjcxIiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjQwMTk0NzQ5MTY1NTI4MjMyNzEiLCJtaWQiOiI1NzY0NjI2OTQyOTk2NDk4OTIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwiZW5naW5lIjoiZ29vZ2xlX3Nob3BwaW5nIn0=",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU1MjU4MTM1Mjc0MDM5ODk2ODQiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNjMzMTM2NzEyNDEwMzQ1MTkwNyIsImltYWdlRG9jaWQiOiIxMjQ5MDkzMjQyMjMxMDY0Mjc0NyIsInJkcyI6IlBDXzQwMTk0NzQ5MTY1NTI4MjMyNzF8UFJPRF9QQ180MDE5NDc0OTE2NTUyODIzMjcxIiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjQwMTk0NzQ5MTY1NTI4MjMyNzEiLCJtaWQiOiI1NzY0NjI2OTQyOTk2NDk4OTIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwiZW5naW5lIjoiZ29vZ2xlX3Nob3BwaW5nIn0%3D",
+      "source": "Coffee Bros.",
+      "source_icon": "https://serpapi.com/searches/689bcf4d7af899daec5a2943/images/054b7d44157c5827959831f67b483b79044a5eb53fef4172d3046961e5ec3c68.png",
+      "multiple_sources": true,
+      "price": "$49.60",
+      "extracted_price": 49.6,
+      "rating": 4.8,
+      "reviews": 155,
+      "snippet": "Tastes good (35 user reviews)",
+      "badge": "Small business",
+      "thumbnail": "https://serpapi.com/searches/689bcf4d7af899daec5a2943/images/054b7d44157c5827959831f67b483b7993a58bedeb5b1bd326a8c33f72848700.webp",
+      "thumbnails": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTHLOw-ydcrEuwOu1hcyhL2Sow8eP2YC8u-LRVWfhtRqiH4qfbKWIGuVw8iyKq_UHKjQ8104zsqGGGSKPPQLRWZ0GUmhV6qWMmXG5_HNI9zqO-iTYMD-uWq"
+      ],
+      "serpapi_thumbnails": [
+        "https://serpapi.com/images/url/Yla_DXicDcnbDoIgAADQL8JLt5lba60aNMxbJdmLS7SgTQWFOfqo_qe_qfN6vh-mlBh8265b2huh6gqosp1az0HdFacW7Rp7YJ0QvH2u5ep__iaslpCeURCNwFS03-sx0i6jhgWTUzd6dTzJt54GQZqRB1Op5GgmHyUmB6iz0eMGy-KC8CvxXGf2HiSE8ITjOAlScnPgpWHZQpJjc4XzAoWH5VtGgJ_z4w5oIn9KAT3c"
+      ]
+    },
+    {
+      "position": 21,
+      "title": "Atomic Coffee Roasters Atomic Coffee Space Cadet",
+      "product_link": "https://www.google.com/shopping/product/6389008691906791064?gl=us",
+      "product_id": "6389008691906791064",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6389008691906791064",
+      "immersive_product_page_token": "eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjM4OTAwODY5MTkwNjc5MTA2NCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwNjkxMjkyMTI5MDg0NTM3NjA5IiwiaW1hZ2VEb2NpZCI6IjIzMTUzNTA1ODMxOTUxOTUxMzgiLCJyZHMiOiJQQ18xNDc1MjY3NDg1NDg2MzY5MDQwOHxQUk9EX1BDXzE0NzUyNjc0ODU0ODYzNjkwNDA4IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjE0NzUyNjc0ODU0ODYzNjkwNDA4IiwibWlkIjoiNTc2NDYyNjk0MzU5ODIwOTMzIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiIsImVuZ2luZSI6Imdvb2dsZV9zaG9wcGluZyJ9",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjM4OTAwODY5MTkwNjc5MTA2NCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEwNjkxMjkyMTI5MDg0NTM3NjA5IiwiaW1hZ2VEb2NpZCI6IjIzMTUzNTA1ODMxOTUxOTUxMzgiLCJyZHMiOiJQQ18xNDc1MjY3NDg1NDg2MzY5MDQwOHxQUk9EX1BDXzE0NzUyNjc0ODU0ODYzNjkwNDA4IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjE0NzUyNjc0ODU0ODYzNjkwNDA4IiwibWlkIjoiNTc2NDYyNjk0MzU5ODIwOTMzIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiIsImVuZ2luZSI6Imdvb2dsZV9zaG9wcGluZyJ9",
+      "source": "Atomic Coffee Roasters",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRy3KH7vo3jRzKVrKxD2eWuZ-D7tBsL0bmZBBktiHh3FIZAHQkZ_48Mq8FNIfhVlwKnc9t4LtY2hQY3pR89A5XOsaF7L2kzFGseDm8",
+      "multiple_sources": true,
+      "price": "$90.00",
+      "extracted_price": 90.0,
+      "rating": 4.9,
+      "reviews": 25,
+      "snippet": "Light Roast · 12 oz–5 lb · Whole Bean",
+      "badge": "Small business",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRuFLfRZDy7_WqvQakJdpJCx44WoPJQ_inUjn22p_DhcobLH_Jfuadg7IP9M2TbdIQkSSa-frAZJoLGqsLseiLx9VuOHGih0NRCMtOtEltdDucPz3Ibte8Ukw",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/EkdednicDcndCoIwGADQJzLDhDKIEC1zrPKnErwR3fxZ1jbdZ1lP1ev0NnVuz_fTAEi11PWSk_4loaQaFNyY1ApyYGRCxF1XjZCS8Xrdrf63tA_U8kg0bHEVpe5rniXdI8xbRCVyRtNMRIDCjPHzlRuGzNyGiALvMlQNOa3nfmDtjVNB_bCN41yrejtFAnudwqpkeLQuw3HnsWZ6iJw9HGFzA-oOJHjP_ALKxbl9_gDkUD_l",
+      "thumbnails": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRpasYelL2PwnP315H-LuoZgHN6mIW0sWECJPw0uVdhsRhp_pK5Ojnujd2-p-ySQcVdXa0viaC6l5BhUzs6cBw06Ekt2fISuCfpWWKeA_dj2Kjz_4gc-C27Rw"
+      ],
+      "serpapi_thumbnails": [
+        "https://serpapi.com/images/url/DE1VMHicDcnxDkJAHADgJzp0RcvWmqxFTGJR_WO6w1GdX93JeKpep7ep79_v-2FSgjBVteDkNYAsKJJXjpVKyFzWRCHtQxWsBah5tXou_2daAV1sSQS5OBd3H4c9D6cT3UF-114qJzAebqqJdGPvwl7rEspExCADT983vGsoRoCG-EASesq1d53bxl1fs-MoDLLuNWNzk7h0484uIU29wspog71mzGYVQTaeR_0Pr-g-og"
+      ],
+      "delivery": "Get it by Aug 20 (Free)"
+    },
+    {
+      "position": 22,
+      "title": "Peet's Coffee Major Dickason's Blend Dark Roast Whole Bean",
+      "product_link": "https://www.google.com/shopping/product/7164128424788889635?gl=us",
+      "product_id": "7164128424788889635",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=7164128424788889635",
+      "immersive_product_page_token": "eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzE2NDEyODQyNDc4ODg4OTYzNSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijc1MTUxMzgwNzYzMDQzNjc0OSIsImltYWdlRG9jaWQiOiIxMjc4OTM5NTgzODEzMzQwMDI2NiIsInJkcyI6IlBDXzMzMDk2ODQyNzE2OTIwNjA1Mzd8UFJPRF9QQ18zMzA5Njg0MjcxNjkyMDYwNTM3IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjMzMDk2ODQyNzE2OTIwNjA1MzciLCJtaWQiOiI1NzY0NjI4NjM0MzM5OTE1MjUiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwiZW5naW5lIjoiZ29vZ2xlX3Nob3BwaW5nIn0=",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzE2NDEyODQyNDc4ODg4OTYzNSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijc1MTUxMzgwNzYzMDQzNjc0OSIsImltYWdlRG9jaWQiOiIxMjc4OTM5NTgzODEzMzQwMDI2NiIsInJkcyI6IlBDXzMzMDk2ODQyNzE2OTIwNjA1Mzd8UFJPRF9QQ18zMzA5Njg0MjcxNjkyMDYwNTM3IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjMzMDk2ODQyNzE2OTIwNjA1MzciLCJtaWQiOiI1NzY0NjI4NjM0MzM5OTE1MjUiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwiZW5naW5lIjoiZ29vZ2xlX3Nob3BwaW5nIn0%3D",
+      "source": "Walmart",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "multiple_sources": true,
+      "price": "$11.56",
+      "extracted_price": 11.56,
+      "rating": 4.6,
+      "reviews": 879,
+      "snippet": "Tastes good (98 user reviews)",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSlf_iIDdccFDUaL374XtxQWLHkxJftmQH415WqRi5DEcm7B-SDoo-R-iCcpw4YN2XIB7WkhqH7yYK-byUK6My7U6ADXNkkHExqHIjLCXFcQO9ZJkE3BAJn",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/hFuXcHicDcndCoIwGADQJ1qSfyMhQp01zQwV0bqJ_MxcS505SF-q9-lt6tye76eRUoyWotw6eM1C3ioky05d3Ed5lQwW0LfK2PRCsO6-Gdb_s-yoWu0gfdYX5pMKYEuya6hhvZBTnIeUT0Et25jqSyMfEmYQD1rsoJT0PUoQc0G89VOkFr6Dc94MFM-nPSrnbG8eZpyZNikizqk3DdR_hG6xhfi4Ogfc0xw76H7euzxK",
+      "thumbnails": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTqkL9L8LBVJtJsHTFFEsxWi39MNtj7fnSztHDHJMU8tLnjmmgy6gnN-H011gVTsIRHZD0b0eIflB1bU6TeAtMkCI7fH3AO3uhq73pEuHDUE7OSqj5-rsrT"
+      ],
+      "serpapi_thumbnails": [
+        "https://serpapi.com/images/url/IFSYUHicDclZCoJAGADgE7kluUGEpjaKC9Ro0Ftu45Lj6PxCdqju023qe_2-nxaAcUuSalouG4O6EqCgO5FweEBXiuU0SrydGOsoOc6H_1l2UpnnEs9DZEZG5OQhhBxh3_f469apZpxArzf0-gbkojDODIhoP45k0whNBCQrCskxDy7o7sqFXAfN01GKTMO1DfFwCvQGqXaqru2sq8xbkZt5enqd-72w8AX_AOstPK4"
+      ]
+    },
+    {
+      "position": 23,
+      "title": "Green Mountain Coffee Dark Magic K-Cup",
+      "product_link": "https://www.google.com/shopping/product/5289477184551847511?gl=us",
+      "product_id": "5289477184551847511",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=5289477184551847511",
+      "immersive_product_page_token": "eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTI4OTQ3NzE4NDU1MTg0NzUxMSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE2NTEyMjA0ODgwMjEyNTM3NjY4IiwiaW1hZ2VEb2NpZCI6IjExMzYwMjA5ODM0NDAyNTkxNzgxIiwicmRzIjoiUENfOTQwMjEyMDM2ODg4NjkzMTU1NHxQUk9EX1BDXzk0MDIxMjAzNjg4ODY5MzE1NTQiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiOTQwMjEyMDM2ODg4NjkzMTU1NCIsIm1pZCI6IjU3NjQ2Mjg1MjAzNjIyMTY4OSIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJlbmdpbmUiOiJnb29nbGVfc2hvcHBpbmcifQ==",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTI4OTQ3NzE4NDU1MTg0NzUxMSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE2NTEyMjA0ODgwMjEyNTM3NjY4IiwiaW1hZ2VEb2NpZCI6IjExMzYwMjA5ODM0NDAyNTkxNzgxIiwicmRzIjoiUENfOTQwMjEyMDM2ODg4NjkzMTU1NHxQUk9EX1BDXzk0MDIxMjAzNjg4ODY5MzE1NTQiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiOTQwMjEyMDM2ODg4NjkzMTU1NCIsIm1pZCI6IjU3NjQ2Mjg1MjAzNjIyMTY4OSIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJlbmdpbmUiOiJnb29nbGVfc2hvcHBpbmcifQ%3D%3D",
+      "source": "Keurig.com",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTSHRSWLtNOT_evJG0XwJXUUqKqQSqsAwtObYz59YS1csBF79X7MFw4kzl4Vh7rT4riGTFK3ieqjE5zAf8aSnr5VL6FrUAYQw",
+      "multiple_sources": true,
+      "price": "$18.49",
+      "extracted_price": 18.49,
+      "rating": 4.6,
+      "reviews": 5800,
+      "snippet": "Tastes good (833 user reviews)",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSRr_bRXpC69saKMrIizw4PusdJMuXXwCI9qBvQpF3rXHn4bMBdnrxR4PaMtZpaJGNxS4MFGNEiuJPNDUO992dXbjs1WXjJN6lpv1V79eqXqncGgwZyXTCU",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/oVF6FnicDcltCoIwAADQE6VYYkyISEvT2DLLGv4J3cQPas5tanao7tNt6v1930-lFJe2rheMiImrgs5UzgytlCpTNdFI-9Rl1XJes3Ldrf5nbxAFPjnH4p7HmLsWkNkBiqB-j2bUSxrCHuPRDUDnDCfuLQTeMzOHDmXiFZtRBlXKs9BHr7MJPR_t6j6M0DY5AjCnOG-kccNNiKwHH4zrEhQd7hjxyzGd8MVNflotPp4",
+      "thumbnails": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQfHIiseXIPmZzeYGdcJsc1-pvFVN4veJGi7Qx2FoLbnszyzp9Z_SbJULu1wZRxvo21zOPBiqn9hMF8PVjHRlmFaikJ8kwYG9zhSbrqcJts5xy9J0zaw247"
+      ],
+      "serpapi_thumbnails": [
+        "https://serpapi.com/images/url/taVeOHicDcldDoIgAADgE5npbIpba_WAysy0VktfmiIplYhC_nCo7tNt6nv9vp9aSi5cXScM9zOXpNRkwYxFJWQuKV7gttFF3XJOWbXp1v9zt1EJPJzc_YAKcg3iJlMk9UqMBDY0PsBLZA0EedROJhO2YcGEmhUH2e1UoHP4NsbsOA2taahDvKMdA_UeOvHl4R9fDczpEznPMfWAqk9F32EkxWqaAVqqfDQt-weRQz-R"
+      ],
+      "delivery": "Free delivery on $29+"
+    },
+    {
+      "position": 24,
+      "title": "Death Wish Coffee Medium Roast Coffee",
+      "product_link": "https://www.google.com/shopping/product/4783583468536379636?gl=us",
+      "product_id": "4783583468536379636",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4783583468536379636",
+      "immersive_product_page_token": "eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDc4MzU4MzQ2ODUzNjM3OTYzNiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE0MzYyNTYxMzk1NjcxMDk4MjM1IiwiaW1hZ2VEb2NpZCI6Ijg4NzQxMDEwMDU5ODU0ODczODciLCJyZHMiOiJQQ18yMjEwMDE2NDI5NzIzNDc5ODA5fFBST0RfUENfMjIxMDAxNjQyOTcyMzQ3OTgwOSIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIyMjEwMDE2NDI5NzIzNDc5ODA5IiwibWlkIjoiNTc2NDYyNzI0OTEzNDA1MzA4IiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiIsImVuZ2luZSI6Imdvb2dsZV9zaG9wcGluZyJ9",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDc4MzU4MzQ2ODUzNjM3OTYzNiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE0MzYyNTYxMzk1NjcxMDk4MjM1IiwiaW1hZ2VEb2NpZCI6Ijg4NzQxMDEwMDU5ODU0ODczODciLCJyZHMiOiJQQ18yMjEwMDE2NDI5NzIzNDc5ODA5fFBST0RfUENfMjIxMDAxNjQyOTcyMzQ3OTgwOSIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIyMjEwMDE2NDI5NzIzNDc5ODA5IiwibWlkIjoiNTc2NDYyNzI0OTEzNDA1MzA4IiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiIsImVuZ2luZSI6Imdvb2dsZV9zaG9wcGluZyJ9",
+      "source": "Death Wish Coffee Company",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT3xpS8aLa1ivOxeHyWvRGBXbhgo_A5FgGRlBTVarzT7wjaQU_uH6wFDHNaQ3bsWbOini649L-mTNBU-SjN276G42MOU6acT2n-4qriYIeq5Q",
+      "multiple_sources": true,
+      "price": "$19.99",
+      "extracted_price": 19.99,
+      "rating": 4.6,
+      "reviews": 1400,
+      "snippet": "Tastes good (189 user reviews)",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQAuuUjrllaBvyxpnQSSWwBstfPeB7IK2J_qgpNan_rWlmaTQ5sInE1jdfzsvhEFPefwOkkwBHj2pts23RPP7-Jn-_mZOVlx0qlItZe-DaWf54oNH1uhRC9",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/SpA2l3icDclLDoIwFADAEwGCEoKJMVZRwAQBPyRuSIXyLaXQB6iH8j7eRmc7308BwMVSUQhL-hcHkkrwYHM5F4ChTOSkbRRRtJyXLF93q_8tN15qHpJgMwzXqqcUo_H15Cw4n6MJCch8ggznqLlxl3MPs7iPaIMvgS4cZqlVmr3FWFh7n2TTqa4nZFcaB6HNQ983JJdJcXM_3ehz1lEH7kTa4SjTF61nq0MRbs0f3sU_rA",
+      "thumbnails": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTJsQUpjLfCS7f0njvvpF7vLkMG-jnzAJk0MpM2LsCIKa_5BjJ1FVHNxVIqYLL2vybNKsRA6CPLatgb27R3ZqV50_vWusBUuNA6xL4XkEsHWKccfgQZWyeq"
+      ],
+      "serpapi_thumbnails": [
+        "https://serpapi.com/images/url/deabYHicDclJDoIwAADAFwkIApHEmELcoBBBBfVioOzE0trSgI_yP_5G5zrfT805YZYsFxi9JsKLfMYzrEkV4ylvkIT6p8zqnpAGV2u6-p8Fgny5Q2eXhRfSwtI5maWCWyHI1hSw83ezFr-B2yk-8VXInIOXPnS7defbeB-M8YHeIFTFlAUei4DhHGHKq0w1I-1OY115iGRg9mUIgDHCxbXbsH3iIVRW4T2ZCvoDF_c97A"
+      ]
+    },
+    {
+      "position": 25,
+      "title": "Lavazza Caffe Espresso Whole Bean Coffee",
+      "product_link": "https://www.google.com/shopping/product/8157153556221040021?gl=us",
+      "product_id": "8157153556221040021",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=8157153556221040021",
+      "immersive_product_page_token": "eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODE1NzE1MzU1NjIyMTA0MDAyMSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjY3OTE4OTEwMDE1MjY3NDkyOTMiLCJpbWFnZURvY2lkIjoiMzgxNTU0NTE2NTM3OTk5Njc0NyIsInJkcyI6IlBDXzE0Nzg0MTU2NDU1OTcyMjYzMTYyfFBST0RfUENfMTQ3ODQxNTY0NTU5NzIyNjMxNjIiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiMTQ3ODQxNTY0NTU5NzIyNjMxNjIiLCJtaWQiOiI1NzY0NjI4MzM2OTAzMzkyOTUiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwiZW5naW5lIjoiZ29vZ2xlX3Nob3BwaW5nIn0=",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODE1NzE1MzU1NjIyMTA0MDAyMSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjY3OTE4OTEwMDE1MjY3NDkyOTMiLCJpbWFnZURvY2lkIjoiMzgxNTU0NTE2NTM3OTk5Njc0NyIsInJkcyI6IlBDXzE0Nzg0MTU2NDU1OTcyMjYzMTYyfFBST0RfUENfMTQ3ODQxNTY0NTU5NzIyNjMxNjIiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiMTQ3ODQxNTY0NTU5NzIyNjMxNjIiLCJtaWQiOiI1NzY0NjI4MzM2OTAzMzkyOTUiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwiZW5naW5lIjoiZ29vZ2xlX3Nob3BwaW5nIn0%3D",
+      "source": "eBay - nissonp",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRR0_zHnaJ3qErUF0QmVnyDMkZsagL2saaoEuixfD9kcC3BfifYr-i6Mb1745RdfmGPuusArl4AC2obvdP1BwJRoInAlVM",
+      "multiple_sources": true,
+      "price": "$16.30",
+      "extracted_price": 16.3,
+      "rating": 4.4,
+      "reviews": 154,
+      "snippet": "Tastes good (21 user reviews)",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRDj7iS8g3HcT3g3W7wMqOpnWZB3H1mhOn8GDqwLgpEw9Ygr-Lf2nLloVla7KvBdQrnWnudVgVj7zcT4AquKdvtM7kqGKacjbfOoaeW9fsGgOIvoqYgk-jEpg",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/O8tyUXicDclbCoJAFADQFZnUBJNChGFYqEkliv2NM3p9zkNHpVbVdtpNnd_z_VRay9E2zYLT4SV1wQydc7SCURNd0xUVvTlWQsqaw0Ht_2c7V2Z59O42uH7sAJ1pjACleAlVJHn6PKLzuq8ivvNctQQgT4uVwWAE5YYHnUg6gv35yG4DT_nEEkga_Kbx1lGTz2Yd4lZ5PqFNXkaCFKlVjh5El1moDFqjOUn4Abl6QC4",
+      "thumbnails": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTHf0x-PL3ZAMUJmtLW8Lpgn_ZVLifyhgVseudFPlYM6bdXsdH7g_JTRHu-lbr50B2EEfZaIyeZu9y4SaRKGW5Tap5TuISktgVka2yC73VXW0HgaRrujA-NVw"
+      ],
+      "serpapi_thumbnails": [
+        "https://serpapi.com/images/url/ot_vM3icDclJDoIwAADAF7EERMXEGDTKIhKCWJALKRQKslXaRvsrv-NvdK7z_TSMEbpRlGosZ0FYhSRWjLqMKYOsLeVyGhTaTIS0I949t__bWAEy7TJ2avUthb6eWZebNzA_WfsEj3kG_LYWDQa04ugU9vfLskApRc4K514cOVzqi9lQ99rxWGfQFVXGTbG4wuhsJ0YMiRFz99oxDDqoicNKB2miOhhGM39YUgBeP7DYPsI"
+      ],
+      "delivery": "Get it by Aug 20 (Free)"
+    },
+    {
+      "position": 26,
+      "title": "Cameron's Coffee Organic Scandinavian Blend Whole Bean Coffee",
+      "product_link": "https://www.google.com/shopping/product/15778966492832475249?gl=us",
+      "product_id": "15778966492832475249",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=15778966492832475249",
+      "immersive_product_page_token": "eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU3Nzg5NjY0OTI4MzI0NzUyNDkiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMzYyMDg4Njk5Nzg4ODg1MzUxNyIsImltYWdlRG9jaWQiOiIxMzIwOTYyMjEwMDIzNzAxMjA5NCIsInJkcyI6IlBDXzY5MzcwNzI5MTkwNTk4ODk1OTZ8UFJPRF9QQ182OTM3MDcyOTE5MDU5ODg5NTk2IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjY5MzcwNzI5MTkwNTk4ODk1OTYiLCJtaWQiOiI1NzY0NjI3ODIwMTQxNDg2MDMiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwiZW5naW5lIjoiZ29vZ2xlX3Nob3BwaW5nIn0=",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU3Nzg5NjY0OTI4MzI0NzUyNDkiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMzYyMDg4Njk5Nzg4ODg1MzUxNyIsImltYWdlRG9jaWQiOiIxMzIwOTYyMjEwMDIzNzAxMjA5NCIsInJkcyI6IlBDXzY5MzcwNzI5MTkwNTk4ODk1OTZ8UFJPRF9QQ182OTM3MDcyOTE5MDU5ODg5NTk2IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjY5MzcwNzI5MTkwNTk4ODk1OTYiLCJtaWQiOiI1NzY0NjI3ODIwMTQxNDg2MDMiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwiZW5naW5lIjoiZ29vZ2xlX3Nob3BwaW5nIn0%3D",
+      "source": "Sam's Club",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRGj77Bp2MtyuBjRh6ORUjyPRrKInP7XrHQbcgGLvMacgiVIf4ApZG2EbFv27Di12xoo3RrxcOgWtVxjU6qqDaMIb7zQERnmacn",
+      "multiple_sources": true,
+      "price": "$32.43",
+      "extracted_price": 32.43,
+      "rating": 4.4,
+      "reviews": 155,
+      "snippet": "Tastes good (25 user reviews)",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTvTnNjIlkN65FUFxsE108GZY7VrArHNNelmC_GD9S4t0X6Zekl-HWlPVw6Q6OfXNgY6RkzSIoQT0edYS6NxXZwX4B7lrezb0Cf8xydq7cRD-RZNyMnq1qA8w",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/KEt4rXicDclXDoIwAADQE7GMFjAxBkHGh1WGCPwYKWVILauRcSqv4230_b7vp2SsHbaCgCnq55bhjGMpXfHFwB6sQjxqXsJQNm1b0WLf7f631WCmWih4BxQ-HVJDsDGv5jQcJVGxklgOe623IcTkpd8tQ_XXTIxAgmvC2TdyCUfggnMewSIGXr34TuMGIs5iH8ApSsZofZBJj5dU1HNlmrNORp7BeQmcT7STOk0Zf2Z7Pg8",
+      "thumbnails": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQwCbx_m8QB47heYjOvWpN6Hg4uxquT6I0EsCpGU9nrfQ9NVSmNXSNOSqlpA10UV9T9M0a1Xjn_0nKZTJOcQeyTbQXUHiw0lpSvlh266Ryl3fikXgW-Dcm64dA"
+      ],
+      "serpapi_thumbnails": [
+        "https://serpapi.com/images/url/gePHr3icDclJDoIwAADAFykFSbUmxiAaUGNJZdULgbIq1AIF5Fk-x9_oXOf7KYTg3VqSUkbbiYs0mYmYKfO8E5Eo6Zy-aqkrXpyXLN82m_-tNZwgg5JRj99hvSI7dVmkt4c1-BxDM1f7d9M78AgOnc4NF7E2Iwh7do0DG1t2U3FNBq6HHHQBkRw8WAjY-e6cLErSyYlJ4JrlCCpuD1WhQHidqkVWPoPcn-1pDdVE-wHfOT6z"
+      ]
+    },
+    {
+      "position": 27,
+      "title": "Bones Coffee Company Salty Siren Whole Coffee Beans",
+      "product_link": "https://www.google.com/shopping/product/15163816115155648945?gl=us",
+      "product_id": "15163816115155648945",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=15163816115155648945",
+      "immersive_product_page_token": "eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTUxNjM4MTYxMTUxNTU2NDg5NDUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNDM1MzcwNTE4MDEyNDc0ODczOSIsImltYWdlRG9jaWQiOiIxOTk0MjkwMTM0NjQ2NTQwMDY4IiwicmRzIjoiUENfMzQ5ODMzODAwNzQ1OTc4NDkxNXxQUk9EX1BDXzM0OTgzMzgwMDc0NTk3ODQ5MTUiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiMzQ5ODMzODAwNzQ1OTc4NDkxNSIsIm1pZCI6IjU3NjQ2Mjc0OTU3NTQwNjE4MiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJlbmdpbmUiOiJnb29nbGVfc2hvcHBpbmcifQ==",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTUxNjM4MTYxMTUxNTU2NDg5NDUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNDM1MzcwNTE4MDEyNDc0ODczOSIsImltYWdlRG9jaWQiOiIxOTk0MjkwMTM0NjQ2NTQwMDY4IiwicmRzIjoiUENfMzQ5ODMzODAwNzQ1OTc4NDkxNXxQUk9EX1BDXzM0OTgzMzgwMDc0NTk3ODQ5MTUiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiMzQ5ODMzODAwNzQ1OTc4NDkxNSIsIm1pZCI6IjU3NjQ2Mjc0OTU3NTQwNjE4MiIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJlbmdpbmUiOiJnb29nbGVfc2hvcHBpbmcifQ%3D%3D",
+      "source": "Bones Coffee Company",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSP-3CAlIHM4vrNOnJx5Jd7oBV13KVkk1fiPTxyM09zvi5dG3Cb77DP5Yk91NGg0tnVV2YHLB83fSvddh4G2eFtTFdFtAhWT5aKHscH",
+      "multiple_sources": true,
+      "price": "$17.99",
+      "extracted_price": 17.99,
+      "rating": 4.7,
+      "reviews": 2000,
+      "snippet": "Tastes good (651 user reviews)",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTU8LKRKpdhKEq-IWYKjOOO3x8rbJAzPQBXG5E2J7Ps5HgOireQtLjFihg_lmPHwctQCsQwq3qKc6neNR1opZJH0yM56Cu9MiIvR-V5Pf_FXFiaTKXqWgoC",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/5c_rW3icDcndDsEwGADQJ9oPUkYiwmK2FVsXbNwIXXVd2Nr18zMP5X28Def2fD8FgNQjy2IVbVoJLDfgXNkm13ACQU1a3yxd1FKKik_U-H-j6TofLuhm6yxxgmVe4LkygnSPyyiKei-nOYfTd0xm2QLNu-Eg1sjnkWgYgWXpiYIfr7fYf1IgriZP1VOY9iu2Tjq1PIS-3a5Q370PVyJ4JMYOxZejl3nitMGZSnnt_gD73z2Z",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT8-YknDGdl-TZcAm2TMFzDzl17JGotKBRDlAth-MJJmOjwfkHGzhH0W29BFJnWAkDxBVt8un_psTBMLTrSaAlzUbqu3BBvVjDqixG-HFEWXrNd9_YluL_s"
+      ],
+      "serpapi_thumbnails": [
+        "https://serpapi.com/images/url/SZoscXicDc1REoFAGADgE63IA5kxZndW20TMsISXho1K27a1f6RDuY_b6Pl7-H7fFECbmWXdlag_Gu4xgpsaDhIDV8jEQJSFZdJS60wli2re2wxvYocJPkXnXFEWS8QvAhc2D9yOdnI08VkJK7KjEkOKAt8vts_3I_dYl3rD0HaI66sQ57QlR5g2KtKGk2DN6_0Vy-5wq5oxIa_jk1ZZy5DnLsNT3YfRWTbryPwBAKA-JA"
+      ],
+      "delivery": "Free delivery on $75+"
+    },
+    {
+      "position": 28,
+      "title": "Community Coffee Breakfast Blend Ground Coffee",
+      "product_link": "https://www.google.com/shopping/product/2978693696816015079?gl=us",
+      "product_id": "2978693696816015079",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=2978693696816015079",
+      "immersive_product_page_token": "eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjk3ODY5MzY5NjgxNjAxNTA3OSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE2NDc5MjM0MTgxMTE2MTMxMjI3IiwiaW1hZ2VEb2NpZCI6IjMyMDkzOTUwNjQ5MzAxMzgzOTEiLCJyZHMiOiJQQ18xODM1Mjg0NDIxMjU1NjY3MDQ1MnxQUk9EX1BDXzE4MzUyODQ0MjEyNTU2NjcwNDUyIiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjE4MzUyODQ0MjEyNTU2NjcwNDUyIiwibWlkIjoiNTc2NDYyODEwNTI3ODk1ODQyIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiIsImVuZ2luZSI6Imdvb2dsZV9zaG9wcGluZyJ9",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjk3ODY5MzY5NjgxNjAxNTA3OSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE2NDc5MjM0MTgxMTE2MTMxMjI3IiwiaW1hZ2VEb2NpZCI6IjMyMDkzOTUwNjQ5MzAxMzgzOTEiLCJyZHMiOiJQQ18xODM1Mjg0NDIxMjU1NjY3MDQ1MnxQUk9EX1BDXzE4MzUyODQ0MjEyNTU2NjcwNDUyIiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjE4MzUyODQ0MjEyNTU2NjcwNDUyIiwibWlkIjoiNTc2NDYyODEwNTI3ODk1ODQyIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiIsImVuZ2luZSI6Imdvb2dsZV9zaG9wcGluZyJ9",
+      "source": "Walmart",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "multiple_sources": true,
+      "price": "$18.42",
+      "extracted_price": 18.42,
+      "rating": 4.7,
+      "reviews": 735,
+      "snippet": "Tastes good (84 user reviews)",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQe5RP0Qb-VhWEv1Lq6ChX-lsJNQA4Nk9Jw7CTVe3RkMxz2pSTaMjSn7L0AuDtQRfwF1nDySXfZskFtF-N3ahrqsCLZTWtB_Xx-4tC4bGgavmnR7iv5KA34",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/GBkP7nicDclLDoIwFADAE1VAqgQTY7CKiSKRT4SwMVAqRaQU-8TPobyPt9HZzvfDAaSaaRoT9PaSwEoEhTBHlYIcajqiXasp3klZi2rRz_83c_zS3tCATcKDHhToyJP1YHj9lPAUXdXWDxzsN_b2YZH4yMyw2T_fYxnF-f4SCcvTnfsKgvD8cA2xekXpOVONCy7yzZzfekW8LE5geUqfCAPBxabKh1aEVj1Mdo6Jf9qDPSI",
+      "thumbnails": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR41jSXaEsFHctXZFRMN4I1humbzbuus1NjQlLIIOxVP9GzKeK0jNUo8fqGqgIG_juJwzHZpBbSSnO-txoRlQXMYNQUS_ZO"
+      ],
+      "serpapi_thumbnails": [
+        "https://serpapi.com/images/url/xSY-83icDclRCoIwAADQE6lJfaQQUZBzmTMdhvkjbpo6dM62kXmQ7tZt6v2-76dVSkjXsmpOn2-h6spQhK_NRqpSddSk42DJdhSi481-2v3PPaDKATTZ2Axn5Ul6PlVZ7iUh2kC71QNZiNbSRizuLxBG8-3qgCWogxVD6bh9TGBqICiYPr8WPxdHgjGPDDWPSR9n4R3FKS7y6Ae66DaX"
+      ]
+    },
+    {
+      "position": 29,
+      "title": "Coffee Bean Direct Godfather's Italian Espresso",
+      "product_link": "https://www.google.com/shopping/product/16102328730263909388?gl=us",
+      "product_id": "16102328730263909388",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=16102328730263909388",
+      "immersive_product_page_token": "eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTYxMDIzMjg3MzAyNjM5MDkzODgiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNTcxMDIyMzU0MDk2NTc1MzgwNCIsImltYWdlRG9jaWQiOiIxNjgyMjQzNDIyMTczODcwNTc0NCIsInJkcyI6IlBDXzE3OTA5MDI4MTYyODY1MzMyODIzfFBST0RfUENfMTc5MDkwMjgxNjI4NjUzMzI4MjMiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiMTc5MDkwMjgxNjI4NjUzMzI4MjMiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwiZW5naW5lIjoiZ29vZ2xlX3Nob3BwaW5nIn0=",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTYxMDIzMjg3MzAyNjM5MDkzODgiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNTcxMDIyMzU0MDk2NTc1MzgwNCIsImltYWdlRG9jaWQiOiIxNjgyMjQzNDIyMTczODcwNTc0NCIsInJkcyI6IlBDXzE3OTA5MDI4MTYyODY1MzMyODIzfFBST0RfUENfMTc5MDkwMjgxNjI4NjUzMzI4MjMiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiMTc5MDkwMjgxNjI4NjUzMzI4MjMiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwiZW5naW5lIjoiZ29vZ2xlX3Nob3BwaW5nIn0%3D",
+      "source": "Coffee Bean Direct",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRvt34BnJytGmsaecIoGZ83hbnBJVF4dXdDONzFsW5G5U3riOx_dArIdcw3nYHCufUhgxyEX_QS5E9Fw6aheZPlLwyFgWJwCJA5JonyqZanrYs",
+      "multiple_sources": true,
+      "price": "$60.95",
+      "extracted_price": 60.95,
+      "rating": 4.9,
+      "reviews": 29,
+      "snippet": "1–5 lb · Whole Bean",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRYac93j7FES_9wi5fK7bgtu1wZEq9uBZjcJM6rz8YoyjC-yds-WC8B2y83D5Q4TPGxmMpnLSRjCvuuA0o94YXYA8ERpyLSS5i77IsD9D6HHJ7iLrf7cAu8",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/NN6Rg3icDclJDoIwAADAFwEuQFsTYxAQFzBKTRQuBspiSYRCW7U-yv_4G53rfD83IRifGUbZkkExURaayNuRXnORCUp00t0NfusYo2296Of_mzn7AgUkTjKCpg1Y-fiKntSqdiCvhRw_U79Hcpk2ZBvZwxsmnWpcTRVcO7twOVFw6llH83QIXveItSGOG_chpTPqkJlcEgf6MVMhxhYFYMM95Nnr9RbQcKgAcST8AemTPGU",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSAHDJUVb03FCJP-ZmcZ9okUojugFsgLrKkCJQ5DhxlBU-aIYrpSC7Mn8vyqjMyj1y90587DtrkYxIPmbqeOncO2Y521ShiRFI15LyZe9a2f7RckbmzD7t6"
+      ],
+      "serpapi_thumbnails": [
+        "https://serpapi.com/images/url/U_ajo3icDclJDoIwAADAF7EaZEmMQRoUBEEIJnCjBVkqpUA11Ef5H3-jc53vp2WMLpYk1QTNnLK6EhgkstgsrGQdEtE4SEs7UtqRZj_t_mfZl8o8otQ-AT-7QXnjOn4sFAMqzBFnY_9s3KUJ5jN2_KsG2vVxyITSy2eaOnpIjBef-pD3CjdlzdABm3G-evEApzoiKFJzTVXStktcT9ECXtRmqd71BGE4vIHOtj_8QD1c"
+      ],
+      "delivery": "Get it by Aug 21 (Free)"
+    },
+    {
+      "position": 30,
+      "title": "Caribou Caribou Blend Coffee K-Cup",
+      "product_link": "https://www.google.com/shopping/product/55627249135614178?gl=us",
+      "product_id": "55627249135614178",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=55627249135614178",
+      "immersive_product_page_token": "eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTU2MjcyNDkxMzU2MTQxNzgiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzNzQzMjYxMjAxMjkwNzI1MjUxIiwiaW1hZ2VEb2NpZCI6IjcxMjg0NDc0NTQzMzM0MjA4MTciLCJyZHMiOiJQQ18yNDk1OTA4MTkxMzIxMDg0ODEyfFBST0RfUENfMjQ5NTkwODE5MTMyMTA4NDgxMiIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIyNDk1OTA4MTkxMzIxMDg0ODEyIiwibWlkIjoiNTc2NDYyMzc2ODU2MjQ5MDg5IiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiIsImVuZ2luZSI6Imdvb2dsZV9zaG9wcGluZyJ9",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTU2MjcyNDkxMzU2MTQxNzgiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzNzQzMjYxMjAxMjkwNzI1MjUxIiwiaW1hZ2VEb2NpZCI6IjcxMjg0NDc0NTQzMzM0MjA4MTciLCJyZHMiOiJQQ18yNDk1OTA4MTkxMzIxMDg0ODEyfFBST0RfUENfMjQ5NTkwODE5MTMyMTA4NDgxMiIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIyNDk1OTA4MTkxMzIxMDg0ODEyIiwibWlkIjoiNTc2NDYyMzc2ODU2MjQ5MDg5IiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiIsImVuZ2luZSI6Imdvb2dsZV9zaG9wcGluZyJ9",
+      "source": "Keurig.com",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTSHRSWLtNOT_evJG0XwJXUUqKqQSqsAwtObYz59YS1csBF79X7MFw4kzl4Vh7rT4riGTFK3ieqjE5zAf8aSnr5VL6FrUAYQw",
+      "multiple_sources": true,
+      "price": "$9.99",
+      "extracted_price": 9.99,
+      "rating": 4.6,
+      "reviews": 2700,
+      "snippet": "Tastes good (409 user reviews)",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ9B8ELquCVhIiVLOFVkVv25S6MzfHkbJjV9wPM1cuss-oDV03bc3F4XE5nfAgIn5UwOSBNoVSRQS68470i3iQIX_Lrjlvaou-p9BXwVhh75f7MN_raygrlwQ",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/XCn_b3icDclJDoIwAADAFyEgu4kxoKIYFpHYcCNQhVaxrbTQ6Kv8jr_Ruc73g4RgfKGqVwKHFxPXiyIaos86LmqB4QzSh8oRZQyTbvVc_m_hpxdvB3MvcLfxc1wDFGEQZyG4g2luFXbybvf35nADnjwmOhw5V-gGaEYDjdAstxZp_S4i1llmRZBSUJzywnZNR8MGzqOyiodbP9V0VJgXlBIg5Fitk6TVUL-6oZf5D0mePfk",
+      "thumbnails": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRnzvpMLRNCXJRjb4w1M9ijqc3313soaBLP1AxvGfu_pTtjJkjn-J332f2dSLFNEw57SLtL-EvFNRV2J3QdPPIUKZHajs3tQJBs_2hAltthTYrAL4v8gh8Rtg"
+      ],
+      "serpapi_thumbnails": [
+        "https://serpapi.com/images/url/lm2I63icDcndDsEwGADQJ5pl6wRLRDaZn6pluhHcLNOxruhKPx2eyut4G87t-X44gNK-bR8lu78UHEsLDtLpVBoKqFmHNVdb80apWlaj2_B_fhCXgymj8m3UktB4vMVUHLzWWQ5qcWMIOUg3RUgSJ3ia6emRqwwEPgtpYYTck1umZBJHbbeXEiBWZCYx3bgYrcokma8X-1khNIIVDnXu8uACwLPdPSCe6Ve8T6H6AXiSPew"
+      ],
+      "delivery": "Free delivery on $29+"
+    },
+    {
+      "position": 31,
+      "title": "Chock Full O' Nuts Original Ground Coffee",
+      "product_link": "https://www.google.com/shopping/product/8393113149040252091?gl=us",
+      "product_id": "8393113149040252091",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=8393113149040252091",
+      "immersive_product_page_token": "eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODM5MzExMzE0OTA0MDI1MjA5MSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE1NzE1ODU4ODA4ODUyOTQzNDUzIiwiaW1hZ2VEb2NpZCI6IjQ5NDE5ODgyNzYyNzA1OTY1MiIsInJkcyI6IlBDXzczMDkzNzkzMTQ3NTMxMDMxOTh8UFJPRF9QQ183MzA5Mzc5MzE0NzUzMTAzMTk4IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjczMDkzNzkzMTQ3NTMxMDMxOTgiLCJtaWQiOiI1NzY0NjI1MTg0OTQxNTcwNDMiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwiZW5naW5lIjoiZ29vZ2xlX3Nob3BwaW5nIn0=",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODM5MzExMzE0OTA0MDI1MjA5MSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE1NzE1ODU4ODA4ODUyOTQzNDUzIiwiaW1hZ2VEb2NpZCI6IjQ5NDE5ODgyNzYyNzA1OTY1MiIsInJkcyI6IlBDXzczMDkzNzkzMTQ3NTMxMDMxOTh8UFJPRF9QQ183MzA5Mzc5MzE0NzUzMTAzMTk4IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjczMDkzNzkzMTQ3NTMxMDMxOTgiLCJtaWQiOiI1NzY0NjI1MTg0OTQxNTcwNDMiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwiZW5naW5lIjoiZ29vZ2xlX3Nob3BwaW5nIn0%3D",
+      "source": "Chock full o’Nuts",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRI9Dd09ANcsdL9y6uVosVsn6ZNgLjdG_Rx-QfyTaw4q7W8GXYwxuwl39iQ4dpiBVfyQeAorj6_NpvDQdqU7ZZlM9HoOrgxgmfhqR8",
+      "multiple_sources": true,
+      "price": "$17.99",
+      "extracted_price": 17.99,
+      "rating": 4.6,
+      "reviews": 777,
+      "snippet": "Tastes good (95 user reviews)",
+      "badge": "Small business",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSYnDl_HA1f16X3Cl3-lORYJvTLrQBcf5S_kd7aiUzwcY0OC9thldNQv4wQQtcdhgNRFJjpLEL1vB0W0c4XJXi6AXO53I8G7pmg6NUSzkrV1k0CScRyyIVw",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/_kBfyXicDcntDkJQGADgK4pjQtpak0rMGCfFL9N7fOXgxBnTRXU_3U09f5_vp-KcjVtRzDsYFsZzsuKPDgnlyDNegwB9K45Vz1jdlfvX7n9bwyO6BTjpjjS9GFIhqbFsUnlF_TBxpqs7BAcoFJw2RMvq6D1DgnxT5xUlXjCt5yDgQKrSC8_Ok7knV5oO6I5gHTtxrRqxr8j2xtJYW6pehN_NcJMaZGIIl8W-zT_juj0Q",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTFWMFYrQxCXhKfhn_t4EiorBK3OfiN2NpgTg7jpf2xBcsteqKfWO6V6IgwDFT9Z4AhxQ2y7Nq3miftde06a9x-Bp25oTTjAwmqpLkqV9Pa9d8bfDirTft_"
+      ],
+      "serpapi_thumbnails": [
+        "https://serpapi.com/images/url/rc7zMXicDclbCoJAFADQFaWipY0QoZkRlhUMvX5Ex3kZjjN6QdtU-2k3dX7P9yMA9BDaNlWkf2ug9Qwq5Vh8gBIksUjX2oPotJaKr83qf2GU12hHcHo7po_-Mm3uImNCFTDfyq6PM-_EZO7mmmMeNJq5U0wGoCZjt5N_9fd8TFKMnvNITBf3HeTGayWDmjp-iaZZrN1Fh3ETja3Rh5e5onOJ6mXFEtljBsUPTRo-tw"
+      ]
+    },
+    {
+      "position": 32,
+      "title": "Stumptown Holler Mountain Organic Whole Bean Coffee",
+      "product_link": "https://www.google.com/shopping/product/7161169549127664381?gl=us",
+      "product_id": "7161169549127664381",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=7161169549127664381",
+      "immersive_product_page_token": "eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzE2MTE2OTU0OTEyNzY2NDM4MSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjMyNzU5Nzk4MTY3NDA3MTc5NzgiLCJpbWFnZURvY2lkIjoiMjUxNjAzMDgwMzU1MDQ2NjU4NCIsInJkcyI6IlBDXzcyOTQ0OTUyNzQxNTg0NTk3MTl8UFJPRF9QQ183Mjk0NDk1Mjc0MTU4NDU5NzE5IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjcyOTQ0OTUyNzQxNTg0NTk3MTkiLCJtaWQiOiI1NzY0NjI3NDg4NDQ0NTI4MDgiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwiZW5naW5lIjoiZ29vZ2xlX3Nob3BwaW5nIn0=",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzE2MTE2OTU0OTEyNzY2NDM4MSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjMyNzU5Nzk4MTY3NDA3MTc5NzgiLCJpbWFnZURvY2lkIjoiMjUxNjAzMDgwMzU1MDQ2NjU4NCIsInJkcyI6IlBDXzcyOTQ0OTUyNzQxNTg0NTk3MTl8UFJPRF9QQ183Mjk0NDk1Mjc0MTU4NDU5NzE5IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjcyOTQ0OTUyNzQxNTg0NTk3MTkiLCJtaWQiOiI1NzY0NjI3NDg4NDQ0NTI4MDgiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwiZW5naW5lIjoiZ29vZ2xlX3Nob3BwaW5nIn0%3D",
+      "source": "Stumptown Coffee Roasters",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRaNHZlz_9HgQOQEFBQHhaGVoGOaZytm4mBMVxK2JttHSYWd4BrYr7HywQLLFeSoJgEMOTmr7DMsjNv4X8LxntVyhD1jDfBplOkFTB6LmfkpA",
+      "multiple_sources": true,
+      "price": "$110.00",
+      "extracted_price": 110.0,
+      "rating": 3.9,
+      "reviews": 44,
+      "snippet": "Medium Roast · Caramel · Africa",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTFK32WRMYqtVVzrqkyNKNcWCyc_0nC-qYE_OkZxYwdt7xLms0YKvWhARfnBwi9Gl3jHoZWe1F9IeDPSXwpOphzrMLpWJF8OIZsWBYhLbJUM3wc8j896yIgew",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/BieAGXicDclJDoIwAADAFwkoiYKJMbiA7MaFWi5GS6WAlkIbC7zK7_gbnet8P0QIxueqiilqeyZwNhJ3qik5FzdRIAXVL5WTmrGC5stm8b-5FWWmg062r0_AIYSNSJKhbao-8iME1j26anQ9auD2GldpB2UmZl3w4hr034BYhwddycJ0nnq5q1OAx7bp4s3-eJEsZmRow4ABzzZiN-VgBUlw986hLpFRGua0d3Msf-7CP5Y",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQbY83BljkKMd9iB1q9D1kWFU8WjwmxtWE_QBEW6Hq3oGjDYb5MYnd4-SJuchnE62rCGPXvO8WxImWUzzthD-RK2DHY_4efAAWqx4Ex_U1HeidPSFyHAEALxA"
+      ],
+      "serpapi_thumbnails": [
+        "https://serpapi.com/images/url/6dptYHicDcltEkJAAADQEyElg5mmWVmUFBmz-WWyK19ZZKvNqbpOt6n3930_JWP9aEhSTvH93bOcCCyjM7EY2YVVWMRdK41l1_cVLdbD6n8GOBDdwWGWaAvzVjeeT_TKlAfdkhtkxxqqXy1nCKahCZHqDovOqa0kW_oJJYoQ7R64pFCd3zdOcH4eNcS3LYqniZWWcPLmlpukSn4FAA1cgTyNZTevSBDZbxdAsOfgB1yrPZQ"
+      ],
+      "delivery": "Get it by Aug 22 (Free)"
+    },
+    {
+      "position": 33,
+      "title": "Seattle's Best Coffee 6th Avenue Bistro Dark Roast Ground Coffee",
+      "product_link": "https://www.google.com/shopping/product/5990836129032478453?gl=us",
+      "product_id": "5990836129032478453",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=5990836129032478453",
+      "immersive_product_page_token": "eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTk5MDgzNjEyOTAzMjQ3ODQ1MyIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijc4NjIyNTkyNDgyNjkxMDUzODUiLCJpbWFnZURvY2lkIjoiNzM2NzEzMjM2MjU5MjcxOTMwMyIsInJkcyI6IlBDXzYzODEzMDcyODc5MzU1MzM5MTN8UFJPRF9QQ182MzgxMzA3Mjg3OTM1NTMzOTEzIiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjYzODEzMDcyODc5MzU1MzM5MTMiLCJtaWQiOiI1NzY0NjI4MjI0ODcyNTIzNDYiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwiZW5naW5lIjoiZ29vZ2xlX3Nob3BwaW5nIn0=",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTk5MDgzNjEyOTAzMjQ3ODQ1MyIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijc4NjIyNTkyNDgyNjkxMDUzODUiLCJpbWFnZURvY2lkIjoiNzM2NzEzMjM2MjU5MjcxOTMwMyIsInJkcyI6IlBDXzYzODEzMDcyODc5MzU1MzM5MTN8UFJPRF9QQ182MzgxMzA3Mjg3OTM1NTMzOTEzIiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjYzODEzMDcyODc5MzU1MzM5MTMiLCJtaWQiOiI1NzY0NjI4MjI0ODcyNTIzNDYiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwiZW5naW5lIjoiZ29vZ2xlX3Nob3BwaW5nIn0%3D",
+      "source": "Sam's Club",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRGj77Bp2MtyuBjRh6ORUjyPRrKInP7XrHQbcgGLvMacgiVIf4ApZG2EbFv27Di12xoo3RrxcOgWtVxjU6qqDaMIb7zQERnmacn",
+      "multiple_sources": true,
+      "price": "$15.82",
+      "extracted_price": 15.82,
+      "rating": 4.6,
+      "reviews": 696,
+      "snippet": "Tastes good (120 user reviews)",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSx-3fXLPewF7gOr2TX0JFvpDu8KR1qF4PHaG5JeO2hCqkZ6qVrwgt-wdK1kdocF8ZcaPR774lIoRu2x6FKVXpsHgLBAorMK6MrpNICH6FFUZqPjUOkehLe",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/T1tLs3icDclJDoIwAADAFyGyCEhiDGoqOwTFEG5YakGULhTBT_kff6Nzne-nEYIOtiyjHvI3FaiWxLXXFngQlWjhApKnPDSE0rbHW7b5n-3E9foIT7Ok3YowRRMwccLVc7H0wYseRivIFAb01K2OKx8larNnXWmwC5-wkKY6ULqaQGCVsEoz09QfHslGdTZAcCno4OJw5xAeBUbEaeztXQOAvGTpPU861IToB-QKPTs",
+      "thumbnails": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS8Vg9T1XvuDxlY5WlnZnTLUe8Ujng_tvLSTI0eIPPtdzx_WGdr30WX37QroQ2-ETnld3zaWNx7SB4r4LHSYcduuexQ3MAMsQ6R0Krr6gGQhQFrCcixLF4n"
+      ],
+      "serpapi_thumbnails": [
+        "https://serpapi.com/images/url/4FQ1z3icDcltDoIgAADQE5kWptXWmn2ZS5skhvWnGTC0GRqiow7VfbpNvb_v-ymUatqZaTJB5KtRjBrqJsCAtypXJRmQ-mG2Rd00peCL5_x_M-9Apz5JJic-RcOs79a6Oo9xJS4ChSmbpHfBr6oPExRYLIhjRd_6in0qgYUz4EJZw5GxQaKi4J3jg3aTpS3tcJecCe06piGIvKiFztHaS-lwHxZwK1ek1OHWFj9Ewz4k"
+      ]
+    },
+    {
+      "position": 34,
+      "title": "Eight O'Clock 100% Colombian Peaks Medium Roast Whole Bean Coffee",
+      "product_link": "https://www.google.com/shopping/product/1935475941428754759?gl=us",
+      "product_id": "1935475941428754759",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1935475941428754759",
+      "immersive_product_page_token": "eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTkzNTQ3NTk0MTQyODc1NDc1OSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijg2MTcwNjgzNDYzMTc3ODQxMCIsImltYWdlRG9jaWQiOiIxNzYyNTA2NzE2MTE5MjMxMzgxIiwicmRzIjoiUENfNjk2NjM2MjMyOTA0NDA0MTU3OHxQUk9EX1BDXzY5NjYzNjIzMjkwNDQwNDE1NzgiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiNjk2NjM2MjMyOTA0NDA0MTU3OCIsIm1pZCI6IjU3NjQ2Mjc3Njk4MTc2NTgxNSIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJlbmdpbmUiOiJnb29nbGVfc2hvcHBpbmcifQ==",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTkzNTQ3NTk0MTQyODc1NDc1OSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijg2MTcwNjgzNDYzMTc3ODQxMCIsImltYWdlRG9jaWQiOiIxNzYyNTA2NzE2MTE5MjMxMzgxIiwicmRzIjoiUENfNjk2NjM2MjMyOTA0NDA0MTU3OHxQUk9EX1BDXzY5NjYzNjIzMjkwNDQwNDE1NzgiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiNjk2NjM2MjMyOTA0NDA0MTU3OCIsIm1pZCI6IjU3NjQ2Mjc3Njk4MTc2NTgxNSIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJlbmdpbmUiOiJnb29nbGVfc2hvcHBpbmcifQ%3D%3D",
+      "source": "Walmart",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "multiple_sources": true,
+      "price": "$17.87",
+      "extracted_price": 17.87,
+      "rating": 4.6,
+      "reviews": 719,
+      "snippet": "Tastes good (92 user reviews)",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ_yVreT2KhPuYjNgKrUPpCRXkBSjSJsJTyrZrFzBGbiU4ZJ0bPTm-9NAH5VSKMWUBF76dr5OO0PPjutG1HTBuLo0KatX3YGli0zKa5pBkmLu6r0mPJYbpy",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/EvH-73icDclJDoIwAADAFwFFBQOJMdQECEWosghcDFvYBGppD_Ao_-NvdK7z_bSMkUWXpHoq6UpYXQmsmGSxWVjOulIs51Fa2pmQbmrO79P_dMOrNKu8PdeY1uEOtZinvdcgGmFyuScDDPrAWZxwpRk1N2gVXXTIHFDgcBQ0z7CVOEDXRwTNo1pRxfcBxj1nlmyHkLszQDlL9qn16sCGcoXAYXS5SsGInbQg6w8ohz2y",
+      "thumbnails": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQLTw6aspREksPrl1bOVgECWNrFPu1QX9P9AZwcssT8eZI24_ojHGQ4HIPHARjS5VW38o2-ZWx4gX9SeTrQLAAxWPJ_wrX3__FbZlNhqqr31obIhlelM0fA"
+      ],
+      "serpapi_thumbnails": [
+        "https://serpapi.com/images/url/rDp5KXicDcltCoIwAADQE6UtLTSIGOFXmM0SFf-IzuU0c3NbWJfqPt2m3t_3_VCluNzqOhmxeHNFmoWqR6C1UlWqwxpmD11Sxnk3tvtp978tjBrbw3GYzJtK8otzl0gMoD6nrXPIIuGiJ4hzG9mwmLGUiUWKYGWWrPe92PQD5MNLf12nmWGx1aLIXmab21eSiDiE8JWhYzmL3ChLty6GiE6TMACrAzqQ4bS8wR__uD1v"
+      ]
+    },
+    {
+      "position": 35,
+      "title": "Space Cadet Atomic Medium Roast Freshly Roasted Big Bag Trade Coffee",
+      "immersive_product_page_token": "eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiOTI1MDUzMDc4Njk4MjIzNTc3MCIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjkyNTA1MzA3ODY5ODIyMzU3NzAiLCJpbWFnZURvY2lkIjoiMjU3OTY0NTQ1ODkxOTU5NDE4MiIsInJkcyI6IiIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwiZW5naW5lIjoiZ29vZ2xlX3Nob3BwaW5nIn0=",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiOTI1MDUzMDc4Njk4MjIzNTc3MCIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjkyNTA1MzA3ODY5ODIyMzU3NzAiLCJpbWFnZURvY2lkIjoiMjU3OTY0NTQ1ODkxOTU5NDE4MiIsInJkcyI6IiIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsImdsIjoidXMiLCJobCI6ImVuIiwiZW5naW5lIjoiZ29vZ2xlX3Nob3BwaW5nIn0%3D",
+      "product_link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:9250530786982235770",
+      "product_id": "9250530786982235770",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9250530786982235770",
+      "source": "Trade",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRaqsjJtYKYP2lcSoGXI5JGP13bdVffXAMsldX4CGgzW2fO2A0DvOYbUpAw0qr7bfRH8aqxZl3HGPSyRP9ai3sZ9Gdo7wsLl7fvxJM",
+      "price": "$39.99",
+      "extracted_price": 39.99,
+      "snippet": "Medium Roast · Bag",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ8ulDEGntrGoTZSRbQDKDSAx2W8zzu0L7nC8QrOY5hYUkNqBuM5XNAU-_Y84LyfvIpuYmSSsfey0xET2yvt-X-OUYI-DWzd1huWDT30oWYtS7sMimoGpjsEw",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/EFg3n3icDcndCoIwGADQJ1qaJVkQYU0kUsOm6LqJ_Esrt-W-VfpUvU5vU-f2fD81gJALTStZ3vUCygJBxozRRcIZmnyU81aTNReiYZfVY_m_hR0UczcPLXXHjsugc3l0JIcsxDtM7LeRWMOgdG_GNlbY7alZ0_gWPNbKN9PAjtGJWlOvr55boWhLiKzKXn87kdE_AaVoH9MtwslQjGuV4Gii84QCmUm_abkrrtJ5_QCb2T71",
+      "thumbnails": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSzh6zg-YK3VecJ3ZAMeHGktPbECUfFuIlmpi-6lSAaBG33FSE-UCT1La5IheLg623wYi5JollrtMH2g2tqHnYjPbvesvwrNp_gzsVQ4-Tn-auYiJ9heQrO1A"
+      ],
+      "serpapi_thumbnails": [
+        "https://serpapi.com/images/url/wms0BXicDclhCoIwGADQE03JpVAQYWKapRmWYH9C19pWNqf7NPJUXafb1Pv7vh8OoPTcNKkk3VsBvSKopGUwDSUIYpDmaWreKCUkW7aL_83d5DoLSDZyZ2So2OKckgif3ZiGwQPSyvdOt3W_qZ9KIKfO3HIVYLzOfHTyjpNdaW843THHwq9C2FFT1x3EocUsaENZ3NNqoHp4dYm6sFHnhyk6SlT2hYhmnB66_cT9AW58PnA"
+      ]
+    },
+    {
+      "position": 36,
+      "title": "The Original Donut Shop Coffee K-Cups",
+      "product_link": "https://www.google.com/shopping/product/471554470953584139?gl=us",
+      "product_id": "471554470953584139",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=471554470953584139",
+      "immersive_product_page_token": "eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDcxNTU0NDcwOTUzNTg0MTM5IiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTgxNDgzODQyNTQzOTg2NzQ1OTEiLCJpbWFnZURvY2lkIjoiMTc2NDY0MDc1NzQzNjQ4NjY1MzYiLCJyZHMiOiJQQ18xNTYyMDAzNjAxNDg5ODI2Njk3M3xQUk9EX1BDXzE1NjIwMDM2MDE0ODk4MjY2OTczIiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjE1NjIwMDM2MDE0ODk4MjY2OTczIiwibWlkIjoiNTc2NDYyODAxNDY3MTczMDk3IiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiIsImVuZ2luZSI6Imdvb2dsZV9zaG9wcGluZyJ9",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDcxNTU0NDcwOTUzNTg0MTM5IiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTgxNDgzODQyNTQzOTg2NzQ1OTEiLCJpbWFnZURvY2lkIjoiMTc2NDY0MDc1NzQzNjQ4NjY1MzYiLCJyZHMiOiJQQ18xNTYyMDAzNjAxNDg5ODI2Njk3M3xQUk9EX1BDXzE1NjIwMDM2MDE0ODk4MjY2OTczIiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjE1NjIwMDM2MDE0ODk4MjY2OTczIiwibWlkIjoiNTc2NDYyODAxNDY3MTczMDk3IiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiIsImVuZ2luZSI6Imdvb2dsZV9zaG9wcGluZyJ9",
+      "source": "Keurig.com",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTSHRSWLtNOT_evJG0XwJXUUqKqQSqsAwtObYz59YS1csBF79X7MFw4kzl4Vh7rT4riGTFK3ieqjE5zAf8aSnr5VL6FrUAYQw",
+      "multiple_sources": true,
+      "price": "$18.99",
+      "extracted_price": 18.99,
+      "rating": 4.4,
+      "reviews": 4100,
+      "snippet": "Tastes good (659 user reviews)",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRZbtNeqp3f6Yv98lIZ3aLY9UkYBrgPyj2FcEAjW081MXtmr6yWDFky-ErkJ_OrmeJ2GWI1_Zy4jl_OsjOwa4Yq5hyxcgMe85ees5YPcOOcwWuaC-SFQk4QIw",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/bTq7RnicDclJDoIwAADAF7EpGDAxxgUMRCxoTC0XAqWyCZS2iv2V3_E3Otf5fiohKF9qGukxk1SQQhF5r6slF5mosYqHTuPVQGndl-tx9b_l5lQ4B3xOcnEiI53fF-jl2A8_mWdH5FxbtGVlJJuZh91NA3XbCG-iYwsJ914rFZe1QQpYR4LZAfpGmkizeaSAN2DKTDRalXzjMiS2RQi3UIQBwBN8Zjvl4sWtGfvTD7JFPwk",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSfu6mjlEZxXsAvd_8mGx8L7AYcxKiyeZ7yU-Y8Qnga9bqsrNL1I2X2_fK8qLjCGvNcrAYwMXhr_IlxgbpOn8dOTnucuYZTuaexUi73g0PWSemyYrae50iVRw"
+      ],
+      "serpapi_thumbnails": [
+        "https://serpapi.com/images/url/YqM33nicDclRCoIwAADQE5lWlEuIkAiJTCu1nD-ic81FzrlNnbfqOt2m3u_7fmqluHRMEzMkJq5wZaiSWTMiVaEomqG2MWXdck4Z2XXb_zluUG08FD37dfN6HzKdSneoctB4Gvi2C5E-0Qln9pQYEFwZKTZlJ0Xgz4-LdJE_T6DzX3tvCJBw4XhOa5Ef35qUPGSgCmPWox5mcV9gnVB7SazLI8LNBEWBVxa938YfC1hAjg"
+      ],
+      "delivery": "Free delivery on $29+"
+    },
+    {
+      "position": 37,
+      "title": "Kitty Town Coffee Smokey Dark Roast Coffee From Brazil 2lb Whole Bean",
+      "product_link": "https://www.google.com/shopping/product/9493545000075408574?gl=us",
+      "product_id": "9493545000075408574",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9493545000075408574",
+      "immersive_product_page_token": "eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTQ5MzU0NTAwMDA3NTQwODU3NCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjU4NzQ3NTE2MjgwNTQ2ODEiLCJpbWFnZURvY2lkIjoiMTM2NDM4NDc3NDk1MTI2MTA5ODciLCJyZHMiOiJQQ18zNjU5NjUzNzY3MzQyMTg4ODMyfFBST0RfUENfMzY1OTY1Mzc2NzM0MjE4ODgzMiIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIzNjU5NjUzNzY3MzQyMTg4ODMyIiwibWlkIjoiNTc2NDYyNzgxNjM0MzAzMzk0IiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiIsImVuZ2luZSI6Imdvb2dsZV9zaG9wcGluZyJ9",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTQ5MzU0NTAwMDA3NTQwODU3NCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjU4NzQ3NTE2MjgwNTQ2ODEiLCJpbWFnZURvY2lkIjoiMTM2NDM4NDc3NDk1MTI2MTA5ODciLCJyZHMiOiJQQ18zNjU5NjUzNzY3MzQyMTg4ODMyfFBST0RfUENfMzY1OTY1Mzc2NzM0MjE4ODgzMiIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIzNjU5NjUzNzY3MzQyMTg4ODMyIiwibWlkIjoiNTc2NDYyNzgxNjM0MzAzMzk0IiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiIsImVuZ2luZSI6Imdvb2dsZV9zaG9wcGluZyJ9",
+      "source": "Kitty Town Coffee",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT143YodH1qloW2td1Od12d60paDr7dN4TLdDWiR97uy8Z4R3avLmC6sQXnlTQTWLfeGJzeZPb79_DoPj1tmlKv3ZTyCMIaobLrMEGgQNzjjA",
+      "multiple_sources": true,
+      "price": "$14.00",
+      "extracted_price": 14.0,
+      "rating": 4.9,
+      "reviews": 1400,
+      "snippet": "Tastes good (299 user reviews)",
+      "badge": "Small business",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSL9SmuYpqUCVr8BgL42KF-NgMx-Sk9fYZS9iF77MJWKI2ySp2ohMEn2fJSp9QnHkHbenxFrnzVOjgId2W_bY6zpIAurC63OK1cSEF1VeKXyXSHFVrTxpXy",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/QcQQHnicDcndCoIwGADQJzJpRjUhosSl-Ues_Okmctq0cH7OCdpD9T69TZ3b8_1USkFv6nopmJxAlYWmcmHMeK_uqmYz1jZ6X7UAteDbbvM_cxcW-MCoj2kzZNBdrFiu99xfII9oIQ9Gjb7wI7tSXJPVKjgmnosmCqitAlugx5ECPgnn5eSlGIkU7zh6crdAyS3Plm9wd4O0lkbkzRm1yTwuvXRKqUNieR4hnX7lkj2C",
+      "thumbnails": [
+        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSI2XeyOtdcgpOc1PjEeK_Bk-DsPiF9PYrum3dFGLCqqDtuQh0HC8d7pW6t3OGrU6dj0KmRJPhQwF7niccyauKLa_0upNkU"
+      ],
+      "serpapi_thumbnails": [
+        "https://serpapi.com/images/url/hscU5HicDcndCoIwGADQJ_KnBE0hojStFJ2FVFdi23BTnNN9I3yR3q23qXN7vh8GIFVgWVTgeZFAiQEv4ZitggY4NvE4WIqNUnLR7qbt_4J9TvwE387rB10KILiVBV6h7kjT-tAbkUI89tFz1oND4iQLpykCXTL7FG6IJ-8uOEUyVy7p7HS4XhAr37EnOMZLo9OsqW0t8776AayeNiA"
+      ],
+      "delivery": "Get it by Aug 20 (Free)"
+    },
+    {
+      "position": 38,
+      "title": "Coffee Bros. Medium Roast Coffee",
+      "product_link": "https://www.google.com/shopping/product/12690031538693333072?gl=us",
+      "product_id": "12690031538693333072",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=12690031538693333072",
+      "immersive_product_page_token": "eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTI2OTAwMzE1Mzg2OTMzMzMwNzIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNjg2MDIzOTYyMTIxNjU2NTk5NiIsImltYWdlRG9jaWQiOiIzNjgwNTczNTQ1MjA0MzExOTc2IiwicmRzIjoiUENfOTkwMzUwOTIwNTgyOTE4MDQxMHxQUk9EX1BDXzk5MDM1MDkyMDU4MjkxODA0MTAiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiOTkwMzUwOTIwNTgyOTE4MDQxMCIsIm1pZCI6IjU3NjQ2MjY5MTIyMDQzMTU5NSIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJlbmdpbmUiOiJnb29nbGVfc2hvcHBpbmcifQ==",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTI2OTAwMzE1Mzg2OTMzMzMwNzIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNjg2MDIzOTYyMTIxNjU2NTk5NiIsImltYWdlRG9jaWQiOiIzNjgwNTczNTQ1MjA0MzExOTc2IiwicmRzIjoiUENfOTkwMzUwOTIwNTgyOTE4MDQxMHxQUk9EX1BDXzk5MDM1MDkyMDU4MjkxODA0MTAiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiOTkwMzUwOTIwNTgyOTE4MDQxMCIsIm1pZCI6IjU3NjQ2MjY5MTIyMDQzMTU5NSIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJlbmdpbmUiOiJnb29nbGVfc2hvcHBpbmcifQ%3D%3D",
+      "source": "Coffee Bros.",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRlnX541duAOYHjuhUAOKTsmYC79XL-zjWpL316df25NH9PzRKRrbFmLdoVhYPlQkARmgp-5MDkTe_7aoZueRradkHgccgKeg",
+      "multiple_sources": true,
+      "price": "$47.07",
+      "extracted_price": 47.07,
+      "rating": 4.1,
+      "reviews": 13,
+      "snippet": "Medium Roast · 6 oz–5 lb · Bag",
+      "badge": "Small business",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcStUOxYohIR0dW-gaPPwdShxqhrydDccuTpb6B4iFfklfGyr1B-NBpcfpsTOqPCWumFMLwWt3E7J26OPokmC1nUryr0kR5M6eW8awCKluSf6vEkHABbGT02lw",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/-BXuMHicDclJDoIwAADAFwEFtSqJMYCAG0tYQjxCC5SwlVIEfuV3_I3Odb4fwjkdVUnKO8RWynMs8KwDYjnylFdIRH0rjaSntOrK83D6n6q5-GijkMfe8urJLQA4EcrU92cckmUgbMUXhKaIZlDfVlZRN4W9MlkXXJ2igo6RN_hGMrWW85wTvjH3dwV6fl-3htzFbGWgDnYOzJNDOhuPZgoL-Dbrq6ZndgSUZv4BEy4_iQ",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSHtdxMMVOHPXxcYHor1_s26RxgV32eu_HgcyNUwf094pAM1nfgUdHqPeqFo7VZnAXvzJk9ayzT4gpWQPyG_VHvsb8NEizE_5fOLt5hJ7foTDaPa02RaqeEAA"
+      ],
+      "serpapi_thumbnails": [
+        "https://serpapi.com/images/url/FP0o13icDcnbCoIwAADQLyovZWYQMcgakpfKzHqROeeUaJtumfpV_U5_U-f1fD-VUkKuNI0w3A5CkWKicqZPqVRI1XiK-VOTFReiZnTTrP-3AkHh7PEZqqL3_SSEUdrjG-StkUlzceppMjPJK4MUD8HlXerOXADfYCW9FLCJSLPjdnJnIO1G7-GgYYznVFyP0bDPEtjJfBm49ehmVhkelFV5dsnjLYqQbp5QQ1wAfudIP1Y"
+      ]
+    },
+    {
+      "position": 39,
+      "title": "Java Coffee Nicaragua 10.5oz",
+      "product_link": "https://www.google.com/shopping/product/7254422827522082106?gl=us",
+      "product_id": "7254422827522082106",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=7254422827522082106",
+      "immersive_product_page_token": "eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzI1NDQyMjgyNzUyMjA4MjEwNiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE3NzIxMjExNzMyMDgwMTI4MDY2IiwiaW1hZ2VEb2NpZCI6IjE3NTA2ODAyMzkwMjIyNDU3NTc4IiwicmRzIjoiIiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjExMDkwODA1OTg0ODg3MzIxMzYzIiwibWlkIjoiIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiIsImVuZ2luZSI6Imdvb2dsZV9zaG9wcGluZyJ9",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzI1NDQyMjgyNzUyMjA4MjEwNiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE3NzIxMjExNzMyMDgwMTI4MDY2IiwiaW1hZ2VEb2NpZCI6IjE3NTA2ODAyMzkwMjIyNDU3NTc4IiwicmRzIjoiIiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjExMDkwODA1OTg0ODg3MzIxMzYzIiwibWlkIjoiIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiIsImVuZ2luZSI6Imdvb2dsZV9zaG9wcGluZyJ9",
+      "source": "Think Coffee",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRHH6vcVkygIUqWsFp4uWaop-t1lFTa-ogrbKtsnGCYWQY6inF8508pD8SWAXLmsOb3WPmGpnFEQWRKex84UCO4XqLGhhFSM49vcc10",
+      "price": "$21.00",
+      "extracted_price": 21.0,
+      "snippet": "Medium Roast",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSBBtSdEj902WMs3UjLyDtmCIV8Wes7O61ZKjxF4tFi96KSlO6sZqQPrQDtOiReY62pGNsBG6a5sNmGnk26aDHApwLWSEcag6RqE8z9hTZEFJIwsdDZCDgb6zY",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/j-VYr3icDcndEkJAGADQJ4pSbZhpGixSoqhM7rSMn8LyfTPSW_U4vU2d2_P9FIgcVFHMGtaPHLN0gvdGEnLABEsmsLYWoWg5L5t8063_p2peqtgs1HUMU7NSplJ0gPmlckeKteFc5SiDlU9m8b56WQu0SoXsw6dPIO5Ox_5E0S-D7EYkbnug2yRZglfbzUMiCd1qfHCj0GRJToLOlN9KcY5Na-cMkNLYoPmdvG8_jB096g",
+      "thumbnails": [
+        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRUSfL7T3r6BO93Nqs_L6-QgJ5KLF2JGle6_96gQcWZEF7G7Un-ZGmVH8WPLexpO28OqDL-rS-c6Jkd-LjAuDrhZ4aEYKfOb4P9QazgFAIYU0WAa9TId4WM2a1N"
+      ],
+      "serpapi_thumbnails": [
+        "https://serpapi.com/images/url/cWsSDHicDcn_EkIwAADgJ1oKjbnrOl0oFkly-aeb0fQDM-uueqzeprep79_v-6ml5IOlKFVLxYvLqgSyaNURGySRFzqiXaMMdcf5pWXzfvY_yw5L5NFdmpyxsdcEXERIC_vhhCGImT8NsKv63r2CJwRZTLPccQ3PSFuQe81hZWZbXD15pJpRv8RAJIBC_1YCfLUfS1HnOnGOwTkq9C2KyZu59vqYjjOboP261LONSibhD0Q-O-A"
+      ],
+      "delivery": "Free delivery"
+    },
+    {
+      "position": 40,
+      "title": "Tim Hortons Dark Roast Ground Coffee",
+      "product_link": "https://www.google.com/shopping/product/9067759792829714731?gl=us",
+      "product_id": "9067759792829714731",
+      "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9067759792829714731",
+      "immersive_product_page_token": "eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTA2Nzc1OTc5MjgyOTcxNDczMSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE2ODUzODYyMzM1ODcxNDUwMTAwIiwiaW1hZ2VEb2NpZCI6IjgxNDkxODI2NTA5MTM1MDUzOTciLCJyZHMiOiJQQ18xNzY3MTQ5OTA5MzcyNzE2MzE1NnxQUk9EX1BDXzE3NjcxNDk5MDkzNzI3MTYzMTU2IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjE3NjcxNDk5MDkzNzI3MTYzMTU2IiwibWlkIjoiNTc2NDYyODU0NDY3MTYwMzkyIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiIsImVuZ2luZSI6Imdvb2dsZV9zaG9wcGluZyJ9",
+      "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IlRzLWJhT3VSQXRHenF0c1BfNV9lMEFJIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTA2Nzc1OTc5MjgyOTcxNDczMSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE2ODUzODYyMzM1ODcxNDUwMTAwIiwiaW1hZ2VEb2NpZCI6IjgxNDkxODI2NTA5MTM1MDUzOTciLCJyZHMiOiJQQ18xNzY3MTQ5OTA5MzcyNzE2MzE1NnxQUk9EX1BDXzE3NjcxNDk5MDkzNzI3MTYzMTU2IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjE3NjcxNDk5MDkzNzI3MTYzMTU2IiwibWlkIjoiNTc2NDYyODU0NDY3MTYwMzkyIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJnbCI6InVzIiwiaGwiOiJlbiIsImVuZ2luZSI6Imdvb2dsZV9zaG9wcGluZyJ9",
+      "source": "Walmart",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "multiple_sources": true,
+      "price": "$9.12",
+      "extracted_price": 9.12,
+      "rating": 4.5,
+      "reviews": 179,
+      "snippet": "Tastes good (34 user reviews)",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRL49y_nYPqaTdZt0hUuHGYCR8nTDyLOWZmxHyP-9lKF9lfP14oEdlGWOUJeJ2YGNGIHs0pMrQd4lUQtoBA-XnbskWvJYz-uk8OuKDDpJO776OW93YPtFyV5g",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/iK9az3icDcndEoFAGADQJ6r8hNaMMYhNxcZI1o1JmzLVttkvYz2V1_E2nNvz_eQAQo4NI-XJQwlImQZX3tUzCTHcEz2pK0PmtRB3nk2byf_Gsy1DONn7JlIXToMmPrAzdPKwdTBd7C1-sJVPonP1clSgodJbofIWdM16yUockdBN3R7FW7x2ZEdsHjtmluEO6vlMO_GrLKKnS99aW1ik9WxbuGQ0GpII9WkAK3UcZD-MuT3k",
+      "thumbnails": [
+        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRAknBTxt1-y8hwYKVipelwp-wjYmdpmo5Q2HcmqCxmQDXo0lP2I7kfsDywvAFEgoPx-xyRwvoB0LvjTc0KUo8Ob231hWU5Kg"
+      ],
+      "serpapi_thumbnails": [
+        "https://serpapi.com/images/url/wXzjanicDclJDoIwAADAF5XNEJHEGBC3YBQIqBylYMvSBdtQ-hO_5m90rvP9YCm58E2zofCtuWxqICtqG0jIp2yhARkxBWactxRtxvX__OBSrw4wC3oa5rO0gfawKuNby5tBcaC6ktScMDd1jpCM25mk0YNZQ-Kclv1LRFpNwX6HWDKDWWdqYqF1nrocWnHBvGvlLGx8L9wY_QBuPzeP"
+      ]
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=Coffee&start=10"
+  }
+}
