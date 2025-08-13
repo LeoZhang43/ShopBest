@@ -13,7 +13,7 @@ export function TopNavigation() {
         </div>
 
         {/* Search Bar */}
-        <div className="ml-24 max-w-md">
+        <div className="ml-36 w-96">
           <SearchSuggestion />
         </div>
 

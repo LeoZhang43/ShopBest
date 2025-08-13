@@ -33,7 +33,7 @@ const categoryItems = [
 
 export function SideNavigation() {
   return (
-    <aside className="sticky w-96 top-16 h-[calc(100vh-4rem)] border-r bg-background overflow-y-auto">
+    <aside className="sticky w-64 top-16 h-[calc(100vh-4rem)] border-r bg-background overflow-y-auto">
       <div className="p-5 space-y-6">
         {/* Main Navigation */}
         <nav className="space-y-2">
