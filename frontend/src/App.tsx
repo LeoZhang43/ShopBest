@@ -14,7 +14,7 @@ export default function App() {
       <div className="flex min-h-[calc(100vh-4rem-10rem)]">
         <SideNavigation />
         <main className="min-h-[calc(100vh-4rem)] p-4">
-          <ProductList products={products}/>
+          <ProductList/>
         </main>
       </div>
       <Footer />

@@ -15,6 +15,6 @@ craete the whole layout UI/UX and react component using
 build a backend server using Node.js and fetch data from [SerpApi](https://serpapi.com/), the data is stored in Redux
 ### 2025-8-12
 System design for search input to show results for suggestions, use suggestions for detailed product list
-![alt text](c65e867dc1a864041c9537c9fa0ce25.png)
-![alt text](daddf728ec301ac523f43b379b89233.png)
-![alt text](f9dcd8159760d5ecdb7a0843a2cdca9.png)
+[Mind Map](https://lucid.app/lucidchart/58692dfa-5e67-418c-a747-cf526e485fa1/edit?viewport_loc=-26%2C2211%2C1919%2C872%2C0_0&invitationId=inv_db6c898e-58eb-4afe-9006-f640e96ffad4)
+### 2025-8-13
+Add auto complete suggestions in search input and get backend data from it

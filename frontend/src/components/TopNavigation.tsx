@@ -1,6 +1,6 @@
 import { Search, User, ShoppingBag } from "lucide-react";
 import { Button } from "./ui/button";
-import { SearchSuggestion } from "./features/SearchSuggesstion";
+import { AutoCompletion } from "./features/AutoComplete";
 
 export function TopNavigation() {
   return (
@@ -14,7 +14,7 @@ export function TopNavigation() {
 
         {/* Search Bar */}
         <div className="ml-36 w-96">
-          <SearchSuggestion />
+          <AutoCompletion />
         </div>
 
         {/* Sign In Button */}

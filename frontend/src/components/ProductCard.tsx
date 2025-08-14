@@ -3,20 +3,7 @@ import { Button } from "./ui/button";
 import { Card, CardContent } from "./ui/card";
 import { Badge } from "./ui/badge";
 import { ImageWithFallback } from "./figma/ImageWithFallback";
-
-interface ProductCardProps {
-  id: string;
-  name: string;
-  price: string;
-  originalPrice?: string;
-  brand: string;
-  rating: number;
-  reviewCount: number;
-  platform: string;
-  platformLogo: string;
-  image: string;
-  discount?: number;
-}
+import { ProductCardProps } from "../type"; 
 
 export function ProductCard({
   name,

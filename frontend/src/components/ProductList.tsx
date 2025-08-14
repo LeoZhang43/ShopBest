@@ -1,14 +1,40 @@
 import { ProductCard } from "./ProductCard";
 import { Button } from "./ui/button";
 import { Filter, SortAsc } from "lucide-react";
+import { useSelector, useDispatch } from "react-redux";
+import { useState, useEffect } from "react";
+import { setProducts } from "../store/searchSlice";
+import { RootState } from "../store/store";
 
-interface ProductListProps {
-    products: any[];
-}
+export function ProductList(){
+    const products =  useSelector((state: RootState) => state.search.products);
+    const query =  useSelector((state: RootState) => state.search.query);
+    const dispatch = useDispatch();
 
-export function ProductList({
-    products,
-}: ProductListProps){
+    useEffect(() => {
+        const controller = new AbortController();
+        async function fetchData() {
+            if(!query){
+                return;
+            }
+            try {
+                const res = await fetch(`http://localhost:8000/api/products?q=${encodeURIComponent(query)}`, {
+                    signal: controller.signal,
+                });
+                const data = await res.json();
+                const sliceData = data.slice(0, 10);
+                dispatch(setProducts(sliceData));
+            } catch (err: any) {
+                if (err.name !== "AbortError") {
+                    console.error(err);
+                }
+            } 
+        }
+
+        fetchData();
+        return () => controller.abort();
+    }, [query]);
+    
     return(
         <div className="p-5">
             {/* Header Section */}
@@ -41,7 +67,7 @@ export function ProductList({
             {/* Products Grid */}
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 mb-8">
                 {products.map((product) => (
-                <ProductCard key={product.id} {...product} />
+                    <ProductCard key={product.id} {...product} />
                 ))}
             </div>
 

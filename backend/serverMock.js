@@ -49,6 +49,16 @@ app.get("/api/suggestion", async (req, res) => {
   }
 });
 
+app.get("/api/products", async (req, res) => {
+  try {
+    const jsonData = await searchGoogle();
+    res.json(jsonData);
+  } catch (err) {
+    console.error("Suggestion API error:", err);
+    res.status(500).json({ error: "Failed to load data" });
+  }
+});
+
 app.listen(process.env.PORT || 8000, () => {
   console.log(`Server running on port ${process.env.PORT || 8000}`);
 });

@@ -17,8 +17,8 @@ export async function searchSuggestions() {
   // Transform data
   const result = (jsonData.suggestions || [])
   .map((item, index) => ({
-    id: index,
-    name: item.value
+    label: item.value,
+    value: index,
   }));
 
   return result;
