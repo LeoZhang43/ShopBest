@@ -1,78 +1,116 @@
-import { 
-  Heart, 
-  Percent, 
-  Shirt, 
-  Bookmark, 
-  Grid3X3,
-  Home,
-  Smartphone,
-  Monitor,
-  Headphones,
-  Watch,
-  Camera
-} from "lucide-react";
-import { Button } from "./ui/button";
-import { Separator } from "./ui/separator";
-
-const mainNavItems = [
-  { icon: Home, label: "For You", active: true },
-  { icon: Percent, label: "Deals" },
-  { icon: Shirt, label: "Try On" },
-  { icon: Bookmark, label: "Saved" },
-];
-
-const categoryItems = [
-  { icon: Smartphone, label: "Electronics" },
-  { icon: Shirt, label: "Fashion" },
-  { icon: Home, label: "Home & Garden" },
-  { icon: Monitor, label: "Computers" },
-  { icon: Headphones, label: "Audio" },
-  { icon: Watch, label: "Watches" },
-  { icon: Camera, label: "Photography" },
-];
+import { useSelector } from "react-redux";
+import { RootState } from "../store/store";
+import type { CheckboxProps } from "antd";
+import { TagOutlined, TruckOutlined, SyncOutlined, BankOutlined } from "@ant-design/icons";
 
 export function SideNavigation() {
+  const filterData = useSelector((state: RootState) => state.filter.filter_elements);
+
+  const onChange: CheckboxProps["onChange"] = (e) => {
+    console.log(`checked = ${e.target.checked}`);
+  };
+  const getIcon = (text: string) => {
+    if (text.includes("Get it today")) return <TruckOutlined />;
+    if (text.includes("On sale")) return <TagOutlined />;
+    if (text.includes("Used") || text.includes("Get")) return <SyncOutlined />;
+    if (text.includes("Small business") || text.includes("Get")) return <BankOutlined />;
+  };
+
   return (
-    <aside className="sticky w-64 top-16 h-[calc(100vh-4rem)] border-r bg-background overflow-y-auto">
-      <div className="p-5 space-y-6">
-        {/* Main Navigation */}
-        <nav className="space-y-2">
-          {mainNavItems.map((item) => (
-            <Button
-              key={item.label}
-              variant={item.active ? "default" : "ghost"}
-              className={`w-full justify-start gap-3 ${
-                item.active ? "bg-primary text-primary-foreground" : ""
-              }`}
-            >
-              <item.icon className="h-5 w-5" />
-              {item.label}
-            </Button>
-          ))}
-        </nav>
+    <aside>
+      <form className="flex flex-col gap-2 p-4 rounded-[16px] bg-[#f3f5f6] w-48">
+        {filterData.map((filterCatagory, idx) => {
+          switch (filterCatagory.input_type) {
+            // case "checkbox":
+            //   return (
+            //     <div key={idx} className= "pb-3">
+            //       <p className="text-sm font-medium text-gray-700 mb-2">
+            //         {filterCatagory.type}
+            //       </p>
+            //       <div className="flex flex-col gap-1">
+            //         {filterCatagory.options.map((option, oIdx) => (
+            //           <Checkbox
+            //             key={oIdx}
+            //             onChange={onChange}
+            //             className="text-sm"
+            //           >
+            //             {option.text}
+            //           </Checkbox>
+            //         ))}
+            //       </div>
+            //     </div>
+            //   );
 
-        <Separator />
+            case "link_with_icon":
+              return (
+                <div key={idx} className="border-b border-gray-100 pb-3">
+                  <p className="text-base font-medium text-gray-700 mb-2">
+                    Refine Results
+                  </p>
+                  <div className="flex flex-col gap-1">
+                    {filterCatagory.options.map((option, oIdx) => (
+                      <a
+                        href="#"
+                        key={oIdx}
+                        className="text-neutral-600 text-sm hover:text-stone-950"
+                      >
+                        <span className="mr-2">{getIcon(option.text)}</span>
+                        {option.text}
+                      </a>
+                    ))}
+                  </div>
+                </div>
+              );
 
-        {/* Shop by Category */}
-        <div>
-          <div className="flex items-center gap-2 mb-4">
-            <Grid3X3 className="h-5 w-5 text-muted-foreground" />
-            <h3 className="font-medium">Shop by Category</h3>
-          </div>
-          <nav className="space-y-1">
-            {categoryItems.map((item) => (
-              <Button
-                key={item.label}
-                variant="ghost"
-                className="w-full justify-start gap-3 text-muted-foreground hover:text-foreground"
-              >
-                <item.icon className="h-4 w-4" />
-                {item.label}
-              </Button>
-            ))}
-          </nav>
-        </div>
-      </div>
+            case "link":
+            case "price_range":
+            case "checkbox":
+              return (
+                <div key={idx} className="border-b border-gray-100 pb-3">
+                  <p className="text-base font-medium text-gray-700 mb-2">
+                    {filterCatagory.type}
+                  </p>
+                  <div className="flex flex-col gap-1">
+                    {filterCatagory.options.map((option, oIdx) => (
+                      <a
+                        href="#"
+                        key={oIdx}
+                        className="text-neutral-500 text-sm hover:text-stone-950"
+                      >
+                        {option.text}
+                      </a>
+                    ))}
+                  </div>
+                </div>
+              );
+            case "color":
+              return (
+                <div key={idx} className="border-b border-gray-100 pb-3">
+                  <p className="text-base font-medium text-gray-700 mb-2">
+                    {filterCatagory.type}
+                  </p>
+                  <div className="flex flex-col gap-1">
+                    {filterCatagory.options.map((option, oIdx) => (
+                      <a
+                        href="#"
+                        key={oIdx}
+                        className="flex items-center text-neutral-600 text-sm hover:text-stone-950 gap-2"
+                      >
+                        <span
+                          className="inline-block w-4 h-4 rounded border"
+                          style={{ backgroundColor: (option.text || "#ffffff").toLowerCase() }}
+                        ></span>
+                        {option.text}
+                      </a>
+                    ))}
+                  </div>
+                </div>
+              );
+            default:
+              return null;
+          }
+        })}
+      </form>
     </aside>
   );
 }

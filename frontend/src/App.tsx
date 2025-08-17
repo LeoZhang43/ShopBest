@@ -2,18 +2,17 @@ import { TopNavigation } from "./components/TopNavigation";
 import { SideNavigation } from "./components/SideNavigation";
 import { Footer } from "./components/Footer";
 import { ProductList } from "./components/ProductList";
-import { useSelector } from "react-redux";
+import { FilterCheckedBar } from "./components/features/FilterCheckedBar";
 
 export default function App() {
-  // Get search results from Redux state
-  const products = useSelector((state: any) => state.search.results);
 
   return (
     <div className="min-h-screen bg-background">
       <TopNavigation />
-      <div className="flex min-h-[calc(100vh-4rem-10rem)]">
+      <FilterCheckedBar />
+      <div className="flex min-h-[calc(100vh-4rem-10rem)] m-5 gap-4 mt-0">
         <SideNavigation />
-        <main className="min-h-[calc(100vh-4rem)] p-4">
+        <main className="min-h-[calc(100vh-4rem)]">
           <ProductList/>
         </main>
       </div>

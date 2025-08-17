@@ -1,33 +1,39 @@
 import { createSlice, PayloadAction } from "@reduxjs/toolkit";
-import { ProductCardProps } from "../type";
+import { SearchParameters, ShoppingResults } from "../type";
 
 interface SearchState {
-  query: string;
-  products: ProductCardProps[];
-  loading: boolean;
+  products: ShoppingResults[];
+  search_parameters: SearchParameters;
 }
 
 const initialState: SearchState = {
-  query: "",
   products: [],
-  loading: false,
+  search_parameters: {
+    device: "",
+    engine: "",
+    gl: "",
+    google_domain: "",
+    hl: "",
+    q: "",
+    shoprs: "",
+  },
 };
 
 const searchSlice = createSlice({
   name: "search",
   initialState,
   reducers: {
-    setProducts(state, action: PayloadAction<ProductCardProps[]>) {
+    setProducts(state, action: PayloadAction<ShoppingResults[]>) {
       state.products = action.payload;
     },
     setQuery(state, action: PayloadAction<string>) {
-      state.query = action.payload;
+      state.search_parameters.q = action.payload;
     },
-    setLoading(state, action: PayloadAction<boolean>) {
-      state.loading = action.payload;
-    },
+    setSearchParameters(state, action: PayloadAction<SearchParameters>) {
+      state.search_parameters = action.payload;
+    }
   },
 });
 
-export const { setProducts, setLoading, setQuery } = searchSlice.actions;
+export const { setProducts, setQuery, setSearchParameters } = searchSlice.actions;
 export default searchSlice.reducer;

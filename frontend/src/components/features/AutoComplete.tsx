@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { AutoComplete } from 'antd';
+import { AutoComplete, Input } from 'antd';
 import { setQuery } from '../../store/searchSlice';
 import { useSelector, useDispatch } from "react-redux";
 import { useQuery } from '@tanstack/react-query';
@@ -23,7 +23,7 @@ async function fetchSuggestions(query: string) {
 }
 
 export function AutoCompletion() {
-  const query = useSelector((state: any) => state.search.query);
+  const query = useSelector((state: any) => state.search.search_parameters.q);
   const dispatch = useDispatch();
   const debouncedQuery = useDebounce(query, 300);
 
@@ -46,13 +46,17 @@ export function AutoCompletion() {
 
   return (
     <AutoComplete
-        options={options}
-        style={{ width: 200 }}
-        onChange={onChange}
-        onSelect={onSelect}
-        onSearch={onSearch}
-        value={query}
+      options={options}
+      style={{ width: 400 }}
+      onChange={onChange}
+      onSelect={onSelect}
+      onSearch={onSearch}
+      value={query}
+    >
+      <Input
         placeholder="Search products"
-    />
+        className="rounded-full shadow-md h-10"
+      />
+    </AutoComplete>
   );
 }

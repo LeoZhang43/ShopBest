@@ -15,15 +15,15 @@ export async function searchAmazon() {
   const jsonData = JSON.parse(json);
 
   // Transform data
-  const result = jsonData.organic_results?.map(item => ({
-    id: item.asin,
-    name: item.title,
-    price: item.price,
-    rating: item.rating,
-    image: item.thumbnail,
-    platform: "Amazon",
-    platformLogo: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Ffree%2Famazon-logo.html&psig=AOvVaw0f3L8e32jc0e3z4dORJ7d9&ust=1755132460450000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDr7I_Iho8DFQAAAAAdAAAAABAL",
-  })) || [];
+  // const result = jsonData.organic_results?.map(item => ({
+  //   id: item.asin,
+  //   name: item.title,
+  //   price: item.price,
+  //   rating: item.rating,
+  //   image: item.thumbnail,
+  //   platform: "Amazon",
+  //   platformLogo: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Ffree%2Famazon-logo.html&psig=AOvVaw0f3L8e32jc0e3z4dORJ7d9&ust=1755132460450000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDr7I_Iho8DFQAAAAAdAAAAABAL",
+  // })) || [];
 
-  return result;
+  return jsonData;
 }
