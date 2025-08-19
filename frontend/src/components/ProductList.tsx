@@ -1,6 +1,4 @@
 import { ProductCard } from "./ProductCard";
-import { Button } from "./ui/button";
-import { Filter, SortAsc } from "lucide-react";
 import { useSelector, useDispatch } from "react-redux";
 import { useEffect } from "react";
 import { setProducts, setSearchParameters } from "../store/searchSlice";
@@ -25,8 +23,15 @@ export function ProductList(){
 
     function dealData(rowData: GoogleShopping){
         const products: ShoppingResults[] = rowData.shopping_results;
-        const search_parameters: SearchParameters = rowData.search_parameters;
+        let search_parameters: SearchParameters = rowData.search_parameters;
         const filters: FilterElements[] = rowData.filters;
+        if (!("shoprs" in search_parameters)) {
+            search_parameters = { 
+                //@ts-ignore
+                ...search_parameters,
+                 shoprs: "" 
+            };
+        }
         dispatch(setProducts(products));
         dispatch(setSearchParameters(search_parameters));
         dispatch(setFilter(filters));
@@ -62,7 +67,7 @@ export function ProductList(){
 
         fetchData();
         return () => controller.abort();
-    }, [query]);
+    }, [shoprs, device, engine, gl, google_domain, hl, query]);
     
     return(
         <div>

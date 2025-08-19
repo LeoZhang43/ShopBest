@@ -10,7 +10,7 @@ export default function App() {
     <div className="min-h-screen bg-background">
       <TopNavigation />
       <FilterCheckedBar />
-      <div className="flex min-h-[calc(100vh-4rem-10rem)] m-5 gap-4 mt-0">
+      <div className="flex min-h-[calc(100vh-4rem-10rem)] m-5 gap-4 mt-16">
         <SideNavigation />
         <main className="min-h-[calc(100vh-4rem)]">
           <ProductList/>

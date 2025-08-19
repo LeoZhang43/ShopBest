@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { AutoComplete, Input } from 'antd';
-import { setQuery } from '../../store/searchSlice';
+import { setQuery, resetSearchState } from '../../store/searchSlice';
+import { resetFilter } from '../../store/filterSlice';
 import { useSelector, useDispatch } from "react-redux";
 import { useQuery } from '@tanstack/react-query';
 
@@ -35,12 +36,18 @@ export function AutoCompletion() {
   });
 
   const onChange = (value: string) => {
+    dispatch(resetSearchState());
+    dispatch(resetFilter());
     dispatch(setQuery(value));
   };
   const onSearch = (value: string) => {
+    dispatch(resetSearchState());
+    dispatch(resetFilter());
     dispatch(setQuery(value));
   };
   const onSelect = (_value: string, option: any) => {
+    dispatch(resetSearchState());
+    dispatch(resetFilter());
     dispatch(setQuery(option.label));
   };
 

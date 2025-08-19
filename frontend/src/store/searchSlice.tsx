@@ -4,6 +4,7 @@ import { SearchParameters, ShoppingResults } from "../type";
 interface SearchState {
   products: ShoppingResults[];
   search_parameters: SearchParameters;
+  previous_search_status: SearchParameters[];
 }
 
 const initialState: SearchState = {
@@ -15,8 +16,9 @@ const initialState: SearchState = {
     google_domain: "",
     hl: "",
     q: "",
-    shoprs: "",
+    shoprs: ""
   },
+  previous_search_status: []
 };
 
 const searchSlice = createSlice({
@@ -30,10 +32,18 @@ const searchSlice = createSlice({
       state.search_parameters.q = action.payload;
     },
     setSearchParameters(state, action: PayloadAction<SearchParameters>) {
+      state.previous_search_status.push(state.search_parameters);
       state.search_parameters = action.payload;
+    },
+    goBackToPreviousStatus(state){
+      state.previous_search_status = state.previous_search_status.slice(0, state.previous_search_status.length - 1);
+      state.search_parameters = state.previous_search_status[state.previous_search_status.length - 1];
+    },
+    resetSearchState() {
+      return initialState;
     }
   },
 });
 
-export const { setProducts, setQuery, setSearchParameters } = searchSlice.actions;
+export const { setProducts, setQuery, setSearchParameters, goBackToPreviousStatus, resetSearchState } = searchSlice.actions;
 export default searchSlice.reducer;

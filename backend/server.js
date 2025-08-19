@@ -51,9 +51,10 @@ app.get("/api/products", async (req, res) => {
   if (!query) {
     return res.status(400).json({ error: "Query parameter 'q' is required" });
   }
+  console.log(req.query);
 
   try {
-    const results = await searchGoogle(query);
+    const results = await searchGoogle(req.query);
     res.json(results);
   } catch (error) {
     console.error("Error in /api/products:", error);

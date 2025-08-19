@@ -24,6 +24,7 @@ export interface ShoppingResults {
   old_price: string
   tag: string
 }
+
 export interface SearchParameters {
   device: string;
   engine: string;
