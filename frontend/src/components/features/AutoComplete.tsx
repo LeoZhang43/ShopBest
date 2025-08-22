@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { AutoComplete, Input } from 'antd';
-import { setQuery, resetSearchState } from '../../store/searchSlice';
+import { setLocalQuery, resetSearchState, setSearchParameters, setSearchParameterChangeLocally } from '../../store/searchSlice';
 import { resetFilter } from '../../store/filterSlice';
 import { useSelector, useDispatch } from "react-redux";
 import { useQuery } from '@tanstack/react-query';
@@ -24,7 +24,8 @@ async function fetchSuggestions(query: string) {
 }
 
 export function AutoCompletion() {
-  const query = useSelector((state: any) => state.search.search_parameters.q);
+  const query = useSelector((state: any) => state.search.local_query);
+  const search_parameters = useSelector((state: any) => state.search.search_parameters);
   const dispatch = useDispatch();
   const debouncedQuery = useDebounce(query, 300);
 
@@ -35,29 +36,34 @@ export function AutoCompletion() {
     staleTime: 5 * 60 * 1000,
   });
 
-  const onChange = (value: string) => {
-    dispatch(resetSearchState());
-    dispatch(resetFilter());
-    dispatch(setQuery(value));
-  };
   const onSearch = (value: string) => {
+    console.log("value: ", value);
     dispatch(resetSearchState());
     dispatch(resetFilter());
-    dispatch(setQuery(value));
+    dispatch(setSearchParameters({
+      ...search_parameters,
+      q: value,
+    }));
+    dispatch(setLocalQuery(value));
+    dispatch(setSearchParameterChangeLocally(true));
   };
   const onSelect = (_value: string, option: any) => {
     dispatch(resetSearchState());
     dispatch(resetFilter());
-    dispatch(setQuery(option.label));
+    dispatch(setSearchParameters({
+      ...search_parameters,
+      q: option.label,
+    }));
+    dispatch(setLocalQuery(option.label));
+    dispatch(setSearchParameterChangeLocally(true));
   };
 
   return (
     <AutoComplete
       options={options}
       style={{ width: 400 }}
-      onChange={onChange}
-      onSelect={onSelect}
       onSearch={onSearch}
+      onSelect={onSelect}
       value={query}
     >
       <Input

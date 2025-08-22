@@ -1,7 +1,7 @@
 import { useSelector, useDispatch } from "react-redux";
 import { RootState } from "../../store/store";
 import { CloseOutlined } from "@ant-design/icons";
-import { setSearchParameters, goBackToPreviousStatus } from '../../store/searchSlice';
+import { setSearchParameters, goBackToPreviousStatus, setSearchParameterChangeLocally, setPushToPreviousSearchStatus } from '../../store/searchSlice';
 import { resetFilter, removeLastCheckedElement } from '../../store/filterSlice';
 
 export function FilterCheckedBar() {
@@ -14,6 +14,8 @@ export function FilterCheckedBar() {
   );
   if (!checked_elements || checked_elements.length === 0) return null;
   const handleClick = (element: any, idx: number) => {
+    dispatch(setSearchParameterChangeLocally(true));
+    dispatch(setPushToPreviousSearchStatus(false));
     if(idx != checked_elements.length - 1){
       dispatch(setSearchParameters({
         ...search_parameters,

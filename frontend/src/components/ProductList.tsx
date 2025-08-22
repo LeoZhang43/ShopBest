@@ -1,7 +1,7 @@
 import { ProductCard } from "./ProductCard";
 import { useSelector, useDispatch } from "react-redux";
 import { useEffect } from "react";
-import { setProducts, setSearchParameters } from "../store/searchSlice";
+import { setProducts, setSearchParameters, setSearchParameterChangeLocally, setPushToPreviousSearchStatus } from "../store/searchSlice";
 import { setFilter } from "../store/filterSlice";
 import { RootState } from "../store/store";
 import { GoogleShopping, ShoppingResults, FilterElements, SearchParameters } from "../type";
@@ -9,6 +9,7 @@ import { GoogleShopping, ShoppingResults, FilterElements, SearchParameters } fro
 export function ProductList(){
     const {
         products, 
+        search_parameters_change_locally
     } = useSelector((state: RootState) => state.search);
     const {
         device,
@@ -40,7 +41,7 @@ export function ProductList(){
     useEffect(() => {
         const controller = new AbortController();
         async function fetchData() {
-            if(!query){
+            if(!query || !search_parameters_change_locally){
                 return;
             }
             const params = new URLSearchParams({
@@ -52,6 +53,7 @@ export function ProductList(){
                 google_domain,
                 shoprs,
             });
+
             try {
                 const res = await fetch(`http://localhost:8000/api/products?${params.toString()}`, {
                     signal: controller.signal,
@@ -62,7 +64,10 @@ export function ProductList(){
                 if (err.name !== "AbortError") {
                     console.error(err);
                 }
-            } 
+            } finally {
+                dispatch(setSearchParameterChangeLocally(false));
+                dispatch(setPushToPreviousSearchStatus(true));
+            }
         }
 
         fetchData();

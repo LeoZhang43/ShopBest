@@ -2,7 +2,7 @@ import { useSelector, useDispatch } from "react-redux";
 import { RootState } from "../store/store";
 import { TagOutlined, TruckOutlined, SyncOutlined, BankOutlined, EnvironmentOutlined, CarOutlined } from "@ant-design/icons";
 import { SearchParameters } from "../type";
-import { setSearchParameters } from "../store/searchSlice";
+import { setSearchParameters, setSearchParameterChangeLocally } from "../store/searchSlice";
 import { addChecked } from "../store/filterSlice";
 
 export function SideNavigation() {
@@ -28,6 +28,7 @@ export function SideNavigation() {
         dispatch(addChecked({
           text: text
         }));
+        dispatch(setSearchParameterChangeLocally(true));
   };
   const getIcon = (text: string) => {
     if (text.includes("Get it today")) return <TruckOutlined />;
@@ -68,7 +69,6 @@ export function SideNavigation() {
                   </div>
                 </div>
               );
-
             case "link":
             case "price_range":
             case "checkbox":
