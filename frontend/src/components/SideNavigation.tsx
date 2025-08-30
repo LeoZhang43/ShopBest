@@ -41,14 +41,14 @@ export function SideNavigation() {
 
   return (
     <aside>
-      <form className="flex flex-col gap-2 p-4 rounded-[16px] bg-[#f3f5f6] w-48">
+      <form className="flex flex-col gap-2 p-4 rounded-[16px] bg-[#f3f5f6]">
         {filterData.map((filterCatagory, idx) => {
           switch (filterCatagory.input_type) {
 
             case "link_with_icon":
               return (
                 <div key={idx} className="border-b border-gray-100 pb-3">
-                  <p className="text-base font-medium text-gray-700 mb-2">
+                  <p className="text-gray-700 mb-2">
                     Refine Results
                   </p>
                   <div className="flex flex-col gap-1">
@@ -56,7 +56,7 @@ export function SideNavigation() {
                       <a
                         href="#"
                         key={oIdx}
-                        className="text-neutral-600 text-sm hover:text-stone-950"
+                        className="text-neutral-600 hover:text-stone-950"
                         onClick={(e) => {
                           e.preventDefault();
                           onClick(option.serpapi_link, option.text);
@@ -74,7 +74,7 @@ export function SideNavigation() {
             case "checkbox":
               return (
                 <div key={idx} className="border-b border-gray-100 pb-3">
-                  <p className="text-base font-medium text-gray-700 mb-2">
+                  <p className="text-gray-700 mb-2">
                     {filterCatagory.type}
                   </p>
                   <div className="flex flex-col gap-1">
@@ -82,7 +82,7 @@ export function SideNavigation() {
                       <a
                         href="#"
                         key={oIdx}
-                        className="text-neutral-500 text-sm hover:text-stone-950"
+                        className="text-neutral-500 hover:text-stone-950"
                         onClick={(e) => {
                           e.preventDefault();
                           onClick(option.serpapi_link, option.text);
@@ -97,7 +97,7 @@ export function SideNavigation() {
             case "color":
               return (
                 <div key={idx} className="border-b border-gray-100 pb-3">
-                  <p className="text-base font-medium text-gray-700 mb-2">
+                  <p className=" text-gray-700 mb-2">
                     {filterCatagory.type}
                   </p>
                   <div className="flex flex-col gap-1">
@@ -105,7 +105,7 @@ export function SideNavigation() {
                       <a
                         href="#"
                         key={oIdx}
-                        className="flex items-center text-neutral-600 text-sm hover:text-stone-950 gap-2"
+                        className="flex items-center text-neutral-600 hover:text-stone-950 gap-2"
                         onClick={(e) => {
                           e.preventDefault();
                           onClick(option.serpapi_link, option.text);

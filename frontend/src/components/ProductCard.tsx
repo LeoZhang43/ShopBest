@@ -47,14 +47,14 @@ export function ProductCard({
         
         <div className="px-4 py-2 grid grid-rows-[3fr_1fr_1fr_1fr_40px] h-full">
           <div className="flex items-start overflow-hidden">
-            <h3 className="font-medium leading-5 line-clamp-3">
+            <h3 className="leading-5 line-clamp-3">
               {title}
             </h3>
           </div>
           <div className="flex items-center gap-2">
             <span className="text-base">{price}</span>
             {old_price && (
-              <span className="text-sm text-muted-foreground line-through">
+              <span className="text-muted-foreground line-through">
                 {old_price}
               </span>
             )}
@@ -75,7 +75,7 @@ export function ProductCard({
                     />
                   ))}
                 </div>
-                <span className="text-sm text-muted-foreground">
+                <span className="text-muted-foreground">
                   ({reviews})
                 </span>
               </div>
@@ -104,7 +104,7 @@ export function ProductCard({
               alt={source}
               className="h-5 w-5 rounded"
             />
-            <span className="text-sm text-muted-foreground">{source}</span>
+            <span className="text-muted-foreground">{source}</span>
           </div>
         </div>
       </Card>

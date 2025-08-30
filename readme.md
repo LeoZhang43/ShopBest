@@ -25,10 +25,18 @@ Add side bar and top navi bar function<br>
 Make side bar and top bar working<br>
 Up to this time, this project could work and function properly. However, it still have many optential problems and uncompleted optimization
 1. ~~variable storage may need clearify and optimize<br>~~
-2. responsoble layout<br>
+2. ~~responsible layout<br>~~
 3. lower latency<br>
 4. abstract shared UI and store logic<br>
 5. filter and query logic still have some bug<br>
 6. Upload and running in online environment<br>
+7. Theme change<br>
+8. Authority and security<br>
+9. find bottleneck of entir system<br>
 ### 2025-8-21
 Optimize variable management and avoid cyclic update by judging the source of update<br>
+### 2025-8-29
+Implement Responsive layout to made it fit mobile platform<br>
+1. use media query to adjust layout with different side screen<br>
+2. use rem and vw vh to adjust font size<br>
+3. implement flex shrink and grow to adjust width of side bar<br>

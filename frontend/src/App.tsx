@@ -7,14 +7,16 @@ import { FilterCheckedBar } from "./components/features/FilterCheckedBar";
 export default function App() {
 
   return (
-    <div className="min-h-screen bg-background">
+    <div className="mx-3">
       <TopNavigation />
       <FilterCheckedBar />
-      <div className="flex min-h-[calc(100vh-4rem-10rem)] m-5 gap-4 mt-16">
-        <SideNavigation />
-        <main className="min-h-[calc(100vh-4rem)]">
-          <ProductList/>
-        </main>
+      <div className="flex gap-2">
+        <div className="flex-[0_0_33%] max-w-[12rem]">
+          <SideNavigation />
+        </div>
+        <div className="flex-1">
+          <ProductList />
+        </div>
       </div>
       <Footer />
     </div>

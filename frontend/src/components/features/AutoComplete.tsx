@@ -61,10 +61,10 @@ export function AutoCompletion() {
   return (
     <AutoComplete
       options={options}
-      style={{ width: 400 }}
       onSearch={onSearch}
       onSelect={onSelect}
       value={query}
+      className="rounded-full shadow-md h-10 w-full"
     >
       <Input
         placeholder="Search products"

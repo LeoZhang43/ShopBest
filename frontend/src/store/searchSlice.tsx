@@ -19,10 +19,10 @@ const initialState: SearchState = {
     gl: "",
     google_domain: "",
     hl: "",
-    q: "",
+    q: "suggest",
     shoprs: ""
   },
-  search_parameters_change_locally: false,
+  search_parameters_change_locally: true,
   push_to_previous_search_status: true,
   previous_search_status: []
 };
