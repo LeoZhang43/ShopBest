@@ -67,11 +67,11 @@ query3: {
 } 
 ```
 As you can see, razer + nearby + onsale is not independent parameters, in fact, they are additive on previous results. That would introduce a new problem, if I delete nearby, I can simply return to previous page. But what if I want to delete onsale? There is no way that I can get shoprs for single onsale filter without extra query.
-<hr>
+~~~~~
 I check some blog and article, [Filtering Google Shopping results](https://serpapi.com/blog/filtering-google-shopping-results/?utm_source=chatgpt.com), in previous, filters act independently and combine based on query. However, with more and more products in Google, it would cause high latency to filter them one by one, so google use a strategy that narrow down searach scope before next query arrives.
-<hr>
+~~~~~
 In the end, there would be two methods
 1. when user delete filters, if it is the last one, go back to previous page, if it is not, re-search and remove all filters
 2. when user delete filters, use current filters to query for shoprs(extra api) and search using that para
-<hr>
+~~~~~
 I prefer using the second option as it handle all operation with same logic, which made the system more consistency
