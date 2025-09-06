@@ -17,8 +17,8 @@ const filterSlice = createSlice({
     addChecked(state, action: PayloadAction<CheckedElements>) {
       state.checked_elements.push(action.payload);
     },
-    removeLastCheckedElement(state){
-      state.checked_elements = state.checked_elements.slice(0, state.checked_elements.length - 1);
+    removeCheckedByIndex(state, action: PayloadAction<number>) {
+      state.checked_elements.splice(action.payload, 1);
     },
     resetFilter() {
       return initialState;
@@ -26,5 +26,5 @@ const filterSlice = createSlice({
   },
 });
 
-export const { setFilter, addChecked, resetFilter, removeLastCheckedElement } = filterSlice.actions;
+export const { setFilter, addChecked, resetFilter, removeCheckedByIndex } = filterSlice.actions;
 export default filterSlice.reducer;

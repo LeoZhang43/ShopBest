@@ -44,7 +44,6 @@ export function SideNavigation() {
       <form className="flex flex-col gap-2 p-4 rounded-[16px] bg-[#f3f5f6]">
         {filterData.map((filterCatagory, idx) => {
           switch (filterCatagory.input_type) {
-
             case "link_with_icon":
               return (
                 <div key={idx} className="border-b border-gray-100 pb-3">

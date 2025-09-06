@@ -9,12 +9,12 @@ export default function App() {
   return (
     <div className="mx-3">
       <TopNavigation />
-      <FilterCheckedBar />
       <div className="flex gap-2">
         <div className="flex-[0_0_33%] max-w-[12rem]">
           <SideNavigation />
         </div>
         <div className="flex-1">
+          <FilterCheckedBar />
           <ProductList />
         </div>
       </div>
