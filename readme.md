@@ -73,3 +73,6 @@ In the end, there would be two methods<br>
 1. when user delete filters, if it is the last one, go back to previous page, if it is not, re-search and remove all filters<br>
 2. when user delete filters, use current filters to query for shoprs(extra api) and search using that para<br>
 I prefer using the second option as it handle all operation with same logic, which made the system more consistency<br>
+
+### 2025-10-7
+Implement a autocomplete on AWS, using DynamoDB and API Gateway to search based on prefix of terms.
